@@ -1837,3 +1837,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 19:49:01.490] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
 [22Jun2025 19:49:01.809] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
 [22Jun2025 19:49:37.008] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 19:53:50.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Jun2025 19:53:50.359] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[22Jun2025 19:53:50.360] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Jun2025 19:53:50.361] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Jun2025 19:53:50.361] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:53:50.362] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[22Jun2025 19:53:50.363] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:54:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Stone Age]
+[22Jun2025 19:54:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Getting an Upgrade]
+[22Jun2025 19:56:49.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was poked to death by a sweet berry bush
+[22Jun2025 19:56:49.982] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 19:57:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> -78 85 -225
+[22Jun2025 19:57:20.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to -76.500000, 85.000000, -224.500000]
+[22Jun2025 19:57:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Suit Up]
+[22Jun2025 19:58:50.936] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[22Jun2025 19:58:50.937] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[22Jun2025 19:58:50.937] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[22Jun2025 19:58:50.937] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[22Jun2025 19:58:50.938] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.938] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.938] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.938] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.938] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.939] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.939] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[22Jun2025 19:58:50.939] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[22Jun2025 19:58:50.939] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[22Jun2025 19:58:50.939] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[22Jun2025 19:58:50.940] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[22Jun2025 19:58:50.940] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[22Jun2025 19:58:50.940] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[22Jun2025 19:58:50.940] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[22Jun2025 19:58:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Minecraft Comes Alive]
+[22Jun2025 20:02:02.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Take Aim, Chaps!]
+[22Jun2025 20:02:08.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Bonfire Lit]
+[22Jun2025 20:02:10.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi froze to death
+[22Jun2025 20:02:10.543] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:02:31.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Disconnected
+[22Jun2025 20:02:31.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[22Jun2025 20:02:31.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[22Jun2025 20:02:31.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked caraputi: Kicked by an operator]
+[22Jun2025 20:02:31.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jun2025 20:03:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Crops of the Wild]
+[22Jun2025 20:03:32.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15045, l='ServerLevel[medieval]', x=-603.70, y=114.00, z=-1126.70] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 20:03:39.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43bd2eef[id=<null>,name=caraputi,properties={},legacy=false] (/127.221.0.19:56859) lost connection: Disconnected
+[22Jun2025 20:03:46.918] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[22Jun2025 20:03:46.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:41511] logged in with entity id 18307 at (-374.62761354690446, 62.496825679076025, -408.35209918899153)
+[22Jun2025 20:03:46.996] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[22Jun2025 20:03:46.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[22Jun2025 20:03:47.017] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[22Jun2025 20:03:47.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[22Jun2025 20:03:47.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[22Jun2025 20:04:02.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 20:04:03.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 20:04:03.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat

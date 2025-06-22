@@ -4819,6 +4819,24 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-22 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-22 19:55:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -4830,6 +4848,18 @@
       "tick": "2025-06-22 19:48:12 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-06-22 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
+    },
+    "done": false
   },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
@@ -4861,6 +4891,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 19:54:52 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -4885,6 +4921,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-06-22 19:54:52 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -4894,6 +4936,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-06-22 19:55:50 +0000"
     },
     "done": true
   },
@@ -4915,6 +4963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-22 19:55:39 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -4933,6 +4987,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-06-22 19:58:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -4942,6 +5002,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-06-22 19:50:52 +0000"
     },
     "done": true
   },
@@ -4960,6 +5026,12 @@
   "mca:recipes/decorations/cyan_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-22 19:54:52 +0000"
     },
     "done": true
   },
@@ -4993,9 +5065,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-06-22 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-06-22 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-06-22 19:51:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-22 19:53:11 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-06-22 19:55:50 +0000"
     },
     "done": true
   },
@@ -5008,6 +5116,12 @@
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
     },
     "done": true
   },
@@ -5083,6 +5197,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -5101,6 +5239,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-06-22 19:55:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -5110,6 +5254,12 @@
   "mca:recipes/decorations/cyan_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-22 19:55:39 +0000"
     },
     "done": true
   },

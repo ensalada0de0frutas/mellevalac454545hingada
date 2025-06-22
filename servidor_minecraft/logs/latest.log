@@ -2060,3 +2060,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 21:35:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Chain Death]
 [22Jun2025 21:35:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was doomed to fall by Sofx0Loder
 [22Jun2025 21:35:41.082] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[22Jun2025 21:36:05.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder died because of Flancito0_
+[22Jun2025 21:36:05.774] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:36:31.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was doomed to fall by Sofx0Loder
+[22Jun2025 21:36:31.527] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[22Jun2025 21:36:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 21:36:55.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:36:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:37:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 21:37:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:37:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Cover Me with Diamonds]
+[22Jun2025 21:38:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Back to childhood]
+[22Jun2025 21:38:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Not even afraid of death]
+[22Jun2025 21:38:52.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 21:39:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:39:14.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder hit the ground too hard
+[22Jun2025 21:39:14.351] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:39:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:40:37.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was blown up by Sofx0Loder
+[22Jun2025 21:40:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was blown up by Sofx0Loder
+[22Jun2025 21:40:37.633] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:40:37.634] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[22Jun2025 21:41:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 21:41:23.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:41:26.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:42:01.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Hoglin
+[22Jun2025 21:42:01.603] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:42:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:42:16.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 21:42:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:44:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:44:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Wither Skeleton
+[22Jun2025 21:44:36.557] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[22Jun2025 21:44:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Wither Skeleton
+[22Jun2025 21:44:44.015] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:44:49.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tp
+[22Jun2025 21:44:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 21:44:58.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:45:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:45:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Wither Skeleton
+[22Jun2025 21:45:17.707] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:45:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:45:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[22Jun2025 21:45:28.904] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:45:33.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]

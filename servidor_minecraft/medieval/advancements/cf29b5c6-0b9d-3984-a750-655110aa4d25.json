@@ -95,6 +95,7 @@
       "minecraft:cold_ocean": "2025-06-22 00:22:11 +0000",
       "minecraft:forest": "2025-06-21 22:32:48 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 00:22:46 +0000",
+      "minecraft:ocean": "2025-06-22 21:35:13 +0000",
       "minecraft:snowy_beach": "2025-06-22 16:57:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 20:11:35 +0000",
       "minecraft:meadow": "2025-06-22 20:01:21 +0000",
@@ -832,6 +833,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-21 23:16:48 +0000",
       "minecraft:skeleton": "2025-06-21 23:15:56 +0000",
+      "minecraft:hoglin": "2025-06-22 21:39:35 +0000",
       "minecraft:vindicator": "2025-06-22 20:13:53 +0000",
       "minecraft:spider": "2025-06-22 00:01:32 +0000",
       "minecraft:creeper": "2025-06-22 21:32:50 +0000",
@@ -4897,6 +4899,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 21:33:14 +0000"
@@ -4948,6 +4956,12 @@
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-06-22 20:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-22 21:40:15 +0000"
     },
     "done": true
   },
@@ -5071,6 +5085,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5182,6 +5202,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-06-22 20:08:01 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-22 21:34:48 +0000"
     },
     "done": true
   },
@@ -5413,6 +5439,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-06-22 21:33:14 +0000"
@@ -5446,6 +5478,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 21:34:48 +0000"
     },
     "done": true
   },
@@ -5494,6 +5532,12 @@
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-22 21:40:15 +0000"
     },
     "done": true
   },
@@ -5713,6 +5757,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-06-22 20:07:29 +0000"
@@ -5737,6 +5787,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5746,6 +5802,12 @@
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-22 21:34:48 +0000"
     },
     "done": true
   },
@@ -6082,6 +6144,12 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-22 21:41:45 +0000"
     },
     "done": true
   },

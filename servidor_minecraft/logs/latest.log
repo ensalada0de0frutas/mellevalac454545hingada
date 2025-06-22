@@ -2209,3 +2209,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 22:24:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Take Aim, Chaps!]
 [22Jun2025 22:24:51.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/129183, l='ServerLevel[medieval]', x=-596.50, y=97.00, z=-1145.67] died, message: 'Butcher was slain by Zombie'
 [22Jun2025 22:25:22.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/129184, l='ServerLevel[medieval]', x=-606.08, y=98.00, z=-1161.70] died, message: 'Mason was slain by Zombie'
+[22Jun2025 22:27:16.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/129199, l='ServerLevel[medieval]', x=-560.05, y=131.00, z=-1169.61] died, message: 'Leatherworker was slain by Zombie'
+[22Jun2025 22:27:16.719] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 22:27:16.719] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 22:28:27.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi fell from a high place
+[22Jun2025 22:28:27.901] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:29:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Fisticuffs]

@@ -5079,6 +5079,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-06-22 22:25:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-22 21:32:42 +0000"
@@ -5136,6 +5142,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-22 22:32:38 +0000"
     },
     "done": true
   },
@@ -5205,6 +5217,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-06-22 22:29:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
@@ -5238,6 +5256,12 @@
   "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
       "has_cherry_sapling": "2025-06-22 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-22 22:34:23 +0000"
     },
     "done": true
   },
@@ -5427,6 +5451,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-22 22:34:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-06-22 20:13:05 +0000"
@@ -5592,6 +5622,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-22 19:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:25:14 +0000"
     },
     "done": true
   },
@@ -5878,6 +5914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-22 22:25:14 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
     "criteria": {
       "hoglin_loin": "2025-06-22 21:34:48 +0000"
@@ -6136,6 +6178,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-22 22:34:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-06-22 21:33:14 +0000"
@@ -6175,6 +6223,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-06-22 22:25:36 +0000"
     },
     "done": true
   },

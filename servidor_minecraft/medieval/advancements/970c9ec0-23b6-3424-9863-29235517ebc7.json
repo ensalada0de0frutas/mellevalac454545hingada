@@ -2005,7 +2005,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-22 19:59:45 +0000",
-      "bread": "2025-06-22 19:51:38 +0000"
+      "bread": "2025-06-22 19:51:38 +0000",
+      "carrot": "2025-06-22 22:21:31 +0000"
     },
     "done": false
   },
@@ -2677,6 +2678,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-22 22:18:42 +0000",
       "entered_ruined_building": "2025-06-22 19:58:37 +0000"
     },
     "done": false
@@ -3497,6 +3499,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-22 22:24:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-06-22 22:10:09 +0000"
@@ -3572,6 +3580,12 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-22 22:24:33 +0000"
     },
     "done": true
   },

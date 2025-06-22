@@ -2202,3 +2202,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 22:13:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [22Jun2025 22:14:17.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
 [22Jun2025 22:14:20.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 22:20:17.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:24:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> e
+[22Jun2025 22:24:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> zz
+[22Jun2025 22:24:32.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [What a Deal!]
+[22Jun2025 22:24:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Take Aim, Chaps!]
+[22Jun2025 22:24:51.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/129183, l='ServerLevel[medieval]', x=-596.50, y=97.00, z=-1145.67] died, message: 'Butcher was slain by Zombie'
+[22Jun2025 22:25:22.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/129184, l='ServerLevel[medieval]', x=-606.08, y=98.00, z=-1161.70] died, message: 'Mason was slain by Zombie'

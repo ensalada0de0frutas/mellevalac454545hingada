@@ -5427,6 +5427,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 20:38:37 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"

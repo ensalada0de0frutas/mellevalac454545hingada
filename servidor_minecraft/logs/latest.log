@@ -1988,3 +1988,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:30:28.421] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [22Jun2025 20:32:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
 [22Jun2025 20:34:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Cursed Soul]
+[22Jun2025 20:35:37.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Ashes 'n Bones]
+[22Jun2025 20:36:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was shot by Skeleton
+[22Jun2025 20:36:23.124] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:36:26.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Disconnected
+[22Jun2025 20:36:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[22Jun2025 20:36:26.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[22Jun2025 20:38:37.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Bone Crusher]
+[22Jun2025 20:39:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Spooky Scary Skeleton]
+[22Jun2025 20:41:18.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder died
+[22Jun2025 20:41:18.661] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved

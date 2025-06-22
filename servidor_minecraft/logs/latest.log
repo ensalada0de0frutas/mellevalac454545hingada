@@ -2294,3 +2294,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 23:15:49.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 23:15:50.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 23:15:50.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[22Jun2025 23:20:37.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 23:20:44.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 23:23:17.910] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.400] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.401] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.401] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.401] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.401] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:23:18.401] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[22Jun2025 23:24:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Ambush]
+[22Jun2025 23:24:08.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[22Jun2025 23:24:38.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/157801, l='ServerLevel[medieval]', x=17.18, y=161.00, z=-1145.43] died, message: 'Librarian hit the ground too hard'
+[22Jun2025 23:27:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 23:27:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 23:29:05.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 23:29:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 23:29:27.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[22Jun2025 23:31:54.517] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/162513, l='ServerLevel[medieval]', x=568.30, y=1.10, z=-1275.70] as it would cause deadlock
+[22Jun2025 23:32:14.854] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/162825, l='ServerLevel[medieval]', x=575.70, y=1.10, z=-820.70] as it would cause deadlock
+[22Jun2025 23:32:56.009] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/163456, l='ServerLevel[medieval]', x=647.86, y=-45.00, z=-775.47] as it would cause deadlock
+[22Jun2025 23:33:42.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was killed by Witch using magic
+[22Jun2025 23:33:42.531] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:35:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Fortuitous Militia]
+[22Jun2025 23:35:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 23:37:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 23:37:26.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:50067] logged in with entity id 165695 at (-862.5, 71.5, -874.8)
+[22Jun2025 23:37:26.991] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[22Jun2025 23:37:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[22Jun2025 23:37:27.026] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)

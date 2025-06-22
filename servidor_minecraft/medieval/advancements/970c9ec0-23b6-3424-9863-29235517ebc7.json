@@ -183,6 +183,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-22 22:52:01 +0000",
       "minecraft:spider": "2025-06-22 20:22:51 +0000",
+      "minecraft:witch": "2025-06-22 23:24:05 +0000",
       "minecraft:zombie": "2025-06-21 22:57:16 +0000"
     },
     "done": false
@@ -3143,27 +3144,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_spruce_counter": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
+      "diamond_boots": "2025-06-22 22:09:39 +0000"
     },
     "done": true
   },
@@ -3176,6 +3159,1044 @@
   "spartanshields:recipes/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_iron_canteen": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-22 22:12:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-22 22:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-22 22:24:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-22 22:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-22 22:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-22 22:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-22 22:24:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-06-22 22:29:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/studded_cestus": {
+    "criteria": {
+      "has_cestus": "2025-06-22 22:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-22 22:31:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-22 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-22 22:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
     },
     "done": true
   },
@@ -3215,39 +4236,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2025-06-22 23:03:17 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/black_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/spring_launcher": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-06-22 22:24:52 +0000"
     },
     "done": true
   },
@@ -3257,129 +4248,9 @@
     },
     "done": true
   },
-  "toughasnails:recipes/tools/empty_iron_canteen": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_spruce_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_blue": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_lime": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-06-22 23:09:24 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/hammer": {
-    "criteria": {
-      "has_hammer": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_heavy_crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_gray": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-06-22 22:09:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/red_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
     },
     "done": true
   },
@@ -3395,54 +4266,6 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/orange_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/yellow_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_warhammer": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/pink_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_parrying_dagger": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_desk": {
     "criteria": {
       "has_acacia_desk": "2025-06-22 22:45:19 +0000"
@@ -3455,27 +4278,9 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/iron_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_rapier": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_battleaxe": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
     },
     "done": true
   },
@@ -3485,45 +4290,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/white_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_dagger": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
     },
     "done": true
   },
@@ -3533,51 +4302,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
-    "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
-    "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
-    "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
-    "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
     },
     "done": true
   },
@@ -3587,21 +4314,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-22 22:43:45 +0000"
     },
     "done": true
   },
@@ -3611,81 +4326,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-22 22:43:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_orange": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_purple": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-22 22:45:19 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_gray_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_red": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/andesite_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:28:26 +0000"
     },
     "done": true
   },
@@ -3701,18 +4350,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
     "criteria": {
       "has_acacia_plank": "2025-06-22 22:45:19 +0000"
@@ -3725,33 +4362,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/blue_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:cestus": {
-    "criteria": {
-      "has_cestus": "2025-06-22 22:29:12 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_blue_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
     },
     "done": true
   },
@@ -3761,39 +4374,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/black_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/iron_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/green_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_battle_hammer": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-06-22 22:24:52 +0000"
     },
     "done": true
   },
@@ -3803,63 +4386,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2025-06-22 23:01:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_spear": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/andesite_pillar_trim": {
-    "criteria": {
-      "has_andesite_pillar_trim": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_saber": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
     },
     "done": true
   },
@@ -3869,39 +4398,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
     },
     "done": true
   },
@@ -3911,9 +4410,225 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-22 22:47:37 +0000"
     },
     "done": true
   },
@@ -3935,87 +4650,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/light_blue_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/studded_cestus": {
-    "criteria": {
-      "has_cestus": "2025-06-22 22:29:12 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/brown_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-22 22:12:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_quarterstaff": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_chest": {
-    "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_halberd": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_flanged_mace": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
     },
     "done": true
   },
@@ -4025,483 +4662,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/iron_boomerang": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:31:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_katana": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_pike": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_drawer": {
-    "criteria": {
-      "has_acacia_drawer": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/andesite_corner_trim": {
-    "criteria": {
-      "has_andesite_corner_trim": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/iron_basic_shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_side_table": {
-    "criteria": {
-      "has_acacia_side_table": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 22:47:37 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/lime_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_tomahawk": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_glaive": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/purple_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_longsword": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-22 23:14:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_item": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/acacia_chest": {
-    "criteria": {
-      "has_acacia_plank": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_couch": {
-    "criteria": {
-      "has_spruce_couch": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_nightstand": {
-    "criteria": {
-      "has_acacia_nightstand": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_lance": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-06-22 22:24:32 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/green_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-06-22 23:01:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_throwing_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_counter": {
-    "criteria": {
-      "has_acacia_counter": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-22 22:31:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_nightstand": {
-    "criteria": {
-      "has_spruce_nightstand": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_black": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/brown_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/andesite": {
-    "criteria": {
-      "has_wood": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_bench": {
-    "criteria": {
-      "has_spruce_bench": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-06-22 22:13:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-06-22 22:24:52 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_green": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bench": {
-    "criteria": {
-      "has_bench": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_longbow": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_drawer": {
-    "criteria": {
-      "has_spruce_drawer": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_greatsword": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-06-22 22:24:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
     },
     "done": true
   },
@@ -4511,81 +4674,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/white_acacia_crib": {
-    "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_fancy_bed": "2025-06-22 22:33:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 22:47:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "mca:recipes/misc/bouquet": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+      "has_item": "2025-06-22 23:01:39 +0000"
     },
     "done": true
   },
-  "mca:recipes/decorations/yellow_acacia_crib": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+      "has_allium": "2025-06-22 23:01:39 +0000"
     },
     "done": true
   },
-  "mca:recipes/decorations/lime_spruce_crib": {
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
-      "has_spruce_planks": "2025-06-22 22:33:31 +0000"
+      "ferrous_wroughtnaut": "2025-06-22 23:03:17 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/iron_scythe": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_chair": {
-    "criteria": {
-      "has_spruce_chair": "2025-06-22 22:33:31 +0000"
+      "has_cooked_chicken": "2025-06-22 23:09:24 +0000"
     },
     "done": true
   },
@@ -4595,123 +4710,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
+      "has_dandelion": "2025-06-22 23:14:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab": {
+  "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
-      "has_andesite": "2025-06-22 22:28:26 +0000"
+      "has_black_sheet": "2025-06-22 23:18:45 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_cupboard": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_spruce_cupboard": "2025-06-22 22:33:31 +0000"
+      "has_black_wool": "2025-06-22 23:18:45 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+  "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
-      "has_spruce_plank": "2025-06-22 22:33:31 +0000"
+      "has_glowstone_dust": "2025-06-22 23:31:52 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_acacia_bridge": {
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-06-22 22:45:19 +0000"
+      "fried_egg": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
+      "has_gray_wool": "2025-06-22 23:21:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
-      "has_planks": "2025-06-22 22:33:31 +0000"
+      "has_gray_cushion": "2025-06-22 23:21:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+  "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
-      "give_recipe": "2025-06-22 22:45:19 +0000"
+      "has_any_ingredient": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/metal": {
+  "minecraft:recipes/decorations/black_bed": {
     "criteria": {
-      "has_wood": "2025-06-22 22:10:09 +0000"
+      "has_black_wool": "2025-06-22 23:18:45 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/pliers": {
+  "supplementaries:recipes/candy": {
     "criteria": {
-      "has_planks": "2025-06-22 22:10:09 +0000"
+      "has_sugar": "2025-06-22 23:25:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "give_recipe": "2025-06-22 22:33:31 +0000"
+      "has_gray_wool": "2025-06-22 23:21:40 +0000"
     },
     "done": true
   },
-  "rechiseled:recipes/misc/chisel": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "recipe_condition": "2025-06-22 22:10:09 +0000"
+      "has_glowstone_dust": "2025-06-22 23:31:52 +0000"
     },
     "done": true
   },
-  "mca:recipes/decorations/pink_acacia_crib": {
+  "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+      "has_black_cushion": "2025-06-22 23:18:45 +0000"
     },
     "done": true
   },
-  "mca:recipes/decorations/purple_acacia_crib": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+      "fried_egg": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+      "has_egg": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/andesite_bridge_pier": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_planks": "2025-06-22 22:28:26 +0000"
+      "has_gray_wool": "2025-06-22 23:21:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_iron_ingot": "2025-06-22 22:10:09 +0000"
+      "has_smelts_to_glass": "2025-06-22 23:19:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_raw_copper": "2025-06-22 22:43:45 +0000"
+      "has_black_wool": "2025-06-22 23:18:45 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "has_spruce_side_table": "2025-06-22 22:33:31 +0000"
+      "forge:eggs": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },
-  "mca:recipes/decorations/red_acacia_crib": {
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
     "criteria": {
-      "has_acacia_planks": "2025-06-22 22:45:19 +0000"
+      "has_any_ingredient": "2025-06-22 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-06-22 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-06-22 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 23:24:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-06-22 23:25:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-06-22 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-22 23:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-22 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-22 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-22 23:33:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-22 23:22:39 +0000"
     },
     "done": true
   },

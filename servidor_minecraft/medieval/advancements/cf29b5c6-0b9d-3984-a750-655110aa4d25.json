@@ -835,6 +835,7 @@
       "minecraft:vindicator": "2025-06-22 20:13:53 +0000",
       "minecraft:spider": "2025-06-22 00:01:32 +0000",
       "minecraft:husk": "2025-06-22 00:14:01 +0000",
+      "minecraft:cave_spider": "2025-06-22 21:01:22 +0000",
       "minecraft:zombie": "2025-06-21 22:44:53 +0000"
     },
     "done": false
@@ -4929,6 +4930,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-06-22 21:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-22 20:19:52 +0000"
@@ -5082,6 +5089,12 @@
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-22 21:02:10 +0000"
     },
     "done": true
   },
@@ -5349,6 +5362,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-06-22 21:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
@@ -5472,6 +5491,12 @@
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-22 21:02:10 +0000"
     },
     "done": true
   },

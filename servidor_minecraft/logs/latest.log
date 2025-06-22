@@ -2010,3 +2010,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:52:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [22Jun2025 20:52:36.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [22Jun2025 20:52:37.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 20:55:58.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skull Deserter
+[22Jun2025 20:55:58.462] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Jun2025 20:55:58.462] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[22Jun2025 20:55:58.462] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[22Jun2025 20:55:58.462] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[22Jun2025 20:55:58.463] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Jun2025 20:55:58.466] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 20:57:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skull Deserter
+[22Jun2025 20:57:25.463] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved

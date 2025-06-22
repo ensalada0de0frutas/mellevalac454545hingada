@@ -4923,6 +4923,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5079,6 +5085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:46:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5178,6 +5190,12 @@
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 21:53:56 +0000"
     },
     "done": true
   },
@@ -5481,6 +5499,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-22 21:49:07 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 21:34:48 +0000"
@@ -5556,6 +5580,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-22 19:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_wood_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 21:53:56 +0000"
     },
     "done": true
   },
@@ -5925,6 +5955,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-06-22 21:49:07 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-06-22 21:16:08 +0000"
@@ -5964,6 +6000,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:46:29 +0000"
     },
     "done": true
   },
@@ -6132,6 +6174,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-22 21:53:56 +0000"
     },
     "done": true
   },

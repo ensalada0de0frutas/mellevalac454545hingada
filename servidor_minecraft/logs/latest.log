@@ -2161,3 +2161,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 21:55:25.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> manda cordenadas
 [22Jun2025 21:55:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no asi
 [22Jun2025 21:55:41.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> -879 211 -974
+[22Jun2025 21:56:03.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> y no tas mute en el dc
+[22Jun2025 21:56:22.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -878.500000, 211.000000, -973.500000]
+[22Jun2025 21:56:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -878.500000, 211.000000, -973.500000]
+[22Jun2025 21:56:33.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 21:56:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:57:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> nopuedobajar
+[22Jun2025 21:57:23.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [I slipped]
+[22Jun2025 21:58:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Pray to the Goddess]
+[22Jun2025 21:58:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Pray to the Goddess]
+[22Jun2025 22:01:24.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [You Spin Me Right Round Baby]
+[22Jun2025 22:05:37.124] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[22Jun2025 22:05:37.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:51437] logged in with entity id 124156 at (-719.5, 75.0, -838.5)
+[22Jun2025 22:05:37.176] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[22Jun2025 22:05:37.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[22Jun2025 22:05:37.216] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[22Jun2025 22:05:42.203] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[22Jun2025 22:05:42.203] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[22Jun2025 22:05:49.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 22:05:50.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 22:05:50.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat

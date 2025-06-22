@@ -5125,6 +5125,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_fall": "2025-06-22 21:57:23 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-22 21:30:33 +0000"
@@ -6002,6 +6008,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-22 21:58:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-22 21:14:12 +0000"
@@ -6317,6 +6329,12 @@
   "spartanweaponry:recipes/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 21:57:23 +0000"
     },
     "done": true
   },

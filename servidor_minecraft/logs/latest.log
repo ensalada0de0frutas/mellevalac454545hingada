@@ -1973,3 +1973,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:23:57.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 20:23:58.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 20:23:58.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[22Jun2025 20:25:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Skeleton
+[22Jun2025 20:25:45.135] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 20:25:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Where Is The Stone Pen?]
+[22Jun2025 20:27:30.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[22Jun2025 20:27:30.545] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:28:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Knowledge of Death]
+[22Jun2025 20:28:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Chain Death]
+[22Jun2025 20:28:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[22Jun2025 20:28:31.988] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:29:13.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[22Jun2025 20:29:13.339] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:30:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Zombie
+[22Jun2025 20:30:28.421] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:32:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 20:34:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Cursed Soul]

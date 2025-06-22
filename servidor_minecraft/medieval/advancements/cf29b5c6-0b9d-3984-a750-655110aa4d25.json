@@ -4917,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-22 22:36:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 21:33:14 +0000"
@@ -4932,6 +4938,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-06-22 22:36:23 +0000"
     },
     "done": true
   },
@@ -5103,6 +5115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-22 22:36:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5238,6 +5256,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-06-22 20:08:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 22:36:23 +0000"
     },
     "done": true
   },
@@ -5836,6 +5860,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-22 22:46:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
@@ -6043,6 +6073,12 @@
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-06-22 21:49:07 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 22:36:23 +0000"
     },
     "done": true
   },

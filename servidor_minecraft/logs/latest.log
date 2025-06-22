@@ -2019,3 +2019,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:55:58.466] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
 [22Jun2025 20:57:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skull Deserter
 [22Jun2025 20:57:25.463] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:11:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -859.500000, 81.500000, -882.500000]
+[22Jun2025 21:11:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -753.500000, 91.500000, -837.500000]

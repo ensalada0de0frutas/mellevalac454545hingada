@@ -4814,9 +4814,27 @@
     },
     "done": true
   },
+  "spartanshields:recipes/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_spear": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -4838,9 +4856,27 @@
     },
     "done": true
   },
+  "spartanshields:recipes/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-06-22 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -4874,6 +4910,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
       "place_organic_compost": "2025-06-22 20:04:09 +0000"
@@ -4892,9 +4934,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-22 20:17:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_halberd": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },
@@ -4907,6 +4961,12 @@
   "mca:recipes/decorations/yellow_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -4952,6 +5012,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_scythe": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -4964,6 +5030,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_throwing_knife": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -4973,6 +5051,30 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_parrying_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-22 20:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-22 20:17:15 +0000"
     },
     "done": true
   },
@@ -4994,6 +5096,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-06-22 19:55:50 +0000"
@@ -5012,6 +5120,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_boomerang": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_warhammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -5024,6 +5150,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -5033,6 +5165,18 @@
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_rapier": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5054,9 +5198,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_saber": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5102,6 +5258,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_flanged_mace": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-06-22 19:50:52 +0000"
@@ -5129,6 +5297,30 @@
   "mca:recipes/decorations/cyan_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_katana": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5192,9 +5384,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5210,6 +5414,12 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-22 19:54:52 +0000"
@@ -5222,6 +5432,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_heavy_crossbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-22 19:53:11 +0000"
@@ -5231,6 +5447,24 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_quarterstaff": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },
@@ -5252,6 +5486,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_tomahawk": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -5270,6 +5510,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_lance": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-22 20:01:06 +0000"
@@ -5285,6 +5531,18 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-06-22 20:13:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_battle_hammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },
@@ -5312,15 +5570,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_pike": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_battleaxe": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-06-22 20:12:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5348,6 +5642,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -5360,6 +5660,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-22 20:17:15 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -5369,6 +5675,12 @@
   "rusticdelight:recipes/syrup": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_javelin": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },
@@ -5393,6 +5705,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
     },
     "done": true
   },
@@ -5438,9 +5756,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-06-22 20:11:45 +0000"
     },
     "done": true
   },
@@ -5486,6 +5816,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-22 20:17:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-22 20:15:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 20:07:06 +0000"
@@ -5495,6 +5843,12 @@
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_glaive": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },
@@ -5537,6 +5891,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_greatsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-22 20:14:38 +0000"
     },
     "done": true
   },

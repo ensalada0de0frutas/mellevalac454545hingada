@@ -94,6 +94,7 @@
       "minecraft:forest": "2025-06-21 22:32:48 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 00:22:46 +0000",
       "minecraft:snowy_beach": "2025-06-22 16:57:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-22 20:11:35 +0000",
       "minecraft:meadow": "2025-06-22 20:01:21 +0000",
       "minecraft:plains": "2025-06-21 22:55:40 +0000"
     },
@@ -829,6 +830,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-21 23:16:48 +0000",
       "minecraft:skeleton": "2025-06-21 23:15:56 +0000",
+      "minecraft:vindicator": "2025-06-22 20:13:53 +0000",
       "minecraft:spider": "2025-06-22 00:01:32 +0000",
       "minecraft:husk": "2025-06-22 00:14:01 +0000",
       "minecraft:zombie": "2025-06-21 22:44:53 +0000"
@@ -4829,6 +4831,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -4883,6 +4891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -4895,9 +4909,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-06-22 20:10:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -4925,6 +4951,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-06-22 20:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -4940,6 +4972,12 @@
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-06-22 20:13:54 +0000"
     },
     "done": true
   },
@@ -4997,6 +5035,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-06-22 20:10:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
@@ -5006,6 +5050,18 @@
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -5024,6 +5080,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-22 20:13:54 +0000"
     },
     "done": true
   },
@@ -5051,9 +5113,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-22 20:13:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -5147,9 +5227,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -5177,6 +5269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:56:27 +0000"
@@ -5201,6 +5299,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-22 20:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
@@ -5216,6 +5320,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-06-22 20:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -5237,6 +5347,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5255,6 +5377,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-06-22 20:10:53 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5270,6 +5398,12 @@
   "spartanweaponry:longbow": {
     "criteria": {
       "has_longbow": "2025-06-22 20:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },
@@ -5327,6 +5461,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-22 20:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5354,6 +5500,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-22 20:12:18 +0000"
     },
     "done": true
   },

@@ -93,6 +93,7 @@
       "minecraft:snowy_taiga": "2025-06-22 20:01:07 +0000",
       "minecraft:cold_ocean": "2025-06-22 19:45:00 +0000",
       "minecraft:forest": "2025-06-21 22:42:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-22 20:12:00 +0000",
       "minecraft:meadow": "2025-06-22 20:09:35 +0000",
       "minecraft:plains": "2025-06-21 23:02:57 +0000"
     },
@@ -178,6 +179,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-06-22 20:22:51 +0000",
       "minecraft:zombie": "2025-06-21 22:57:16 +0000"
     },
     "done": false
@@ -2793,15 +2795,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:11:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-06-22 20:06:10 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-22 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/apple_juice": {
     "criteria": {
       "has_apple": "2025-06-22 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
     },
     "done": true
   },
@@ -2817,9 +2849,57 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-06-22 20:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-22 20:10:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 20:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-22 20:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-06-22 20:22:56 +0000"
     },
     "done": true
   },
@@ -2835,9 +2915,27 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-06-22 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-22 20:11:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
     },
     "done": true
   },
@@ -2847,9 +2945,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-22 20:22:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 20:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:11:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-22 20:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-22 20:11:42 +0000"
     },
     "done": true
   },
@@ -2862,6 +2996,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-06-22 20:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-22 20:21:50 +0000"
     },
     "done": true
   },

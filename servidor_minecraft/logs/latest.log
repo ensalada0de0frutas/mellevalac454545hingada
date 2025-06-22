@@ -1923,3 +1923,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:13:47.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Sally'/16705, l='ServerLevel[medieval]', x=-748.21, y=118.00, z=-1124.53] died: Sally was slain by Sofx0Loder
 [22Jun2025 20:13:53.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/16772, l='ServerLevel[medieval]', x=-749.70, y=118.05, z=-1124.52] died: Gunnarr was slain by Sofx0Loder
 [22Jun2025 20:13:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Spooky Scary Skeletons]
+[22Jun2025 20:19:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Sweet Dreams]
+[22Jun2025 20:19:52.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Take Aim]
+[22Jun2025 20:22:04.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Spider
+[22Jun2025 20:22:04.936] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:22:05.045] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Jun2025 20:22:05.045] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[22Jun2025 20:22:05.045] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[22Jun2025 20:22:05.046] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[22Jun2025 20:22:05.046] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Jun2025 20:22:05.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzz
+[22Jun2025 20:22:06.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzz
+[22Jun2025 20:22:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[22Jun2025 20:22:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[22Jun2025 20:22:07.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[22Jun2025 20:22:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[22Jun2025 20:22:08.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zz
+[22Jun2025 20:22:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzzzzz
+[22Jun2025 20:22:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> -739 76 -826
+[22Jun2025 20:22:46.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to -738.500000, 76.000000, -825.500000]
+[22Jun2025 20:22:56.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Spooky Scary Skeletons]
+[22Jun2025 20:23:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzzzzzz
+[22Jun2025 20:23:01.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzzz
+[22Jun2025 20:23:03.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> zz
+[22Jun2025 20:23:04.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> z
+[22Jun2025 20:23:04.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> z
+[22Jun2025 20:23:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> z
+[22Jun2025 20:23:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> z
+[22Jun2025 20:23:06.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22Jun2025 20:23:20.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[22Jun2025 20:23:20.591] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 20:23:20.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Jun2025 20:23:20.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[22Jun2025 20:23:20.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[22Jun2025 20:23:20.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[22Jun2025 20:23:20.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Jun2025 20:23:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked caraputi: Kicked by an operator]
+[22Jun2025 20:23:31.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Kicked by an operator
+[22Jun2025 20:23:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[22Jun2025 20:23:31.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[22Jun2025 20:23:41.033] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[22Jun2025 20:23:41.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:57887] logged in with entity id 28815 at (-750.5, 79.0, -842.5)
+[22Jun2025 20:23:41.097] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[22Jun2025 20:23:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[22Jun2025 20:23:41.126] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[22Jun2025 20:23:41.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[22Jun2025 20:23:41.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[22Jun2025 20:23:42.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to -738.500000, 76.000000, -825.500000]
+[22Jun2025 20:23:57.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 20:23:58.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 20:23:58.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat

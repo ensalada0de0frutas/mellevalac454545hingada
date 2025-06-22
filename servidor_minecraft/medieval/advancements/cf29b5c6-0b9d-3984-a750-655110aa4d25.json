@@ -5001,6 +5001,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-22 20:52:52 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-06-22 20:27:54 +0000"

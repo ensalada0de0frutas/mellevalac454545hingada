@@ -6136,6 +6136,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-06-22 20:49:44 +0000",
+      "has_block": "2025-06-22 20:49:44 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 20:26:26 +0000"
@@ -6151,6 +6158,12 @@
   "mca:recipes/decorations/pink_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-22 20:49:44 +0000"
     },
     "done": true
   },

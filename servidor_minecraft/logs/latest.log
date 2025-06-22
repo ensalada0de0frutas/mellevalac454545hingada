@@ -2031,3 +2031,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 21:24:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
 [22Jun2025 21:24:45.252] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
 [22Jun2025 21:24:46.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:26:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was doomed to fall by Wither Skeleton
+[22Jun2025 21:26:03.607] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:26:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Most Useful Key]
+[22Jun2025 21:26:24.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [A Fast Comeback]
+[22Jun2025 21:26:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:26:47.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 21:27:00.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:27:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[22Jun2025 21:28:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder fell from a high place
+[22Jun2025 21:28:19.356] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:28:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:30:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Bone Crusher]
+[22Jun2025 21:30:21.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Fortuitous Militia]
+[22Jun2025 21:30:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Fortuitous Militia]
+[22Jun2025 21:31:51.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [The Imperial March]
+[22Jun2025 21:32:29.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Imperial March]
+[22Jun2025 21:34:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Hoglin
+[22Jun2025 21:34:26.352] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 21:34:32.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:35:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Hoglin
+[22Jun2025 21:35:04.910] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[22Jun2025 21:35:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 21:35:11.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Here They Come]
+[22Jun2025 21:35:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 21:35:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:35:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[22Jun2025 21:35:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Chain Death]
+[22Jun2025 21:35:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was doomed to fall by Sofx0Loder
+[22Jun2025 21:35:41.082] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved

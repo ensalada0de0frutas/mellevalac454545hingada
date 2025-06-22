@@ -1397,7 +1397,9 @@
     "criteria": {
       "minecraft:pillager": "2025-06-22 00:09:27 +0000",
       "minecraft:skeleton": "2025-06-21 23:22:21 +0000",
+      "minecraft:hoglin": "2025-06-22 21:34:39 +0000",
       "minecraft:spider": "2025-06-21 23:55:38 +0000",
+      "minecraft:phantom": "2025-06-22 21:27:20 +0000",
       "minecraft:wither_skeleton": "2025-06-22 20:33:19 +0000",
       "minecraft:zombie": "2025-06-21 22:56:42 +0000"
     },
@@ -4912,6 +4914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-22 20:26:26 +0000"
@@ -5074,6 +5082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:34:27 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -5095,6 +5109,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 21:30:33 +0000"
     },
     "done": true
   },
@@ -5464,6 +5484,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-06-22 21:32:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_saber": {
     "criteria": {
       "has_steel_ingot": "2025-06-22 20:14:38 +0000"
@@ -5479,6 +5505,12 @@
   "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-06-22 21:27:37 +0000"
     },
     "done": true
   },
@@ -5611,6 +5643,12 @@
   "mca:recipes/decorations/green_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 21:24:45 +0000"
     },
     "done": true
   },
@@ -6360,6 +6398,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-22 21:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-22 20:41:59 +0000"
@@ -6417,6 +6461,12 @@
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-06-22 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-22 21:34:27 +0000"
     },
     "done": true
   },

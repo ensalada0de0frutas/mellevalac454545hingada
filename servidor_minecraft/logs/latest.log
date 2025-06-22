@@ -1798,3 +1798,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 19:37:07.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 19:37:08.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 19:37:08.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[22Jun2025 19:44:45.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/671, l='ServerLevel[medieval]', x=-1125.03, y=62.56, z=37.31] died, message: 'Farmer was slain by Drowned'
+[22Jun2025 19:44:45.110] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 19:44:45.110] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 19:45:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 19:45:53.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 19:45:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[22Jun2025 19:46:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 19:46:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Area Effect Cloud using magic
+[22Jun2025 19:46:16.581] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 19:46:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 19:47:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi froze to death
+[22Jun2025 19:47:01.168] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 19:47:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 19:47:19.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Bonfire Lit]
+[22Jun2025 19:47:32.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Here They Come]
+[22Jun2025 19:48:08.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [The Lighthouse]
+[22Jun2025 19:48:12.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:51307] logged in with entity id 5990 at (2835.699999988079, 88.7531999805212, 2420.025051558169)
+[22Jun2025 19:48:12.796] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[22Jun2025 19:48:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[22Jun2025 19:48:12.848] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[22Jun2025 19:48:17.175] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Jun2025 19:48:17.176] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Jun2025 19:48:17.177] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Jun2025 19:48:17.181] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[22Jun2025 19:48:17.182] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Jun2025 19:48:17.184] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:48:17.184] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:48:17.184] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:48:17.184] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Jun2025 19:48:22.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9167ms or 183 ticks behind
+[22Jun2025 19:48:22.075] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[22Jun2025 19:48:22.076] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[22Jun2025 19:48:24.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[22Jun2025 19:48:25.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[22Jun2025 19:48:25.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[22Jun2025 19:49:01.489] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 19:49:01.490] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 19:49:01.809] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 19:49:37.008] [Worker-Main-3/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:

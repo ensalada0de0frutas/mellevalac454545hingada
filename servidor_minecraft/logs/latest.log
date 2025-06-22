@@ -2328,3 +2328,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 23:37:26.991] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
 [22Jun2025 23:37:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [22Jun2025 23:37:27.026] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[22Jun2025 23:37:30.726] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[22Jun2025 23:37:30.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[22Jun2025 23:37:38.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[22Jun2025 23:37:39.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[22Jun2025 23:37:39.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[22Jun2025 23:37:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni fran
+[22Jun2025 23:38:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> a la llamada
+[22Jun2025 23:38:05.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> al disc
+[22Jun2025 23:40:09.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[22Jun2025 23:40:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Ice Bucket Challenge]
+[22Jun2025 23:42:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to caraputi]
+[22Jun2025 23:45:33.322] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 23:45:37.677] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 23:45:55.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ulf'/168588, l='ServerLevel[medieval]', x=554.65, y=139.00, z=-723.42] died, message: 'Ulf was shot by Pillager'
+[22Jun2025 23:45:55.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ulf'/168588, l='ServerLevel[medieval]', x=554.65, y=139.00, z=-723.42] died: Ulf was shot by Pillager
+[22Jun2025 23:46:32.232] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[22Jun2025 23:47:24.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Village Defender]
+[22Jun2025 23:47:25.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.28788538872231584
+[22Jun2025 23:47:25.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.358162590214647
+[22Jun2025 23:47:25.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.2131497581667645
+[22Jun2025 23:47:25.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.8974399180019645
+[22Jun2025 23:47:25.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.6591522437506683
+[22Jun2025 23:47:25.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.4233900618842199
+[22Jun2025 23:47:54.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 23:48:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 23:50:16.560] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=527, y=223, z=-317}
+[22Jun2025 23:50:16.561] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=527, y=224, z=-317}
+[22Jun2025 23:50:16.561] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=527, y=225, z=-317}
+[22Jun2025 23:50:16.561] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=527, y=226, z=-317}
+[22Jun2025 23:50:17.354] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=535, y=223, z=-322}
+[22Jun2025 23:50:17.360] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=535, y=223, z=-322}
+[22Jun2025 23:50:17.360] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=535, y=222, z=-322}
+[22Jun2025 23:50:32.849] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=575, y=237, z=-327}
+[22Jun2025 23:50:32.849] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=575, y=238, z=-327}
+[22Jun2025 23:50:37.204] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=580, y=247, z=-321}
+[22Jun2025 23:51:24.323] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/178611, l='ServerLevel[medieval]', x=998.30, y=0.10, z=-3111.30] as it would cause deadlock
+[22Jun2025 23:53:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Called Your Bluff]
+[22Jun2025 23:57:09.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi overheated to death
+[22Jun2025 23:57:09.099] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:57:42.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 946 89 -3135

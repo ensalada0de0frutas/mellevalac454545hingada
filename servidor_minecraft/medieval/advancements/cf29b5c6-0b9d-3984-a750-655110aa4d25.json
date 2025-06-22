@@ -5218,6 +5218,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-22 21:16:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
@@ -5473,6 +5479,12 @@
   "spartanweaponry:longbow": {
     "criteria": {
       "has_longbow": "2025-06-22 20:02:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-06-22 21:16:08 +0000"
     },
     "done": true
   },

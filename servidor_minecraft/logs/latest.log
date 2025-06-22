@@ -2280,3 +2280,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 23:03:17.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has completed the challenge [Just a Flesh Wound]
 [22Jun2025 23:05:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -862.500000, 70.500000, -885.500000]
 [22Jun2025 23:06:38.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:15:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked caraputi: Kicked by an operator]
+[22Jun2025 23:15:16.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Kicked by an operator
+[22Jun2025 23:15:16.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[22Jun2025 23:15:16.004] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[22Jun2025 23:15:33.181] [ForkJoinPool.commonPool-worker-22/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[22Jun2025 23:15:33.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:35007] logged in with entity id 152774 at (-533.6999999880791, 93.0, -636.0517703810136)
+[22Jun2025 23:15:33.228] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[22Jun2025 23:15:33.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[22Jun2025 23:15:33.261] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[22Jun2025 23:15:33.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[22Jun2025 23:15:33.870] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[22Jun2025 23:15:49.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 23:15:50.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[22Jun2025 23:15:50.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat

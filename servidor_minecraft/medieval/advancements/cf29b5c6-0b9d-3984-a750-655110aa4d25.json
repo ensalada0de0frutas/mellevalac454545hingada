@@ -5385,6 +5385,12 @@
     },
     "done": true
   },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-06-22 22:55:34 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
@@ -5472,6 +5478,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-22 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-06-22 23:03:31 +0000"
     },
     "done": true
   },
@@ -5604,6 +5616,12 @@
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/studded_cestus": {
+    "criteria": {
+      "has_cestus": "2025-06-22 22:55:34 +0000"
     },
     "done": true
   },

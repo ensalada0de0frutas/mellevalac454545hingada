@@ -2241,3 +2241,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 22:56:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... caraputi  s<--[HERE]
 [22Jun2025 22:56:22.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported caraputi to Sofx0Loder
 [22Jun2025 22:56:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 22:57:04.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 22:57:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 22:57:09.216] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:57:11.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 22:57:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:58:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 22:58:36.922] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:58:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:59:13.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 22:59:13.775] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:59:16.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:59:18.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 22:59:18.618] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:59:24.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:00:01.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Ferrous Wroughtnaut
+[22Jun2025 23:00:01.710] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 23:00:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 23:00:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 23:00:06.821] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:00:17.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:01:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Ferrous Wroughtnaut
+[22Jun2025 23:01:25.910] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 23:01:29.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 23:01:30.030] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:01:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 23:01:44.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/147489, l='ServerLevel[medieval]', x=-618.55, y=92.23, z=-1173.63] died, message: 'Shepherd was slain by Zombie'
+[22Jun2025 23:01:44.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:02:19.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Ferrous Wroughtnaut
+[22Jun2025 23:02:19.503] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 23:02:22.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 23:02:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 23:02:42.168] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:02:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:02:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[22Jun2025 23:02:58.774] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 23:03:00.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 23:03:17.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has completed the challenge [Just a Flesh Wound]
+[22Jun2025 23:05:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -862.500000, 70.500000, -885.500000]
+[22Jun2025 23:06:38.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]

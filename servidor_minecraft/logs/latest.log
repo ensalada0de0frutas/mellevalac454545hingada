@@ -2181,3 +2181,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 22:05:49.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 22:05:50.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 22:05:50.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[22Jun2025 22:09:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:09:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Cover Me with Diamonds]
+[22Jun2025 22:09:44.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya vuelvo, me voy un rataso, tengo k bañarme y hacer otras cosas
+[22Jun2025 22:10:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Acquire Hardware]
+[22Jun2025 22:11:01.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi died because of Sofx0Loder
+[22Jun2025 22:11:01.314] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[22Jun2025 22:11:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 22:11:59.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[22Jun2025 22:11:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[22Jun2025 22:11:59.949] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[22Jun2025 22:12:36.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -644.500000, 72.500000, -661.500000]
+[22Jun2025 22:12:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Isn't It Iron Pick]
+[22Jun2025 22:12:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -547.500000, 116.500000, -631.500000]
+[22Jun2025 22:12:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 22:13:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 22:13:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 22:13:13.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[22Jun2025 22:13:20.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -752.500000, 86.500000, -826.500000]
+[22Jun2025 22:13:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[22Jun2025 22:14:17.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[22Jun2025 22:14:20.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]

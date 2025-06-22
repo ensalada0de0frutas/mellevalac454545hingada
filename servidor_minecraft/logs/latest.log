@@ -1892,3 +1892,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jun2025 20:04:02.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 20:04:03.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
 [22Jun2025 20:04:03.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[22Jun2025 20:04:26.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15046, l='ServerLevel[medieval]', x=-597.85, y=114.75, z=-1134.70] died, message: 'Fisherman was slain by Zombie'
+[22Jun2025 20:04:26.781] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 20:04:26.781] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 20:04:38.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/15047, l='ServerLevel[medieval]', x=-589.31, y=110.00, z=-1118.30] died, message: 'Mason was slain by Zombie'
+[22Jun2025 20:04:38.177] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 20:04:38.177] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 20:05:12.501] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/15844, l='ServerLevel[medieval]', x=-585.30, y=128.00, z=-1239.50] died, message: 'Mason hit the ground too hard'
+[22Jun2025 20:06:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Crops of the Wild]
+[22Jun2025 20:06:31.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Beginner Breadsmithing]
+[22Jun2025 20:08:51.834] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Jun2025 20:08:51.834] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Jun2025 20:08:51.834] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[22Jun2025 20:09:16.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[22Jun2025 20:09:33.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15793, l='ServerLevel[medieval]', x=-544.15, y=113.00, z=-1161.82] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 20:09:33.417] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 20:09:33.417] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 20:10:14.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Suit Up]
+[22Jun2025 20:11:11.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16104, l='ServerLevel[medieval]', x=-598.20, y=119.38, z=-1192.28] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 20:11:28.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15845, l='ServerLevel[medieval]', x=-586.30, y=115.00, z=-1176.36] died, message: 'Unemployed was slain by Zombie'
+[22Jun2025 20:11:45.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Cursed Soul]
+[22Jun2025 20:11:49.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15968, l='ServerLevel[medieval]', x=-613.74, y=118.00, z=-1170.54] died, message: 'Fisherman was slain by Zombie'
+[22Jun2025 20:11:49.165] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[22Jun2025 20:11:49.165] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[22Jun2025 20:13:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Gunnarr
+[22Jun2025 20:13:11.783] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[22Jun2025 20:13:42.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -753.500000, 118.000000, -1124.500000]
+[22Jun2025 20:13:47.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Wally'/16704, l='ServerLevel[medieval]', x=-748.46, y=118.00, z=-1123.13] died: Wally was slain by Sofx0Loder
+[22Jun2025 20:13:47.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['bally'/16706, l='ServerLevel[medieval]', x=-749.55, y=118.00, z=-1125.51] died: bally was slain by Sofx0Loder
+[22Jun2025 20:13:47.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Sally'/16705, l='ServerLevel[medieval]', x=-748.21, y=118.00, z=-1124.53] died: Sally was slain by Sofx0Loder
+[22Jun2025 20:13:53.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/16772, l='ServerLevel[medieval]', x=-749.70, y=118.05, z=-1124.52] died: Gunnarr was slain by Sofx0Loder
+[22Jun2025 20:13:56.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Spooky Scary Skeletons]

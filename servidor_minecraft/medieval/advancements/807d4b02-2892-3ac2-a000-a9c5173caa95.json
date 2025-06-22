@@ -2382,6 +2382,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-21 23:31:51 +0000",
+      "bread": "2025-06-22 20:05:14 +0000",
       "suspicious_stew": "2025-06-22 00:11:45 +0000",
       "mushroom_stew": "2025-06-21 23:09:46 +0000",
       "carrot": "2025-06-21 23:52:46 +0000"
@@ -4837,6 +4838,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-22 20:00:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -4855,6 +4862,24 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-22 20:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-22 20:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-06-22 20:04:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
@@ -4867,6 +4892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -4876,6 +4907,12 @@
   "mca:recipes/decorations/yellow_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-06-22 20:05:59 +0000"
     },
     "done": true
   },
@@ -4897,9 +4934,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-22 20:05:59 +0000"
     },
     "done": true
   },
@@ -4918,6 +4967,12 @@
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
     },
     "done": true
   },
@@ -4945,6 +5000,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -4957,9 +5018,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
     },
     "done": true
   },
@@ -4978,6 +5051,12 @@
   "mca:recipes/decorations/gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-22 20:00:14 +0000"
     },
     "done": true
   },
@@ -5005,6 +5084,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-06-22 19:50:52 +0000"
@@ -5014,6 +5111,12 @@
   "mca:recipes/decorations/green_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
     },
     "done": true
   },
@@ -5029,6 +5132,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-22 19:54:52 +0000"
@@ -5038,6 +5147,18 @@
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-22 20:01:06 +0000"
     },
     "done": true
   },
@@ -5071,11 +5192,23 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-22 19:55:50 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-06-22 20:01:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -5095,9 +5228,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
     },
     "done": true
   },
@@ -5113,6 +5258,24 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-22 20:01:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 19:48:12 +0000"
@@ -5122,6 +5285,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
     },
     "done": true
   },
@@ -5167,6 +5336,18 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
@@ -5185,9 +5366,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/syrup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-22 20:05:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
     },
     "done": true
   },
@@ -5203,9 +5396,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-22 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-06-22 20:06:40 +0000"
     },
     "done": true
   },
@@ -5227,9 +5450,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
     },
     "done": true
   },
@@ -5242,6 +5477,18 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-06-22 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
     },
     "done": true
   },
@@ -5263,6 +5510,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-22 20:00:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 19:48:12 +0000"
@@ -5272,6 +5525,18 @@
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-22 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-06-22 20:07:06 +0000"
     },
     "done": true
   },

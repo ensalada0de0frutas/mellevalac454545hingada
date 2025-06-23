@@ -2017,6 +2017,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-22 19:59:45 +0000",
+      "cooked_beef": "2025-06-23 00:25:17 +0000",
       "bread": "2025-06-22 19:51:38 +0000",
       "golden_apple": "2025-06-22 23:54:31 +0000",
       "cooked_chicken": "2025-06-22 23:41:37 +0000",
@@ -2694,6 +2695,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 22:18:42 +0000",
+      "entered_desert_temple": "2025-06-23 00:30:15 +0000",
       "entered_ruined_building": "2025-06-22 19:58:37 +0000",
       "entered_desert_tomb": "2025-06-22 23:52:35 +0000"
     },
@@ -4763,6 +4765,18 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-22 23:37:04 +0000"
@@ -4772,6 +4786,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:30:15 +0000"
     },
     "done": true
   },
@@ -4802,6 +4822,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-23 00:34:03 +0000"
     },
     "done": true
   },
@@ -5165,6 +5191,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-06-23 00:21:23 +0000"
@@ -5264,6 +5296,12 @@
   "spartanshields:recipes/golden_tower_shield": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-23 00:27:14 +0000"
     },
     "done": true
   },
@@ -5423,6 +5461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-23 00:31:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
     "criteria": {
       "has_birch_plank": "2025-06-22 23:37:04 +0000"
@@ -5507,6 +5551,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-06-22 23:54:03 +0000"
@@ -5552,6 +5602,24 @@
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-22 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:30:15 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-23 00:26:50 +0000"
     },
     "done": true
   },
@@ -5741,6 +5809,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-23 00:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:36:53 +0000"
@@ -5897,6 +5971,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-23 00:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-22 23:37:04 +0000"
@@ -5942,6 +6022,12 @@
   "toughasnails:recipes/tools/thermometer": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-06-23 00:30:59 +0000"
     },
     "done": true
   },
@@ -6008,6 +6094,12 @@
   "mca:recipes/decorations/cyan_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-23 00:27:14 +0000"
     },
     "done": true
   },

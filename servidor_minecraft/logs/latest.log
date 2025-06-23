@@ -76,3 +76,28 @@
 [23Jun2025 00:26:05.662] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [23Jun2025 00:26:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Flancito0_]
 [23Jun2025 00:26:50.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Pray to the Goddess]
+[23Jun2025 00:30:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Traps and Curses]
+[23Jun2025 00:30:17.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[23Jun2025 00:30:55.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Traps and Curses]
+[23Jun2025 00:31:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Traps and Curses]
+[23Jun2025 00:31:51.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Husk
+[23Jun2025 00:31:51.876] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[23Jun2025 00:31:53.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[23Jun2025 00:31:59.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[23Jun2025 00:32:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[23Jun2025 00:32:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:32:52.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:33:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[23Jun2025 00:33:02.719] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:33:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Your First Receptacle]
+[23Jun2025 00:34:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [A Strange Grave Dust]
+[23Jun2025 00:34:19.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[23Jun2025 00:34:19.066] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:34:19.174] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Jun2025 00:34:19.174] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[23Jun2025 00:34:19.174] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Jun2025 00:34:19.174] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Jun2025 00:34:19.174] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[23Jun2025 00:36:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Diamonds!]
+[23Jun2025 00:37:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[23Jun2025 00:38:48.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!

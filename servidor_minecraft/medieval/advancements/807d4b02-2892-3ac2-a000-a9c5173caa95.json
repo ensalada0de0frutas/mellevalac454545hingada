@@ -5174,7 +5174,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000"
+      "entered_tower_of_the_undead": "2025-06-22 19:54:05 +0000",
+      "entered_desert_temple": "2025-06-23 00:30:55 +0000"
     },
     "done": false
   },
@@ -6770,9 +6771,27 @@
     },
     "done": true
   },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:30:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-23 00:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-23 00:25:07 +0000"
     },
     "done": true
   },
@@ -6794,6 +6813,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-23 00:25:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
@@ -6806,9 +6831,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-23 00:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-23 00:19:34 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-23 00:25:07 +0000"
     },
     "done": true
   },
@@ -6818,11 +6855,23 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-23 00:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:30:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
     "criteria": {
@@ -6839,6 +6888,12 @@
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-06-23 00:19:34 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-23 00:25:07 +0000"
     },
     "done": true
   },
@@ -6860,9 +6915,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-06-23 00:25:07 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-06-23 00:25:07 +0000"
     },
     "done": true
   },
@@ -6926,6 +6993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-23 00:27:44 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:51:31 +0000"
@@ -6941,6 +7014,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-23 00:12:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-23 00:24:58 +0000"
     },
     "done": true
   },

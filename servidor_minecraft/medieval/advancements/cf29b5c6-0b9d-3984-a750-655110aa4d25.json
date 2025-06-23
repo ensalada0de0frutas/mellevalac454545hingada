@@ -89,6 +89,8 @@
       "minecraft:taiga": "2025-06-21 22:31:56 +0000",
       "minecraft:cherry_grove": "2025-06-22 20:27:49 +0000",
       "minecraft:birch_forest": "2025-06-22 00:01:03 +0000",
+      "minecraft:wooded_badlands": "2025-06-23 00:25:22 +0000",
+      "minecraft:badlands": "2025-06-23 00:28:23 +0000",
       "minecraft:beach": "2025-06-21 23:08:31 +0000",
       "minecraft:dark_forest": "2025-06-22 23:16:22 +0000",
       "minecraft:river": "2025-06-21 23:03:17 +0000",
@@ -98,6 +100,7 @@
       "minecraft:cold_ocean": "2025-06-22 00:22:11 +0000",
       "minecraft:forest": "2025-06-21 22:32:48 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 00:22:46 +0000",
+      "minecraft:desert": "2025-06-23 00:27:02 +0000",
       "minecraft:ocean": "2025-06-22 21:35:13 +0000",
       "minecraft:snowy_beach": "2025-06-22 16:57:58 +0000",
       "minecraft:frozen_peaks": "2025-06-23 00:11:04 +0000",
@@ -4913,6 +4916,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-06-22 23:34:40 +0000"
@@ -4979,6 +4988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-23 00:31:12 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
     "criteria": {
       "has_cotton_seeds": "2025-06-22 22:36:23 +0000"
@@ -5000,6 +5015,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -5039,6 +5060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 20:12:18 +0000"
@@ -5075,6 +5102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-06-23 00:31:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-06-22 23:55:06 +0000"
@@ -5108,7 +5141,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:56:27 +0000",
-      "entered_pillager_camp": "2025-06-22 23:48:17 +0000"
+      "entered_pillager_camp": "2025-06-22 23:48:17 +0000",
+      "entered_desert_temple": "2025-06-23 00:31:07 +0000"
     },
     "done": false
   },
@@ -5163,6 +5197,18 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-22 21:32:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-23 00:31:12 +0000"
     },
     "done": true
   },
@@ -5223,6 +5269,12 @@
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-06-22 20:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-23 00:33:00 +0000"
     },
     "done": true
   },
@@ -5364,6 +5416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-06-22 20:08:01 +0000"
@@ -5391,6 +5449,12 @@
   "rusticdelight:recipes/food/cherry_blossom_roll": {
     "criteria": {
       "has_cherry_sapling": "2025-06-22 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -5484,6 +5548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5499,6 +5569,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-06-22 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -5532,6 +5608,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-06-23 00:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
@@ -5562,9 +5644,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-06-22 19:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -5718,6 +5812,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5814,6 +5914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-06-22 19:57:54 +0000"
@@ -5862,6 +5968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-23 00:33:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-06-22 21:33:14 +0000"
@@ -5904,9 +6016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-06-22 19:58:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -5976,6 +6100,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -5993,6 +6123,12 @@
       "has_andesite_corner_trim": "2025-06-22 20:12:18 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-06-23 00:31:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
@@ -6091,6 +6227,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-06-23 00:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-22 21:27:26 +0000"
@@ -6100,6 +6242,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-22 23:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },
@@ -6124,6 +6272,12 @@
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-23 00:33:00 +0000"
     },
     "done": true
   },
@@ -6169,6 +6323,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-23 00:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-22 23:28:06 +0000"
@@ -6196,6 +6356,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-06-22 22:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-06-23 00:31:22 +0000"
     },
     "done": true
   },
@@ -6319,6 +6485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-23 00:31:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
@@ -6337,9 +6509,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-06-23 00:31:22 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
     "criteria": {
       "hoglin_loin": "2025-06-22 21:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-23 00:33:11 +0000"
     },
     "done": true
   },
@@ -6497,6 +6681,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-22 23:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-23 00:31:12 +0000"
     },
     "done": true
   },
@@ -6713,6 +6903,12 @@
   "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-23 00:31:07 +0000"
     },
     "done": true
   },

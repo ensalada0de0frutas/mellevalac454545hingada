@@ -181,3 +181,18 @@
 [23Jun2025 01:26:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [A Bone to Pick]
 [23Jun2025 01:26:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [A Bone to Pick]
 [23Jun2025 01:28:48.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[23Jun2025 01:29:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[23Jun2025 01:32:12.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[23Jun2025 01:32:15.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[23Jun2025 01:33:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Half a flight]
+[23Jun2025 01:33:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Half a flight]
+[23Jun2025 01:35:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 01:35:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 01:37:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[23Jun2025 01:37:45.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 01:37:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[23Jun2025 01:37:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 01:37:56.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[23Jun2025 01:38:59.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[23Jun2025 01:39:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Skeleton
+[23Jun2025 01:39:32.917] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved

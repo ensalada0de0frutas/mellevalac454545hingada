@@ -6829,6 +6829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-06-23 01:03:45 +0000"
@@ -6844,6 +6850,12 @@
   "spartanweaponry:recipes/combat/netherite_pike_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-23 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
     },
     "done": true
   },
@@ -6886,6 +6898,12 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-06-23 01:08:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-23 01:33:59 +0000"
     },
     "done": true
   },
@@ -6973,6 +6991,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-06-23 01:26:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-23 01:21:25 +0000"
@@ -6997,6 +7021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
     "criteria": {
       "has_hoglin_loin": "2025-06-23 00:25:07 +0000"
@@ -7012,6 +7042,12 @@
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-06-23 00:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
     },
     "done": true
   },
@@ -7147,6 +7183,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-23 01:33:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-23 01:21:25 +0000"
@@ -7186,6 +7228,12 @@
   "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 01:35:30 +0000"
     },
     "done": true
   },
@@ -7249,6 +7297,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-23 01:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-06-23 00:14:15 +0000"
@@ -7276,7 +7336,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-06-23 01:17:19 +0000",
-      "in_better_spider_dungeon": "2025-06-23 00:49:18 +0000"
+      "in_better_spider_dungeon": "2025-06-23 00:49:18 +0000",
+      "in_better_skeleton_dungeon": "2025-06-23 01:26:35 +0000"
     },
     "done": false
   },
@@ -7325,6 +7386,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-06-23 00:54:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-23 01:33:59 +0000"
     },
     "done": true
   },
@@ -7379,6 +7446,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-23 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-23 01:35:30 +0000"
     },
     "done": true
   },

@@ -4925,6 +4925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-22 21:34:48 +0000"
@@ -5012,6 +5018,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-06-22 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },
@@ -5256,6 +5268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-06-22 20:52:52 +0000"
@@ -5271,6 +5289,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },
@@ -5496,6 +5520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-06-22 23:47:24 +0000"
@@ -5505,6 +5535,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },
@@ -5712,6 +5748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2025-06-22 21:33:14 +0000"
@@ -5880,6 +5922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-23 00:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-22 22:11:48 +0000"
@@ -6019,6 +6067,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sculptor_failure": {
+    "criteria": {
+      "sculptor_failure": "2025-06-23 00:21:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-06-22 21:33:14 +0000"
@@ -6091,9 +6145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },
@@ -6136,6 +6202,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-06-22 19:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },
@@ -6446,6 +6518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-06-22 21:49:07 +0000"
@@ -6674,6 +6752,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-22 23:28:06 +0000"
@@ -6743,6 +6833,12 @@
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 21:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:18:01 +0000"
     },
     "done": true
   },

@@ -45,3 +45,34 @@
 [23Jun2025 00:17:53.141] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
 [23Jun2025 00:18:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Flancito0_]
 [23Jun2025 00:18:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:18:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:19:31.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Rusted Root]
+[23Jun2025 00:19:51.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Rusted Root]
+[23Jun2025 00:20:34.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[23Jun2025 00:20:34.125] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:21:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[23Jun2025 00:21:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:21:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [No One Jumps for the Beef]
+[23Jun2025 00:21:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder fell from a high place
+[23Jun2025 00:21:40.361] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[23Jun2025 00:21:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:22:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:22:35.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Tongbi, the Sculptor
+[23Jun2025 00:22:35.517] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[23Jun2025 00:22:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was doomed to fall
+[23Jun2025 00:22:56.250] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:24:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:24:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was doomed to fall
+[23Jun2025 00:24:12.420] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:24:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:24:30.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:24:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:24:57.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Hoglin
+[23Jun2025 00:24:57.585] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[23Jun2025 00:24:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Most Useful Key]
+[23Jun2025 00:25:07.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [A Fast Comeback]
+[23Jun2025 00:25:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[23Jun2025 00:26:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi overheated to death
+[23Jun2025 00:26:05.662] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:26:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Flancito0_]
+[23Jun2025 00:26:50.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Pray to the Goddess]

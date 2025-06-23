@@ -88,6 +88,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-21 23:50:46 +0000",
       "minecraft:taiga": "2025-06-21 23:50:08 +0000",
       "minecraft:cherry_grove": "2025-06-22 23:42:48 +0000",
+      "minecraft:wooded_badlands": "2025-06-23 00:19:55 +0000",
       "minecraft:beach": "2025-06-21 23:16:29 +0000",
       "minecraft:sparse_jungle": "2025-06-22 23:48:50 +0000",
       "minecraft:river": "2025-06-21 23:25:25 +0000",
@@ -101,6 +102,7 @@
       "minecraft:lush_caves": "2025-06-22 23:50:41 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 00:39:51 +0000",
       "minecraft:frozen_ocean": "2025-06-21 23:52:20 +0000",
+      "minecraft:desert": "2025-06-23 00:15:51 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-22 00:28:51 +0000",
       "minecraft:ocean": "2025-06-22 21:24:28 +0000",
       "minecraft:deep_dark": "2025-06-23 00:12:11 +0000",
@@ -1408,6 +1410,7 @@
       "minecraft:creeper": "2025-06-23 00:06:13 +0000",
       "minecraft:phantom": "2025-06-22 21:27:20 +0000",
       "minecraft:wither_skeleton": "2025-06-22 20:33:19 +0000",
+      "minecraft:husk": "2025-06-23 00:18:12 +0000",
       "minecraft:zombie": "2025-06-21 22:56:42 +0000"
     },
     "done": false
@@ -2396,6 +2399,7 @@
       "bread": "2025-06-22 20:05:14 +0000",
       "golden_apple": "2025-06-22 21:51:41 +0000",
       "suspicious_stew": "2025-06-22 00:11:45 +0000",
+      "enchanted_golden_apple": "2025-06-23 00:22:55 +0000",
       "mushroom_stew": "2025-06-21 23:09:46 +0000",
       "carrot": "2025-06-21 23:52:46 +0000"
     },
@@ -6760,6 +6764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
@@ -6796,6 +6806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-23 00:19:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-06-23 00:12:10 +0000"
@@ -6808,9 +6824,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-23 00:19:34 +0000"
     },
     "done": true
   },
@@ -6862,6 +6890,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-06-23 00:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-06-23 00:14:15 +0000"
@@ -6895,6 +6929,12 @@
   "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-23 00:19:34 +0000"
     },
     "done": true
   },

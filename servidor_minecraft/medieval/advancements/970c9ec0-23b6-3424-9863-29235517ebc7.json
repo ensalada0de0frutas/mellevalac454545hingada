@@ -4751,6 +4751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:24:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
@@ -5123,6 +5129,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-23 00:17:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-06-22 23:37:04 +0000"
@@ -5150,6 +5162,12 @@
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-23 00:21:23 +0000"
     },
     "done": true
   },
@@ -5621,6 +5639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:24:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
@@ -5795,6 +5819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-23 00:24:17 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
@@ -5828,6 +5858,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-22 23:24:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-06-23 00:19:31 +0000"
     },
     "done": true
   },
@@ -5936,6 +5972,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-22 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-06-23 00:21:23 +0000"
     },
     "done": true
   },

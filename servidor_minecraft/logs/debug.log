@@ -26762,3 +26762,269 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jun2025 00:37:36.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [23Jun2025 00:37:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
 [23Jun2025 00:38:48.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[23Jun2025 00:38:59.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:02.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:02.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:04.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:05.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:08.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:10.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:11.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:12.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:19.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:22.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:23.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:39:46.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[23Jun2025 00:39:46.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[23Jun2025 00:40:03.946] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_02 is being run through DFU (hash 55e707490d354effc9f1cddd914cdb3441502e038063ce8a48a6fc5614f7ba06), this will cause launch time delays
+[23Jun2025 00:40:03.972] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/sparse_jungle_tiki_torch_1 is being run through DFU (hash 1780b483f6374055e911f9fded9ad3261051bd0be3a389373de7be596242ae2c), this will cause launch time delays
+[23Jun2025 00:40:04.050] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_01 is being run through DFU (hash 857e566ae3ac19d5e08cd1fd14920e2124f0516655ae378b650fdd219fc72544), this will cause launch time delays
+[23Jun2025 00:40:04.057] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_toolsmith_and_weaponsmith_1 is being run through DFU (hash 4cbddd7addc4f96d1cfb9095afbc727d80c0554d871e1924b1a53a20c92ece6d), this will cause launch time delays
+[23Jun2025 00:40:04.127] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_butcher_and_shepherd_1 is being run through DFU (hash cea44a5fa821878e42d5f5900dc8c41081bfb44cea221e3ecb215e89e3fcc5db), this will cause launch time delays
+[23Jun2025 00:40:04.131] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_armorer_and_mason_1 is being run through DFU (hash 91cb427e973f4c54aa6c35d85ef3a1d6913284b0bc93e59600595809d971b57c), this will cause launch time delays
+[23Jun2025 00:40:04.133] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_leatherworker_1 is being run through DFU (hash 540994973e4067cb27349951181741de85a317ecf2efdcd78843e6bb9e38337f), this will cause launch time delays
+[23Jun2025 00:40:04.135] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_farm_1 is being run through DFU (hash ee25ebaff417fb2ba98f066515e38f8682e0c3ba172763d10fd6cc0cad521f4e), this will cause launch time delays
+[23Jun2025 00:40:04.136] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_farm_1 is being run through DFU (hash 054e07e80507494fcc49acdc079d0dac23876340a3c74c8b3fa04aea05c83853), this will cause launch time delays
+[23Jun2025 00:40:04.139] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_fisher_and_fletcher_1 is being run through DFU (hash ef7f2214384eaecc3a53d1f1783cfdf6f8473b1049abc7b7e509018bd6e5ddd9), this will cause launch time delays
+[23Jun2025 00:40:04.144] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_cartographer_and_library_1 is being run through DFU (hash 1b45937b71377968b1870c51081fc6b7abd4ec816eb7934b3513ad875c25505a), this will cause launch time delays
+[23Jun2025 00:40:04.150] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_1 is being run through DFU (hash 321dfa2656bfb326c7f5b0a2cf2f42d803478266dd1ca1f69ae027995930ef4b), this will cause launch time delays
+[23Jun2025 00:40:04.152] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_2 is being run through DFU (hash 4cbe94afa44200500e02906d3d4f0777767e291b75cd7d3fcd8f7e07d5d20b07), this will cause launch time delays
+[23Jun2025 00:40:04.155] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_3 is being run through DFU (hash aca3328734ea9faf4bf3619d5ade73a4e9a2ce5a3864af82962f56ed53085cdb), this will cause launch time delays
+[23Jun2025 00:40:04.157] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_small_house_4 is being run through DFU (hash 557a4ebe58fd17ddcb91c36a2e817714da46426e5ae6427387d877cfb5a932be), this will cause launch time delays
+[23Jun2025 00:40:04.159] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_1 is being run through DFU (hash 44b13907f7f3ef370184a56e53e39b5b2cb842fef48a70656f40f6f555140e01), this will cause launch time delays
+[23Jun2025 00:40:04.163] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_2 is being run through DFU (hash 917feb647b15615c1285ee8490745a50adead6daf0b8158787d540191dd0b6df), this will cause launch time delays
+[23Jun2025 00:40:04.167] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_medium_house_3 is being run through DFU (hash e941f261991ed9f5befc69e711a7f6d7fa5fb56fec39ba889bd836fad26d1d52), this will cause launch time delays
+[23Jun2025 00:40:04.172] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/houses/sparse_jungle_large_house_1 is being run through DFU (hash 379385449ee01dfad57f6b3abc8c1bcb327549ad11859844f7d59ffd8262d905), this will cause launch time delays
+[23Jun2025 00:40:04.182] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/unemployed is being run through DFU (hash 0132c46fda96cac5f2b646ea9fbe637ff58ea137ceca1902dd82d0522c5f166e), this will cause launch time delays
+[23Jun2025 00:40:04.288] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/baby is being run through DFU (hash 2e43b39e321b248853b6f24d5c71c7db67e12af716a45f709540ecee7a71593a), this will cause launch time delays
+[23Jun2025 00:40:04.295] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/villagers/nitwit is being run through DFU (hash c887dee43b5f957628478cc29acba5caa89a656b59103a746e625112cea76d24), this will cause launch time delays
+[23Jun2025 00:40:04.303] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_04 is being run through DFU (hash 936810bf15b0546a5f6a241befd1c9aaa24cb94cf75efabdcd82e3a4938013b4), this will cause launch time delays
+[23Jun2025 00:40:04.312] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/crossroad_03 is being run through DFU (hash 5ff097713932128378d192aeca55c9ff745fc78111ad6f8ad797781fcf452699), this will cause launch time delays
+[23Jun2025 00:40:04.322] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_01 is being run through DFU (hash a87586f8aaa3538b0ac431337908482ea95df9e053e9f1953e499da67b30b16a), this will cause launch time delays
+[23Jun2025 00:40:04.340] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_02 is being run through DFU (hash 6876783b18ee8e14e962fe3e67b57c2ec75aef1c567aabf6f65e1692264c8401), this will cause launch time delays
+[23Jun2025 00:40:04.342] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/corner_02 is being run through DFU (hash 8ff34e871ca18d1956d8792cf0c01e7ef5bc3f5588224e5b2a9a004c02474fba), this will cause launch time delays
+[23Jun2025 00:40:04.344] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_01 is being run through DFU (hash d9fca7e9254e6485570bacd205ebfe9f74224795a9f671ad9bf329a3d3001d2c), this will cause launch time delays
+[23Jun2025 00:40:04.346] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/streets/straight_03 is being run through DFU (hash 95256ec8c05433e7037f7afdc4cbfa9a5ab4bfdd3dce389c0811d28a1d496bfb), this will cause launch time delays
+[23Jun2025 00:40:04.348] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/terminators/terminator_01 is being run through DFU (hash 2702831c0ef8628181b182c75449dcf84669cc4017285ac49520cf558c5f296c), this will cause launch time delays
+[23Jun2025 00:40:06.767] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1360, y=71, z=-2774}) doesn't have enough leaves around top most log
+[23Jun2025 00:40:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 564.500000, 231.500000, -334.500000]
+[23Jun2025 00:40:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:40:29.088] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[23Jun2025 00:40:29.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[23Jun2025 00:40:29.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[23Jun2025 00:40:29.750] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[23Jun2025 00:40:30.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[23Jun2025 00:40:30.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:41:00.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:41:06.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:41:07.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:41:08.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:41:27.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:41:28.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:42:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:42:10.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:11.118] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:15.703] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:17.605] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:18.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:19.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:21.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:22.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:23.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:23.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:24.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:24.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:25.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:26.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:27.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:42:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:42:48.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:42:48.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi fell from a high place
+[23Jun2025 00:42:48.825] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1540, y:79, z:-2798, dim:minecraft:overworld]
+[23Jun2025 00:42:48.825] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:43:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1540 79 -2798
+[23Jun2025 00:43:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1540.500000, 79.000000, -2797.500000]
+[23Jun2025 00:43:35.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:43:45.224] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[23Jun2025 00:43:45.261] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[23Jun2025 00:43:45.265] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[23Jun2025 00:43:45.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[23Jun2025 00:43:45.278] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[23Jun2025 00:43:45.284] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[23Jun2025 00:43:45.301] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_1 is being run through DFU (hash fa1f924aa834900f127450bbca4ddf20807ad5807442e5d27e158f3e2c4a9c2e), this will cause launch time delays
+[23Jun2025 00:43:45.388] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_0 is being run through DFU (hash 3c764b0bc7c91cf2dfa1c4bb629a1f8b680ec45d3621216d0e5e28d179428ae9), this will cause launch time delays
+[23Jun2025 00:43:45.393] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_2 is being run through DFU (hash ae73f209572847a5f20652eaa24cac43a158c2456b9623e26ecac259528e498b), this will cause launch time delays
+[23Jun2025 00:43:45.682] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:43:46.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved too quickly! -0.3723550132008313,-0.37673561378173304,10.395259368728603
+[23Jun2025 00:43:46.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 4.515857105020132,-0.8322033533667508,9.370157878553528
+[23Jun2025 00:43:49.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elvin'/205331, l='ServerLevel[medieval]', x=1723.39, y=64.00, z=-2884.43] died, message: 'Elvin suffocated in a wall'
+[23Jun2025 00:43:49.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elvin'/205331, l='ServerLevel[medieval]', x=1723.39, y=64.00, z=-2884.43] died: Elvin suffocated in a wall
+[23Jun2025 00:44:01.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:01.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:02.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:03.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:04.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:05.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:05.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:06.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:12.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:12.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:13.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:14.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:15.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:15.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:16.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:44:46.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[23Jun2025 00:44:46.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[23Jun2025 00:44:53.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.4810013249216354
+[23Jun2025 00:44:53.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.8467043659202318
+[23Jun2025 00:44:53.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.2116064077886222
+[23Jun2025 00:44:53.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.5395224639696607
+[23Jun2025 00:44:53.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.9393942442547996
+[23Jun2025 00:45:12.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:13.224] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[23Jun2025 00:45:13.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:14.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:15.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:16.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:16.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:17.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:18.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:19.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:19.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:20.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:21.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:45:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:46:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:46:09.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:10.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:10.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:11.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:12.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:12.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:13.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:39.161] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:46:44.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:45.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:46.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:48.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:49.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:46:49.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:48:04.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[23Jun2025 00:48:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:49:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[23Jun2025 00:49:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[23Jun2025 00:49:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:49:08.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Cobweb Entanglement]
+[23Jun2025 00:49:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Cobweb Entanglement]
+[23Jun2025 00:49:33.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:34.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:42.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:44.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:46.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[23Jun2025 00:49:46.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[23Jun2025 00:49:51.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:51.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:52.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:49:58.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:00.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:01.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:02.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:03.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:03.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:03.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:04.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:07.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:08.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:12.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:13.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:13.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:20.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:28.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:28.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:29.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:36.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Double Hungry]
+[23Jun2025 00:50:49.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:50.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:59.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:50:59.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:51:07.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:51:07.205] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1539, y:50, z:-2580, dim:minecraft:overworld]
+[23Jun2025 00:51:07.215] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:51:17.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:51:17.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:51:19.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ferrous Wroughtnaut
+[23Jun2025 00:51:19.358] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flancito0_ was created at position [x:1533, y:50, z:-2577, dim:minecraft:overworld]
+[23Jun2025 00:51:19.370] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[23Jun2025 00:51:20.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:51:21.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:51:34.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:03.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:04.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:07.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:07.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:08.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:14.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Ferrous Wroughtnaut
+[23Jun2025 00:52:16.543] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sofx0Loder was created at position [x:1539, y:50, z:-2580, dim:minecraft:overworld]
+[23Jun2025 00:52:16.553] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[23Jun2025 00:52:26.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:52:26.854] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1538, y:50, z:-2580, dim:minecraft:overworld]
+[23Jun2025 00:52:26.870] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:52:43.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:43.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:43.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:43.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:44.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:44.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:44.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:44.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:47.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:48.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:52.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:55.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:56.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:57.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:57.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:58.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:52:59.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:53:00.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:53:00.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:53:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:53:21.358] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1534, y:50, z:-2579, dim:minecraft:overworld]
+[23Jun2025 00:53:21.377] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:53:48.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:53:52.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:53:54.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:54:02.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Flancito0_: {disabled=true, disconnected=false, uuid=807d4b02-2892-3ac2-a000-a9c5173caa95, name=Flancito0_, group=null}
+[23Jun2025 00:54:22.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:54:32.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:54:33.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:54:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:54:35.162] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1538, y:50, z:-2579, dim:minecraft:overworld]
+[23Jun2025 00:54:35.180] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:54:46.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[23Jun2025 00:54:46.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[23Jun2025 00:55:10.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:55:32.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:55:55.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:55:55.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:56:06.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[23Jun2025 00:56:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:56:18.858] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1536, y:50, z:-2570, dim:minecraft:overworld]
+[23Jun2025 00:56:18.874] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:56:28.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:56:55.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:56:58.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:56:59.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:57:30.767] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Flancito0_: {disabled=false, disconnected=false, uuid=807d4b02-2892-3ac2-a000-a9c5173caa95, name=Flancito0_, group=null}
+[23Jun2025 00:57:35.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:57:41.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:57:41.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:58:05.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:58:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Just a Flesh Wound]
+[23Jun2025 00:58:05.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jun2025 00:58:05.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

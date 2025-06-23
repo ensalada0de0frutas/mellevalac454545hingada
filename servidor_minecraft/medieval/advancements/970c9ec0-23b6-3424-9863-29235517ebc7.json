@@ -2020,6 +2020,7 @@
       "cooked_beef": "2025-06-23 00:25:17 +0000",
       "bread": "2025-06-22 19:51:38 +0000",
       "golden_apple": "2025-06-22 23:54:31 +0000",
+      "cooked_rabbit": "2025-06-23 00:48:07 +0000",
       "cooked_chicken": "2025-06-22 23:41:37 +0000",
       "enchanted_golden_apple": "2025-06-22 23:01:59 +0000",
       "carrot": "2025-06-22 22:21:31 +0000"
@@ -4729,6 +4730,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
@@ -4738,6 +4745,12 @@
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -4765,6 +4778,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/overweight_golden_apple_block": {
     "criteria": {
       "has_gold_block": "2025-06-23 00:30:59 +0000"
@@ -4780,6 +4799,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4801,9 +4826,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4816,6 +4859,24 @@
   "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:36:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4840,6 +4901,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4903,6 +4970,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-22 23:18:45 +0000"
@@ -4924,6 +5003,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-22 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4951,9 +5036,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-06-23 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -4963,9 +5060,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5005,6 +5114,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-06-22 23:54:03 +0000"
@@ -5041,6 +5156,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
@@ -5071,6 +5198,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:34:48 +0000"
@@ -5086,6 +5219,24 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5107,6 +5258,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
@@ -5119,6 +5276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
@@ -5128,6 +5291,12 @@
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5161,6 +5330,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-06-22 23:37:04 +0000"
@@ -5179,9 +5354,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5191,9 +5378,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-06-23 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5227,6 +5426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-22 23:54:03 +0000"
@@ -5248,6 +5453,30 @@
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5278,6 +5507,24 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_sugar": "2025-06-22 23:25:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5317,6 +5564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:40:33 +0000"
@@ -5332,6 +5585,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5353,9 +5612,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-23 00:10:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5365,9 +5654,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5380,6 +5687,18 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5401,6 +5720,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-06-22 23:18:45 +0000"
@@ -5413,6 +5738,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
@@ -5422,6 +5759,18 @@
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-06-22 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5446,6 +5795,18 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-22 23:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5509,6 +5870,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
@@ -5533,9 +5900,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5575,9 +5954,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5596,6 +5993,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5635,6 +6038,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
@@ -5647,9 +6056,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5665,6 +6098,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-06-22 23:18:45 +0000"
@@ -5677,9 +6116,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5707,15 +6158,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-23 00:24:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5728,6 +6197,12 @@
   "mca:recipes/decorations/blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5746,6 +6221,12 @@
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-06-23 00:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5800,6 +6281,18 @@
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -5881,6 +6374,24 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:34:48 +0000"
@@ -5890,6 +6401,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-22 23:40:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5911,6 +6428,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
@@ -5920,6 +6449,18 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-06-23 00:10:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -5971,6 +6512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-06-23 00:27:14 +0000"
@@ -5995,9 +6542,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-23 00:49:08 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -6010,6 +6599,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-06-22 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -6031,9 +6626,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-06-23 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },
@@ -6046,6 +6653,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-22 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -6091,9 +6704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-23 00:49:08 +0000"
     },
     "done": true
   },
@@ -6103,9 +6728,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-06-22 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-23 00:36:26 +0000"
     },
     "done": true
   },
@@ -6115,9 +6752,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-06-23 00:35:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-22 23:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-23 00:35:58 +0000"
     },
     "done": true
   },

@@ -101,3 +101,55 @@
 [23Jun2025 00:36:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Diamonds!]
 [23Jun2025 00:37:38.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
 [23Jun2025 00:38:48.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[23Jun2025 00:40:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 564.500000, 231.500000, -334.500000]
+[23Jun2025 00:40:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:40:30.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:42:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:42:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:42:10.518] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:11.118] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:15.703] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:17.605] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:18.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:42:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:42:48.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:42:48.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi fell from a high place
+[23Jun2025 00:42:48.825] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:43:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1540 79 -2798
+[23Jun2025 00:43:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1540.500000, 79.000000, -2797.500000]
+[23Jun2025 00:43:45.682] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:43:46.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved too quickly! -0.3723550132008313,-0.37673561378173304,10.395259368728603
+[23Jun2025 00:43:46.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 4.515857105020132,-0.8322033533667508,9.370157878553528
+[23Jun2025 00:43:49.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elvin'/205331, l='ServerLevel[medieval]', x=1723.39, y=64.00, z=-2884.43] died, message: 'Elvin suffocated in a wall'
+[23Jun2025 00:43:49.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elvin'/205331, l='ServerLevel[medieval]', x=1723.39, y=64.00, z=-2884.43] died: Elvin suffocated in a wall
+[23Jun2025 00:44:53.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.4810013249216354
+[23Jun2025 00:44:53.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 0.8467043659202318
+[23Jun2025 00:44:53.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.2116064077886222
+[23Jun2025 00:44:53.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.5395224639696607
+[23Jun2025 00:44:53.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of caraputi) moved wrongly! 1.9393942442547996
+[23Jun2025 00:45:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:46:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:46:39.161] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jun2025 00:48:04.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[23Jun2025 00:48:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:49:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[23Jun2025 00:49:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[23Jun2025 00:49:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:49:08.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Cobweb Entanglement]
+[23Jun2025 00:49:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Cobweb Entanglement]
+[23Jun2025 00:50:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Double Hungry]
+[23Jun2025 00:51:07.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:51:07.215] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:51:19.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ferrous Wroughtnaut
+[23Jun2025 00:51:19.370] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[23Jun2025 00:52:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Ferrous Wroughtnaut
+[23Jun2025 00:52:16.553] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[23Jun2025 00:52:26.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:52:26.870] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:53:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:53:21.377] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:54:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:54:35.180] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:56:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
+[23Jun2025 00:56:18.874] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:58:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Just a Flesh Wound]

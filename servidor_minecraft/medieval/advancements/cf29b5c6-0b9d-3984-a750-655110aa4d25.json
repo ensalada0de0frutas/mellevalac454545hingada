@@ -4946,6 +4946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-23 01:41:13 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:traps_and_curses": {
     "criteria": {
       "entered_desert_temple": "2025-06-23 00:31:07 +0000"
@@ -5266,6 +5272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-23 01:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-22 21:32:42 +0000"
@@ -5575,6 +5587,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-06-22 20:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-23 01:41:13 +0000"
     },
     "done": true
   },
@@ -5923,6 +5941,12 @@
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-06-22 20:06:08 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-06-23 01:42:25 +0000"
     },
     "done": true
   },
@@ -6605,6 +6629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-23 01:41:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-23 00:18:01 +0000"
@@ -6974,6 +7004,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-06-22 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-23 01:41:13 +0000"
     },
     "done": true
   },

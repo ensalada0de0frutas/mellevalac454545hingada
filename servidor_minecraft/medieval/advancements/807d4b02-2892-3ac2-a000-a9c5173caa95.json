@@ -1413,6 +1413,7 @@
       "minecraft:witch": "2025-06-23 00:41:08 +0000",
       "minecraft:wither_skeleton": "2025-06-22 20:33:19 +0000",
       "minecraft:husk": "2025-06-23 00:18:12 +0000",
+      "minecraft:enderman": "2025-06-23 01:09:41 +0000",
       "minecraft:zombie": "2025-06-21 22:56:42 +0000"
     },
     "done": false
@@ -6813,6 +6814,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-06-23 01:08:59 +0000"
     },
     "done": true
   },

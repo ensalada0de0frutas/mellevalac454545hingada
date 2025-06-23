@@ -153,3 +153,11 @@
 [23Jun2025 00:56:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ferrous Wroughtnaut
 [23Jun2025 00:56:18.874] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [23Jun2025 00:58:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Just a Flesh Wound]
+[23Jun2025 01:01:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was killed by magic
+[23Jun2025 01:01:01.363] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 01:01:19.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1523 43 -2564
+[23Jun2025 01:01:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[23Jun2025 01:02:07.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Disconnected
+[23Jun2025 01:02:07.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[23Jun2025 01:02:07.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[23Jun2025 01:07:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]

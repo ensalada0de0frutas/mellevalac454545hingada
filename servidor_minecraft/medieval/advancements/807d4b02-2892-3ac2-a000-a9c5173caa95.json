@@ -2398,6 +2398,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-21 23:31:51 +0000",
+      "cooked_mutton": "2025-06-23 00:54:57 +0000",
       "bread": "2025-06-22 20:05:14 +0000",
       "golden_apple": "2025-06-22 21:51:41 +0000",
       "suspicious_stew": "2025-06-22 00:11:45 +0000",
@@ -6791,6 +6792,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-06-23 01:03:45 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
     "criteria": {
       "has_hoglin_loin": "2025-06-23 00:25:07 +0000"
@@ -6890,6 +6897,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-06-23 01:00:54 +0000"
     },
     "done": true
   },
@@ -7067,6 +7080,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-06-23 01:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-23 00:19:34 +0000"
@@ -7106,6 +7125,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-23 00:02:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_smoking_upgrade_from_backpack_smoking_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-06-23 01:00:54 +0000"
     },
     "done": true
   },

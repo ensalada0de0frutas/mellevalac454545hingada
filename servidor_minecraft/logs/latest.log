@@ -11,3 +11,37 @@
 [23Jun2025 00:06:58.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi blew up
 [23Jun2025 00:06:58.752] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [23Jun2025 00:07:18.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1221 34 -2983
+[23Jun2025 00:08:59.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1214.500000, 67.000000, -3032.500000]
+[23Jun2025 00:09:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has reached the goal [Strong or Careful]
+[23Jun2025 00:09:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Bluff
+[23Jun2025 00:09:55.820] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[23Jun2025 00:09:55.857] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Jun2025 00:09:55.857] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[23Jun2025 00:09:55.857] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Jun2025 00:09:55.857] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Jun2025 00:09:55.857] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Jun2025 00:11:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:11:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:12:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has reached the goal [Greed may lead to loss]
+[23Jun2025 00:12:43.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:12:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Magic Writing]
+[23Jun2025 00:13:49.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:14:04.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[23Jun2025 00:14:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Sneak 100]
+[23Jun2025 00:14:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Where Is The Stone Pen?]
+[23Jun2025 00:15:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[23Jun2025 00:15:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[23Jun2025 00:15:50.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to caraputi]
+[23Jun2025 00:16:55.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marthinus'/190643, l='ServerLevel[medieval]', x=1163.65, y=86.00, z=-2801.70] died, message: 'Marthinus was slain by Husk'
+[23Jun2025 00:16:55.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marthinus'/190643, l='ServerLevel[medieval]', x=1163.65, y=86.00, z=-2801.70] died: Marthinus was slain by Husk
+[23Jun2025 00:17:28.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[23Jun2025 00:17:29.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[23Jun2025 00:17:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[23Jun2025 00:17:53.028] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[23Jun2025 00:17:53.140] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Jun2025 00:17:53.140] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[23Jun2025 00:17:53.140] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Jun2025 00:17:53.140] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Jun2025 00:17:53.141] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[23Jun2025 00:18:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Flancito0_]
+[23Jun2025 00:18:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]

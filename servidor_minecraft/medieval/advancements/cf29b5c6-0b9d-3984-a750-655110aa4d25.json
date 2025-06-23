@@ -100,7 +100,9 @@
       "minecraft:deep_cold_ocean": "2025-06-22 00:22:46 +0000",
       "minecraft:ocean": "2025-06-22 21:35:13 +0000",
       "minecraft:snowy_beach": "2025-06-22 16:57:58 +0000",
+      "minecraft:frozen_peaks": "2025-06-23 00:11:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 20:11:35 +0000",
+      "minecraft:deep_dark": "2025-06-23 00:13:16 +0000",
       "minecraft:meadow": "2025-06-22 20:01:21 +0000",
       "minecraft:plains": "2025-06-21 22:55:40 +0000"
     },
@@ -5698,6 +5700,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-23 00:09:55 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
     "criteria": {
       "has_hoglin_loin": "2025-06-22 21:34:48 +0000"
@@ -6188,6 +6196,12 @@
   "immersive_weathering:recipes/moss_block": {
     "criteria": {
       "has_copper_block": "2025-06-22 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-23 00:14:33 +0000"
     },
     "done": true
   },

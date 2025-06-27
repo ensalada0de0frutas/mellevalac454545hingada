@@ -1816,3 +1816,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Jun2025 23:43:35.575] [Server thread/INFO] [Jade/]: Syncing config to itzloikg (6278e817-929b-30db-84db-38a5c920e412)
 [27Jun2025 23:43:37.832] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
 [27Jun2025 23:43:37.832] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[27Jun2025 23:43:40.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[27Jun2025 23:43:41.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[27Jun2025 23:43:41.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[27Jun2025 23:44:33.342] [ForkJoinPool.commonPool-worker-4/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[27Jun2025 23:44:33.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:51885] logged in with entity id 3344 at (1529.699999988079, 46.0, -2565.681432850712)
+[27Jun2025 23:44:33.401] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[27Jun2025 23:44:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[27Jun2025 23:44:33.462] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[27Jun2025 23:44:39.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[27Jun2025 23:44:39.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[27Jun2025 23:44:44.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[27Jun2025 23:44:45.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[27Jun2025 23:44:45.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[27Jun2025 23:45:20.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[27Jun2025 23:45:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[27Jun2025 23:45:20.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[27Jun2025 23:45:33.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10596ms or 211 ticks behind
+[27Jun2025 23:46:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[27Jun2025 23:47:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Minecraft Comes Alive]
+[27Jun2025 23:47:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[27Jun2025 23:49:23.775] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27Jun2025 23:49:23.777] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27Jun2025 23:49:23.778] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27Jun2025 23:50:30.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.155.232.48:46753] logged in with entity id 6237 at (-527.4701917674654, 68.0, -164.16436326517163)
+[27Jun2025 23:50:30.763] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player itzloikg
+[27Jun2025 23:50:30.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[27Jun2025 23:50:30.806] [Server thread/INFO] [Jade/]: Syncing config to itzloikg (6278e817-929b-30db-84db-38a5c920e412)
+[27Jun2025 23:50:32.074] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[27Jun2025 23:50:32.075] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jun2025 23:50:32.075] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[27Jun2025 23:50:32.077] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[27Jun2025 23:50:32.077] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[27Jun2025 23:50:32.078] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[27Jun2025 23:50:33.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[27Jun2025 23:50:33.224] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[27Jun2025 23:50:36.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[27Jun2025 23:50:37.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[27Jun2025 23:50:37.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[27Jun2025 23:51:38.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 timed out
+[27Jun2025 23:51:38.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player itzloikg
+[27Jun2025 23:51:39.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[27Jun2025 23:51:46.961] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[27Jun2025 23:51:46.962] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[27Jun2025 23:51:46.962] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[27Jun2025 23:52:13.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[27Jun2025 23:52:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[27Jun2025 23:52:13.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[27Jun2025 23:52:13.950] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 23:53:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has completed the challenge [Serious Dedication]

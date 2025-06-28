@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-28 04:15:46 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-22 19:46:58 +0000",
       "minecraft:taiga": "2025-06-21 22:32:47 +0000",
       "minecraft:deep_ocean": "2025-06-28 00:21:26 +0000",
@@ -101,6 +102,8 @@
       "minecraft:snowy_plains": "2025-06-28 03:41:18 +0000",
       "minecraft:snowy_taiga": "2025-06-22 20:01:07 +0000",
       "minecraft:dripstone_caves": "2025-06-22 22:35:12 +0000",
+      "minecraft:grove": "2025-06-28 04:15:41 +0000",
+      "minecraft:jagged_peaks": "2025-06-28 04:15:48 +0000",
       "minecraft:cold_ocean": "2025-06-22 19:45:00 +0000",
       "minecraft:forest": "2025-06-21 22:42:10 +0000",
       "minecraft:lush_caves": "2025-06-22 22:35:33 +0000",
@@ -6956,15 +6959,39 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-28 04:19:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_longbow": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-28 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -6980,9 +7007,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_halberd": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
     },
     "done": true
   },
@@ -6995,6 +7040,12 @@
   "spartanweaponry:recipes/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -7016,6 +7067,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/hexerei/sign_post_witch_hazel": {
+    "criteria": {
+      "has_item": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_boomerang": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
@@ -7031,6 +7100,12 @@
   "spartanweaponry:recipes/steel_warhammer": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -7064,6 +7139,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-28 03:07:14 +0000"
@@ -7082,6 +7169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-06-28 02:47:34 +0000"
@@ -7097,6 +7190,18 @@
   "spartanweaponry:recipes/steel_katana": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -7130,9 +7235,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_battle_hammer": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/stripped_witch_hazel_log_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
     },
     "done": true
   },
@@ -7148,6 +7277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
@@ -7160,9 +7295,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/cherry_blossom_cookie": {
     "criteria": {
       "has_pink_petals": "2025-06-28 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -7172,9 +7331,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-28 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },
@@ -7196,15 +7385,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-06-28 02:51:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 03:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:44 +0000"
     },
     "done": true
   },

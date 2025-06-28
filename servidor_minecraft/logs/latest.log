@@ -1379,3 +1379,43 @@
 [28Jun2025 05:00:21.766] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
 [28Jun2025 05:00:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mrd
 [28Jun2025 05:00:32.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> -19 141 -1111
+[28Jun2025 05:01:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to -18.500000, 141.000000, -1110.500000]
+[28Jun2025 05:03:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by Spider
+[28Jun2025 05:03:12.362] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 05:03:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> -
+[28Jun2025 05:03:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to -18.500000, 141.000000, -1110.500000]
+[28Jun2025 05:04:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m slaio unio igual
+[28Jun2025 05:04:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> noda nada
+[28Jun2025 05:04:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> yavuevo
+[28Jun2025 05:04:56.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[28Jun2025 05:04:56.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[28Jun2025 05:04:56.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[28Jun2025 05:06:39.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 05:07:17.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[28Jun2025 05:09:54.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> yo extra;aba tanto el mine k ni sue;o siento
+[28Jun2025 05:11:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ohno
+[28Jun2025 05:11:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> bue
+[28Jun2025 05:11:45.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> jugare ultrakill
+[28Jun2025 05:11:57.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[28Jun2025 05:11:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[28Jun2025 05:11:57.292] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[28Jun2025 05:11:59.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Disconnected
+[28Jun2025 05:11:59.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[28Jun2025 05:11:59.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[28Jun2025 05:12:35.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[28Jun2025 05:12:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[28Jun2025 05:12:35.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[28Jun2025 05:12:37.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 05:12:38.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 05:12:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 05:12:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 05:12:38.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:overworld
+[28Jun2025 05:12:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_end
+[28Jun2025 05:12:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_nether
+[28Jun2025 05:12:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (medieval): All chunks are saved
+[28Jun2025 05:12:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 05:12:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 05:12:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 05:12:38.465] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 05:12:38.466] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 05:12:38.470] [Server thread/INFO] [Framework/]: Finished unloading server configs

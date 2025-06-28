@@ -7834,7 +7834,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-06-28 04:55:34 +0000"
+      "potato": "2025-06-28 04:55:34 +0000",
+      "carrot": "2025-06-28 05:01:34 +0000"
     },
     "done": false
   },
@@ -7880,6 +7881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-28 05:06:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2025-06-28 04:45:34 +0000"
@@ -7904,6 +7911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-06-28 05:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-28 04:45:34 +0000"
@@ -7913,6 +7926,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-06-28 04:45:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-28 05:02:25 +0000"
     },
     "done": true
   },

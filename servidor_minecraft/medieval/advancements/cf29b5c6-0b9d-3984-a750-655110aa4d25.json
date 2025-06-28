@@ -7847,6 +7847,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 00:50:41 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-06-27 23:39:43 +0000"

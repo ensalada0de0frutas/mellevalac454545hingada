@@ -160,3 +160,25 @@
 [28Jun2025 00:53:58.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Beginner Breadsmithing]
 [28Jun2025 00:54:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Acquire Hardware]
 [28Jun2025 00:54:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 2 entities to Sofx0Loder]
+[28Jun2025 00:55:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 2 entities to Sofx0Loder]
+[28Jun2025 00:56:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> aafk
+[28Jun2025 00:56:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ok
+[28Jun2025 00:58:12.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:40843] logged in with entity id 30048 at (1884.657563015424, 76.5625, -2726.7187944932352)
+[28Jun2025 00:58:12.033] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[28Jun2025 00:58:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[28Jun2025 00:58:12.091] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[28Jun2025 00:58:17.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[28Jun2025 00:58:17.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[28Jun2025 00:58:24.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 00:58:25.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 00:58:25.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[28Jun2025 01:01:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya vuelvo, me voy a ba;ar
+[28Jun2025 01:02:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> bruh
+[28Jun2025 01:02:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> alfin
+[28Jun2025 01:02:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> oki anda
+[28Jun2025 01:02:12.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> es k volvi d entrenar
+[28Jun2025 01:04:35.497] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Asad}[style={}] has been infected
+[28Jun2025 01:04:35.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Asad'/30174, l='ServerLevel[medieval]', x=1849.10, y=79.51, z=-2627.50] died, message: 'Asad was slain by Zombie'
+[28Jun2025 01:04:35.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Asad'/30174, l='ServerLevel[medieval]', x=1849.10, y=79.51, z=-2627.50] died: Asad was slain by Zombie
+[28Jun2025 01:04:42.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenan'/30175, l='ServerLevel[medieval]', x=1845.81, y=79.00, z=-2634.52] died, message: 'Kenan was slain by Zombie'
+[28Jun2025 01:04:42.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenan'/30175, l='ServerLevel[medieval]', x=1845.81, y=79.00, z=-2634.52] died: Kenan was slain by Zombie

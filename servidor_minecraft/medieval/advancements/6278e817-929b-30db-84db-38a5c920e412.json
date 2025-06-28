@@ -1743,6 +1743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-28 00:31:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_katana": {
     "criteria": {
       "has_cobblestone": "2025-06-28 00:20:31 +0000"
@@ -1773,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-28 00:30:59 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
       "has_thermometer": "2025-06-28 00:27:38 +0000"
@@ -1782,6 +1794,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-06-28 00:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-28 00:30:27 +0000"
     },
     "done": true
   },
@@ -1845,6 +1863,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2025-06-28 00:30:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_spear": {
     "criteria": {
       "has_cobblestone": "2025-06-28 00:20:31 +0000"
@@ -1854,6 +1878,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-28 00:20:31 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-28 00:30:53 +0000"
     },
     "done": true
   },
@@ -1872,6 +1902,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-06-28 00:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-28 00:31:29 +0000"
     },
     "done": true
   },
@@ -1995,6 +2031,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 00:42:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-28 00:20:08 +0000"
@@ -2004,6 +2046,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-06-28 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-28 00:30:53 +0000"
     },
     "done": true
   },
@@ -2031,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-28 00:31:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-28 00:20:31 +0000"
@@ -2040,6 +2094,12 @@
   "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2025-06-28 00:20:31 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-28 00:30:53 +0000"
     },
     "done": true
   },
@@ -2103,9 +2163,27 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2025-06-28 00:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-28 00:20:31 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-06-28 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-28 00:30:59 +0000"
     },
     "done": true
   },

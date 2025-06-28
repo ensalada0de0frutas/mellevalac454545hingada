@@ -6807,9 +6807,33 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-06-28 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-28 00:34:22 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-06-28 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-06-28 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 00:37:01 +0000"
     },
     "done": true
   },
@@ -6843,9 +6867,22 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-28 00:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/stripped_acacia_log_from_acacia_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-06-28 00:37:01 +0000",
+      "has_block": "2025-06-28 00:37:01 +0000"
     },
     "done": true
   },

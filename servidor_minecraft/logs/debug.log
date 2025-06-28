@@ -13969,3 +13969,333 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 00:30:57.385] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [28Jun2025 00:30:57.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [28Jun2025 00:30:57.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:34:57.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 00:34:57.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 00:35:16.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:41.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:41.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:42.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:42.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:42.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:43.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:35:43.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:36:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[28Jun2025 00:38:31.808] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[28Jun2025 00:38:31.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[28Jun2025 00:38:31.886] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[28Jun2025 00:38:31.935] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[28Jun2025 00:38:31.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[28Jun2025 00:38:32.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[28Jun2025 00:38:32.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[28Jun2025 00:38:32.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[28Jun2025 00:38:32.187] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, easyanvils, supermartijn642configlib, sodiumextras, playeranimator, nethers_exoticism, mcwwindows, ctm, modernfix, yungsapi, snowrealmagic, oceanic_delight, chat_heads, jeresources, betterfortresses, paraglider, cloth_config, sawmill, supplementaries, embeddium, rubidium, athena, structure_gel, handcrafted, supermartijn642corelib, yungsbridges, mr_tidal_towns, curios, oculus, mynethersdelight, workers, yungsextras, bettervillage, noisium, tombstone, overweight_farming, sodiumoptionsmodcompat, mr_limesplatus_ending, cavesanddepths, animatedmobsmod, betterendisland, dynamic_fps, fallingtree, bettermineshafts, betterjungletemples, kiwi, mowziesmobs, rechiseled, atistructures, jei, universalbonemeal, libraryferret, goblintraders, immersive_weathering, fabric_renderer_indigo, wardrobe, fastasyncworldsave, glitchcore, sereneseasons, midnightlib, starlight, medieval_paintings, fusion, mythicmounts, puzzlesaccessapi, forge, drippyloadingscreen, dungeons_arise, tectonic, minecraft, nordic_structures, wolm, smoothchunk, voicechat, sound_physics_remastered, fabric_api_base, mousetweaks, bettercombat, combatroll, commonality, alltheleaks, aes, ksyxis, astikorcarts, notenoughanimations, xaerominimap, bocchium, spiffyhud, entityculling, argentinas_delight, immediatelyfast, embeddium_extra, puzzleslib, nefdecomod, cosmeticarmorreworked, oceanicrealms, cristellib, hexerei, skyvillages, fabric_renderer_api_v1, betterwitchhuts, geckolib, naturalist, betteroceanmonuments, connectivity, dynamiclights, sophisticatedcore, xaeroworldmap, enhancedvisuals, dungeons_and_combat, mixinextras, dried_ghast, sophisticatedbackpacks, takesapillage, fpsreducer, carryon, sodiumoptionsapi, melody, ok_zoomer, konkrete, chipped, rechiseled_chipped, mcwbridges, farmersdelight, rusticdelight, farmers_structures, ends_delight, fastipping, ambientsounds, chunky, bfendcities, dungeons_enhanced, patchouli, betterstrongholds, resourcefullib, spartanweaponry, architectury, nerb, aiimprovements, cupboard, framework, smallships, t_and_t, luminous_nether, wwoo_forge, amendments, mca, sophisticatedstorage, octolib, easymagic, sittingplus, breezy, outer_end, soul_like_armors_reworked, myserveriscompatible, magistuarmory, betterdeserttemples, farsight_view, blueprint, simplyswords, radiantgear, moonlight, mixinsquared, jade, culllessleaves, hoporp, creativecore, days_in_the_middle_ages, wrench_wrapper, ribbits, spartanshields, mes, some_assembly_required, toughasnails, holdmyitems, inventoryhud, fancymenu, ferritecore, apexcore, fantasyfurniture, skinrestorer]
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nefdecomod:nefdecomod' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'workers:default' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'breezy:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'astikorcarts:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'oceanic_delight:oceanic_delight' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.210] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soul_like_armors_reworked:soul_like_armors_reworked' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fantasyfurniture:net' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminous_nether:luminous_nether' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.8' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carbonconfig:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mythicmounts:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chunkpregen:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chipped:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'farmers_structures:farmers_structures' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cavesanddepths:cavesanddepths' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentinas_delight:argentinas_delight' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sittingplus:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'animatedmobsmod:animatedmobsmod' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_weathering:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedstorage:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_and_combat:dungeons_and_combat' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'some_assembly_required:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nordic_structures:nordic_structures' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dried_ghast:dried_ghast' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantmentmachine:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nethers_exoticism:nethers_exoticism' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'oceanicrealms:oceanicrealms' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wolm:wolm' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'days_in_the_middle_ages:days_in_the_middle_ages' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apexcore:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enchantmentmachine:main] rejected their client side version number
+[28Jun2025 00:38:32.212] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Jun2025 00:38:32.212] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[28Jun2025 00:38:32.235] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dd47bf8[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:49005) lost connection: Connection closed - mismatched mod channel list
+[28Jun2025 00:38:41.958] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[28Jun2025 00:38:41.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[28Jun2025 00:38:42.043] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[28Jun2025 00:38:42.084] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[28Jun2025 00:38:42.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[28Jun2025 00:38:42.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[28Jun2025 00:38:42.234] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[28Jun2025 00:38:42.287] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, easyanvils, supermartijn642configlib, sodiumextras, playeranimator, nethers_exoticism, mcwwindows, ctm, modernfix, yungsapi, snowrealmagic, oceanic_delight, chat_heads, jeresources, betterfortresses, paraglider, cloth_config, sawmill, supplementaries, embeddium, rubidium, athena, structure_gel, handcrafted, supermartijn642corelib, yungsbridges, mr_tidal_towns, curios, oculus, mynethersdelight, workers, yungsextras, bettervillage, noisium, tombstone, overweight_farming, sodiumoptionsmodcompat, mr_limesplatus_ending, cavesanddepths, animatedmobsmod, betterendisland, dynamic_fps, fallingtree, bettermineshafts, betterjungletemples, kiwi, mowziesmobs, rechiseled, atistructures, jei, universalbonemeal, libraryferret, goblintraders, immersive_weathering, fabric_renderer_indigo, wardrobe, fastasyncworldsave, glitchcore, sereneseasons, midnightlib, starlight, medieval_paintings, fusion, mythicmounts, puzzlesaccessapi, forge, drippyloadingscreen, dungeons_arise, tectonic, minecraft, nordic_structures, wolm, smoothchunk, voicechat, sound_physics_remastered, fabric_api_base, mousetweaks, bettercombat, combatroll, commonality, alltheleaks, aes, ksyxis, astikorcarts, notenoughanimations, xaerominimap, bocchium, spiffyhud, entityculling, argentinas_delight, immediatelyfast, embeddium_extra, puzzleslib, nefdecomod, cosmeticarmorreworked, oceanicrealms, cristellib, hexerei, skyvillages, fabric_renderer_api_v1, betterwitchhuts, geckolib, naturalist, betteroceanmonuments, connectivity, dynamiclights, sophisticatedcore, xaeroworldmap, enhancedvisuals, dungeons_and_combat, mixinextras, dried_ghast, sophisticatedbackpacks, takesapillage, fpsreducer, carryon, sodiumoptionsapi, melody, ok_zoomer, konkrete, chipped, rechiseled_chipped, mcwbridges, farmersdelight, rusticdelight, farmers_structures, ends_delight, fastipping, ambientsounds, chunky, bfendcities, dungeons_enhanced, patchouli, betterstrongholds, resourcefullib, spartanweaponry, architectury, nerb, aiimprovements, cupboard, framework, smallships, t_and_t, luminous_nether, wwoo_forge, amendments, mca, sophisticatedstorage, octolib, easymagic, sittingplus, breezy, outer_end, soul_like_armors_reworked, myserveriscompatible, magistuarmory, betterdeserttemples, farsight_view, blueprint, simplyswords, radiantgear, moonlight, mixinsquared, jade, culllessleaves, hoporp, creativecore, days_in_the_middle_ages, wrench_wrapper, ribbits, spartanshields, mes, some_assembly_required, toughasnails, holdmyitems, inventoryhud, fancymenu, ferritecore, apexcore, fantasyfurniture, skinrestorer]
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nefdecomod:nefdecomod' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'workers:default' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[28Jun2025 00:38:42.326] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'breezy:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'astikorcarts:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'oceanic_delight:oceanic_delight' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soul_like_armors_reworked:soul_like_armors_reworked' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fantasyfurniture:net' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminous_nether:luminous_nether' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.8' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carbonconfig:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mythicmounts:messages' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chunkpregen:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chipped:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'farmers_structures:farmers_structures' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cavesanddepths:cavesanddepths' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argentinas_delight:argentinas_delight' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sittingplus:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'animatedmobsmod:animatedmobsmod' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_weathering:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedstorage:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_and_combat:dungeons_and_combat' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'some_assembly_required:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nordic_structures:nordic_structures' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dried_ghast:dried_ghast' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantmentmachine:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nethers_exoticism:nethers_exoticism' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'oceanicrealms:oceanicrealms' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wolm:wolm' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.327] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'days_in_the_middle_ages:days_in_the_middle_ages' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apexcore:main' : Version test of '1' from client : ACCEPTED
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enchantmentmachine:main] rejected their client side version number
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[28Jun2025 00:38:42.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cf6f5e[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:58153) lost connection: Connection closed - mismatched mod channel list
+[28Jun2025 00:39:57.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 00:39:57.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 00:40:19.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živomir'/23750, l='ServerLevel[medieval]', x=1613.70, y=173.00, z=-1465.40] died, message: 'Živomir was slain by Zombie'
+[28Jun2025 00:40:19.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Živomir'/23750, l='ServerLevel[medieval]', x=1613.70, y=173.00, z=-1465.40] died: Živomir was slain by Zombie
+[28Jun2025 00:41:22.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 00:41:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi suffocated in a wall
+[28Jun2025 00:41:24.745] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1564, y:177, z:-1393, dim:minecraft:overworld]
+[28Jun2025 00:41:24.748] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:41:30.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:41:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:41:36.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:41:52.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:41:52.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:00.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:00.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:00.986] [Server thread/DEBUG] [tombstone/]: A new grave of the player itzloikg was created at position [x:1565, y:174, z:-1378, dim:minecraft:overworld]
+[28Jun2025 00:42:00.987] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:42:09.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:27.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:28.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has reached the goal [Chain Death]
+[28Jun2025 00:42:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:28.408] [Server thread/DEBUG] [tombstone/]: A new grave of the player itzloikg was created at position [x:1570, y:176, z:-1398, dim:minecraft:overworld]
+[28Jun2025 00:42:28.409] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:42:34.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:38.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:48.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:54.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:55.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:42:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:55.757] [Server thread/DEBUG] [tombstone/]: A new grave of the player itzloikg was created at position [x:1561, y:178, z:-1392, dim:minecraft:overworld]
+[28Jun2025 00:42:55.758] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:43:56.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[28Jun2025 00:43:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[28Jun2025 00:43:56.292] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of itzloikg
+[28Jun2025 00:43:56.292] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[28Jun2025 00:43:56.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.337] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.376] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.376] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.402] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.433] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.433] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.490] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:56.493] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.126] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.126] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.136] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.136] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.139] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.142] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.147] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.158] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.161] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.161] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.164] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.180] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.180] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.209] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.244] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.269] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.329] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.376] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.379] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.434] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.469] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.524] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.532] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:43:58.543] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6278e817-929b-30db-84db-38a5c920e412 does not have a secret
+[28Jun2025 00:44:09.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Ice Cubed]
+[28Jun2025 00:44:23.230] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nataša}[style={}] has been infected

@@ -7727,6 +7727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-28 00:30:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-06-27 23:42:14 +0000"

@@ -103,3 +103,30 @@
 [28Jun2025 00:30:24.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Brankica'/22729, l='ServerLevel[medieval]', x=1629.72, y=177.44, z=-1470.97] died, message: 'Brankica went up in flames'
 [28Jun2025 00:30:24.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Brankica'/22729, l='ServerLevel[medieval]', x=1629.72, y=177.44, z=-1470.97] died: Brankica went up in flames
 [28Jun2025 00:30:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Sweet Dreams]
+[28Jun2025 00:36:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[28Jun2025 00:38:32.211] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enchantmentmachine:main] rejected their client side version number
+[28Jun2025 00:38:32.212] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Jun2025 00:38:32.235] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dd47bf8[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:49005) lost connection: Connection closed - mismatched mod channel list
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enchantmentmachine:main] rejected their client side version number
+[28Jun2025 00:38:42.328] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Jun2025 00:38:42.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cf6f5e[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:58153) lost connection: Connection closed - mismatched mod channel list
+[28Jun2025 00:40:19.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živomir'/23750, l='ServerLevel[medieval]', x=1613.70, y=173.00, z=-1465.40] died, message: 'Živomir was slain by Zombie'
+[28Jun2025 00:40:19.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Živomir'/23750, l='ServerLevel[medieval]', x=1613.70, y=173.00, z=-1465.40] died: Živomir was slain by Zombie
+[28Jun2025 00:41:22.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 00:41:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi suffocated in a wall
+[28Jun2025 00:41:24.748] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:41:30.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:41:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:41:36.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:42:00.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:00.987] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:42:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has reached the goal [Chain Death]
+[28Jun2025 00:42:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:28.409] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:42:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by caraputi
+[28Jun2025 00:42:55.758] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:43:56.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[28Jun2025 00:43:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[28Jun2025 00:43:56.292] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[28Jun2025 00:44:09.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Ice Cubed]
+[28Jun2025 00:44:23.230] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nataša}[style={}] has been infected

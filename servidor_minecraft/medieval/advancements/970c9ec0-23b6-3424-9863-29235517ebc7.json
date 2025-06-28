@@ -8034,5 +8034,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 16:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 16:35:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

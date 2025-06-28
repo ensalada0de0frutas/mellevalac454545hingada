@@ -15106,3 +15106,91 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 01:04:42.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenan'/30175, l='ServerLevel[medieval]', x=1845.81, y=79.00, z=-2634.52] died: Kenan was slain by Zombie
 [28Jun2025 01:04:57.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
 [28Jun2025 01:04:57.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 01:05:11.604] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Fuad}[style={}] has been infected
+[28Jun2025 01:05:11.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rajab'/30059, l='ServerLevel[medieval]', x=1878.91, y=75.00, z=-2750.30] died, message: 'Rajab was slain by Zombie'
+[28Jun2025 01:05:11.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rajab'/30059, l='ServerLevel[medieval]', x=1878.91, y=75.00, z=-2750.30] died: Rajab was slain by Zombie
+[28Jun2025 01:05:15.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fuad'/30116, l='ServerLevel[medieval]', x=1877.15, y=75.77, z=-2743.66] died, message: 'Fuad was slain by Zombie'
+[28Jun2025 01:05:15.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fuad'/30116, l='ServerLevel[medieval]', x=1877.15, y=75.77, z=-2743.66] died: Fuad was slain by Zombie
+[28Jun2025 01:05:25.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marina'/30117, l='ServerLevel[medieval]', x=1884.30, y=78.27, z=-2751.16] died, message: 'Marina was slain by Zombie'
+[28Jun2025 01:05:25.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marina'/30117, l='ServerLevel[medieval]', x=1884.30, y=78.27, z=-2751.16] died: Marina was slain by Zombie
+[28Jun2025 01:05:28.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Suzana'/22761, l='ServerLevel[medieval]', x=1572.34, y=171.11, z=-1490.78] died, message: 'Suzana was slain by Zombie'
+[28Jun2025 01:05:28.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Suzana'/22761, l='ServerLevel[medieval]', x=1572.34, y=171.11, z=-1490.78] died: Suzana was slain by Zombie
+[28Jun2025 01:06:27.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexander'/30108, l='ServerLevel[medieval]', x=1868.34, y=77.00, z=-2719.48] died, message: 'Alexander was slain by Zombie'
+[28Jun2025 01:06:27.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexander'/30108, l='ServerLevel[medieval]', x=1868.34, y=77.00, z=-2719.48] died: Alexander was slain by Zombie
+[28Jun2025 01:06:50.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milena'/30068, l='ServerLevel[medieval]', x=1883.37, y=75.00, z=-2684.42] died, message: 'Milena was slain by Zombie'
+[28Jun2025 01:06:50.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Milena'/30068, l='ServerLevel[medieval]', x=1883.37, y=75.00, z=-2684.42] died: Milena was slain by Zombie
+[28Jun2025 01:07:06.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatyana'/30069, l='ServerLevel[medieval]', x=1886.28, y=74.16, z=-2683.47] died, message: 'Tatyana was slain by Zombie'
+[28Jun2025 01:07:06.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatyana'/30069, l='ServerLevel[medieval]', x=1886.28, y=74.16, z=-2683.47] died: Tatyana was slain by Zombie
+[28Jun2025 01:07:21.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ulfat'/30073, l='ServerLevel[medieval]', x=1888.50, y=75.00, z=-2680.92] died, message: 'Ulfat was slain by Zombie'
+[28Jun2025 01:07:21.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ulfat'/30073, l='ServerLevel[medieval]', x=1888.50, y=75.00, z=-2680.92] died: Ulfat was slain by Zombie
+[28Jun2025 01:07:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ola
+[28Jun2025 01:07:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> volvi
+[28Jun2025 01:08:07.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> necesitas algo?
+[28Jun2025 01:08:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> tp
+[28Jun2025 01:08:11.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mochuila
+[28Jun2025 01:08:12.050] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Eldar}[style={}] has been infected
+[28Jun2025 01:08:12.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eldar'/30093, l='ServerLevel[medieval]', x=1836.01, y=82.17, z=-2703.28] died, message: 'Eldar was slain by Zombie'
+[28Jun2025 01:08:12.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eldar'/30093, l='ServerLevel[medieval]', x=1836.01, y=82.17, z=-2703.28] died: Eldar was slain by Zombie
+[28Jun2025 01:08:14.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[28Jun2025 01:08:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> tenog udads
+[28Jun2025 01:08:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 01:08:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> JSJAS XD
+[28Jun2025 01:08:59.953] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Jun2025 01:08:59.953] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Jun2025 01:08:59.953] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Jun2025 01:08:59.953] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 01:08:59.956] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 01:08:59.956] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 01:08:59.956] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 01:09:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ya?
+[28Jun2025 01:09:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ño
+[28Jun2025 01:09:14.050] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of itzloikg: {disabled=false, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=e9388068-6185-4bb4-b6f6-d324ec3589b5}
+[28Jun2025 01:09:17.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> unite al grupo
+[28Jun2025 01:09:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> de voice
+[28Jun2025 01:09:27.155] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Sofx0Loder: {disabled=false, disconnected=false, uuid=cf29b5c6-0b9d-3984-a750-655110aa4d25, name=Sofx0Loder, group=e9388068-6185-4bb4-b6f6-d324ec3589b5}
+[28Jun2025 01:09:32.511] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of itzloikg: {disabled=true, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=e9388068-6185-4bb4-b6f6-d324ec3589b5}
+[28Jun2025 01:09:33.301] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of itzloikg: {disabled=false, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=e9388068-6185-4bb4-b6f6-d324ec3589b5}
+[28Jun2025 01:09:44.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Jun2025 01:09:44.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Jun2025 01:09:44.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Jun2025 01:09:44.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 01:09:44.915] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 01:09:44.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 01:09:44.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 01:09:57.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 01:09:57.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 01:10:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 01:10:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[28Jun2025 01:10:19.648] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Sofx0Loder: {disabled=false, disconnected=false, uuid=cf29b5c6-0b9d-3984-a750-655110aa4d25, name=Sofx0Loder, group=null}
+[28Jun2025 01:10:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:10:28.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> grupo
+[28Jun2025 01:10:30.718] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of itzloikg: {disabled=false, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=null}
+[28Jun2025 01:10:53.250] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of itzloikg: {disabled=false, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=fd9e9678-2e94-42dc-bdf9-475df1c0e1c9}
+[28Jun2025 01:11:39.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:11:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:11:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> nokiero
+[28Jun2025 01:11:54.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:11:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:11:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> sali del gerupo
+[28Jun2025 01:11:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> t escucho
+[28Jun2025 01:11:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> estupido
+[28Jun2025 01:12:01.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> yo no a vo
+[28Jun2025 01:12:05.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> XXD
+[28Jun2025 01:12:07.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> unite
+[28Jun2025 01:12:11.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:11.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:11.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:11.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:12.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:12.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:12.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:13.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:13.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:13.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:13.849] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 01:12:16.948] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of itzloikg: {disabled=false, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=null}
+[28Jun2025 01:13:22.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 01:13:47.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 01:14:25.452] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of itzloikg: {disabled=true, disconnected=false, uuid=6278e817-929b-30db-84db-38a5c920e412, name=itzloikg, group=null}
+[28Jun2025 01:14:57.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 01:14:57.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval

@@ -2385,6 +2385,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-06-28 01:13:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-06-28 00:54:20 +0000"
@@ -2601,6 +2607,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-06-28 01:13:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 00:54:20 +0000"
@@ -2610,6 +2622,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-06-28 00:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-28 01:13:30 +0000"
     },
     "done": true
   },
@@ -2673,9 +2691,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/syrup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 01:13:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-28 01:13:30 +0000"
     },
     "done": true
   },
@@ -2694,6 +2724,12 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-06-28 01:13:36 +0000"
     },
     "done": true
   },

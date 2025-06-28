@@ -1864,3 +1864,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 18:23:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Bark Off]
 [28Jun2025 18:23:35.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [28Jun2025 18:23:35.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[28Jun2025 18:24:15.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Jun2025 18:25:43.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 18:26:37.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 18:28:22.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Jun2025 18:28:44.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Jun2025 18:29:02.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
+[28Jun2025 18:29:27.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Jun2025 18:29:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:31:27.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Ice Bucket Challenge]
+[28Jun2025 18:31:37.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:32:04.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Jun2025 18:32:23.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
+[28Jun2025 18:32:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]

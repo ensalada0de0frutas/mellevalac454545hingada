@@ -2096,3 +2096,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 20:05:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ froze to death
 [28Jun2025 20:05:09.184] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
 [28Jun2025 20:06:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Double Hungry]
+[28Jun2025 20:10:20.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi froze to death
+[28Jun2025 20:10:20.112] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 20:10:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 279 125 89
+[28Jun2025 20:10:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ froze to death
+[28Jun2025 20:10:40.549] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 20:10:59.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 279.500000, 125.000000, 89.500000]
+[28Jun2025 20:11:17.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Stopping the server]
+[28Jun2025 20:11:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 20:11:17.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 20:11:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 20:11:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:overworld
+[28Jun2025 20:11:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_nether
+[28Jun2025 20:11:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_end
+[28Jun2025 20:11:20.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (medieval): All chunks are saved
+[28Jun2025 20:11:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 20:11:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 20:11:20.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 20:11:20.937] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 20:11:20.938] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 20:11:20.940] [Server thread/INFO] [Framework/]: Finished unloading server configs

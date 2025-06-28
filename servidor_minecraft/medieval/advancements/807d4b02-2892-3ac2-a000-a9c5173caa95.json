@@ -8416,6 +8416,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-28 20:01:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-06-28 19:40:54 +0000"
@@ -8443,6 +8449,12 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_calendar": "2025-06-28 19:42:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-28 20:03:41 +0000"
     },
     "done": true
   },

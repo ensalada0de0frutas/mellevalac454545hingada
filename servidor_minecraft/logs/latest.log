@@ -260,3 +260,98 @@
 [28Jun2025 01:22:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ZZZ
 [28Jun2025 01:22:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> la saque
 [28Jun2025 01:24:07.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[28Jun2025 01:25:42.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[28Jun2025 01:25:52.896] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=79, z=-1059}
+[28Jun2025 01:25:52.896] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=79, z=-1057}
+[28Jun2025 01:25:52.899] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.902] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1421, y=78, z=-1058}
+[28Jun2025 01:25:52.904] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1423, y=80, z=-1058}
+[28Jun2025 01:25:52.905] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.906] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.922] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.926] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.926] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.946] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.947] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:52.948] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.271] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.282] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.283] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.307] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.309] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.311] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.336] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.337] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1423, y=80, z=-1058}
+[28Jun2025 01:25:53.337] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.337] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.485] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1401, y=69, z=-1058}
+[28Jun2025 01:25:53.486] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.487] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.488] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=69, z=-1057}
+[28Jun2025 01:25:53.488] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=70, z=-1057}
+[28Jun2025 01:25:53.489] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.489] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.513] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.514] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.515] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.516] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.532] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.563] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.564] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.564] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.566] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.567] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.568] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1422, y=87, z=-1057}
+[28Jun2025 01:25:53.611] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.611] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.611] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.613] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:25:53.623] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1400, y=77, z=-1057}
+[28Jun2025 01:25:53.625] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1402, y=78, z=-1057}
+[28Jun2025 01:26:05.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7893ms or 157 ticks behind
+[28Jun2025 01:26:26.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6671ms or 133 ticks behind
+[28Jun2025 01:26:48.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6400ms or 128 ticks behind
+[28Jun2025 01:27:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ overheated to death
+[28Jun2025 01:27:23.822] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 01:29:01.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.155.232.48:52773] logged in with entity id 42306 at (1558.0234341394994, 176.0, -1397.050000011921)
+[28Jun2025 01:29:01.179] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player itzloikg
+[28Jun2025 01:29:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[28Jun2025 01:29:01.228] [Server thread/INFO] [Jade/]: Syncing config to itzloikg (6278e817-929b-30db-84db-38a5c920e412)
+[28Jun2025 01:29:01.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[28Jun2025 01:29:01.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[28Jun2025 01:29:11.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[28Jun2025 01:29:12.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[28Jun2025 01:29:12.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[28Jun2025 01:31:05.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valentīns'/43484, l='ServerLevel[medieval]', x=1194.49, y=65.00, z=-1131.60] died, message: 'Valentīns hit the ground too hard'
+[28Jun2025 01:31:05.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valentīns'/43484, l='ServerLevel[medieval]', x=1194.49, y=65.00, z=-1131.60] died: Valentīns fell from a high place
+[28Jun2025 01:31:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> te robate mi yerro
+[28Jun2025 01:31:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no
+[28Jun2025 01:31:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> si
+[28Jun2025 01:31:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ta en el cofre
+[28Jun2025 01:31:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> aaa
+[28Jun2025 01:31:20.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> aa
+[28Jun2025 01:31:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mas te vale
+[28Jun2025 01:31:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lmao
+[28Jun2025 01:31:47.798] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 01:31:47.798] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[28Jun2025 01:31:47.798] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[28Jun2025 01:31:47.798] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 01:31:47.799] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 01:31:47.800] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 01:34:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was blown up by Creeper
+[28Jun2025 01:34:39.078] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 01:34:44.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> :'v
+[28Jun2025 01:34:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> JHGFJD

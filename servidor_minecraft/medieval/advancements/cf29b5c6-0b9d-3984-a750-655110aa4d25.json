@@ -107,6 +107,7 @@
       "minecraft:desert": "2025-06-23 00:27:02 +0000",
       "minecraft:jungle": "2025-06-23 00:40:09 +0000",
       "minecraft:ocean": "2025-06-22 21:35:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-28 01:31:21 +0000",
       "minecraft:snowy_beach": "2025-06-22 16:57:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-28 00:20:01 +0000",
       "minecraft:frozen_peaks": "2025-06-23 00:11:04 +0000",
@@ -7650,15 +7651,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_helmet": {
     "criteria": {
       "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-28 01:27:16 +0000"
     },
     "done": true
   },
@@ -7686,6 +7705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-27 23:42:14 +0000"
@@ -7704,9 +7729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-06-27 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-06-28 01:29:10 +0000"
     },
     "done": true
   },
@@ -7728,9 +7765,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-06-28 00:30:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-28 01:29:39 +0000"
     },
     "done": true
   },
@@ -7824,6 +7873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-06-27 23:42:14 +0000"
@@ -7863,6 +7918,12 @@
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-06-27 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:39 +0000"
     },
     "done": true
   },

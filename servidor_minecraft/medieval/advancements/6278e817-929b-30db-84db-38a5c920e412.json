@@ -87,15 +87,18 @@
     "criteria": {
       "minecraft:taiga": "2025-06-28 01:35:25 +0000",
       "minecraft:deep_ocean": "2025-06-28 00:21:47 +0000",
+      "minecraft:cherry_grove": "2025-06-28 03:51:39 +0000",
       "minecraft:birch_forest": "2025-06-28 00:22:51 +0000",
       "minecraft:beach": "2025-06-21 23:12:45 +0000",
       "minecraft:dark_forest": "2025-06-28 00:23:34 +0000",
       "minecraft:sparse_jungle": "2025-06-28 02:48:51 +0000",
       "minecraft:river": "2025-06-21 23:03:20 +0000",
       "minecraft:lukewarm_ocean": "2025-06-28 00:19:30 +0000",
+      "minecraft:grove": "2025-06-28 03:54:20 +0000",
       "minecraft:forest": "2025-06-21 22:57:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-28 00:20:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 00:24:43 +0000",
+      "minecraft:meadow": "2025-06-28 03:51:54 +0000",
       "minecraft:savanna": "2025-06-28 01:50:17 +0000",
       "minecraft:plains": "2025-06-21 23:02:59 +0000"
     },
@@ -2817,6 +2820,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
@@ -2973,6 +2982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
@@ -3036,6 +3051,12 @@
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-06-28 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -3555,6 +3576,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-28 03:52:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-06-28 03:19:28 +0000"
@@ -3585,6 +3612,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/misc/yellow_dye_from_coffee_beans": {
     "criteria": {
       "has_coffee_beans": "2025-06-28 02:04:59 +0000"
@@ -3606,6 +3639,12 @@
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
     "criteria": {
       "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -3765,6 +3804,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_throwing_knife": {
     "criteria": {
       "has_diamond": "2025-06-28 02:39:21 +0000"
@@ -3774,6 +3819,12 @@
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -4167,9 +4218,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/roasted_coffee_beans_from_campfire_cooking": {
     "criteria": {
       "has_coffee_beans": "2025-06-28 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -4242,6 +4305,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-28 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -4413,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 02:13:42 +0000"
@@ -4551,6 +4626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-06-28 02:29:41 +0000"
@@ -4566,6 +4647,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-28 02:46:30 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },
@@ -4743,6 +4830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "rusticdelight:recipes/food/golden_coffee_beans": {
     "criteria": {
       "has_coffee_beans": "2025-06-28 02:04:59 +0000"
@@ -4911,6 +5004,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-28 03:54:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-28 02:24:45 +0000"
@@ -5010,6 +5115,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-06-28 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-28 03:54:14 +0000"
     },
     "done": true
   },

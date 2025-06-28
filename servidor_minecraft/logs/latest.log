@@ -1068,3 +1068,99 @@
 [28Jun2025 03:34:54.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Hammer Time!]
 [28Jun2025 03:37:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
 [28Jun2025 03:38:02.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 03:39:14.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[28Jun2025 03:39:14.123] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 03:39:14.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 03:39:14.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Jun2025 03:39:14.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 03:39:14.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 03:39:14.154] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 03:39:23.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Essence Gathering]
+[28Jun2025 03:39:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 2543 85 -1483
+[28Jun2025 03:39:33.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Jun2025 03:39:33.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Jun2025 03:39:33.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 03:39:33.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Jun2025 03:39:33.358] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 03:39:33.359] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:39:33.359] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:39:33.359] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:39:51.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 2543.500000, 85.000000, -1482.500000]
+[28Jun2025 03:39:55.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> 7tp f
+[28Jun2025 03:39:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 03:40:05.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 2543.500000, 85.000000, -1482.500000]
+[28Jun2025 03:40:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skull Deserter
+[28Jun2025 03:40:19.863] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 03:40:27.288] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Jun2025 03:40:27.288] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Jun2025 03:40:27.288] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 03:40:27.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Jun2025 03:40:27.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Jun2025 03:40:27.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:40:27.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:40:27.289] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Jun2025 03:40:50.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 2534 84 -1476
+[28Jun2025 03:40:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 2543.500000, 85.000000, -1482.500000]
+[28Jun2025 03:41:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:41:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:43:04.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Frostmaw
+[28Jun2025 03:43:04.665] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 03:43:09.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Frostmaw
+[28Jun2025 03:43:09.415] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 03:43:15.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:43:20.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Rude Awakening]
+[28Jun2025 03:43:20.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1805 -2 -2048
+[28Jun2025 03:43:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 03:43:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:43:45.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1805 -2 -2048
+[28Jun2025 03:43:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was frozen to death by Skeleton
+[28Jun2025 03:43:48.261] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 03:43:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was killed by magic whilst trying to escape Skeleton
+[28Jun2025 03:43:53.899] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 03:44:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 03:44:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:44:42.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1805 -2 -2048
+[28Jun2025 03:45:00.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to 1805.500000, -2.000000, -2047.500000]
+[28Jun2025 03:46:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 03:48:01.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 03:48:12.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[28Jun2025 03:48:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was frozen to death by Illusioner
+[28Jun2025 03:48:48.813] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 03:49:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1100 81 103
+[28Jun2025 03:49:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1100.500000, 81.000000, 103.500000]
+[28Jun2025 03:49:56.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 03:51:18.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[28Jun2025 03:51:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[28Jun2025 03:52:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> mejorvoyaescribir
+[28Jun2025 03:52:06.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> asi no m retan
+[28Jun2025 03:52:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ysi
+[28Jun2025 03:52:18.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> mira la hora
+[28Jun2025 03:52:18.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Take Aim]
+[28Jun2025 03:52:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [People Are Strange]
+[28Jun2025 03:52:24.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> agarra el cel
+[28Jun2025 03:52:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> abri la ventana
+[28Jun2025 03:53:25.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[28Jun2025 03:53:29.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> yotengopan
+[28Jun2025 03:53:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> 51
+[28Jun2025 03:53:50.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 03:53:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tp a mi o a vo
+[28Jun2025 03:54:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 03:54:05.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> comoruega
+[28Jun2025 03:54:41.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was shot by Pillager
+[28Jun2025 03:54:42.014] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 03:54:48.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[28Jun2025 03:54:52.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 129 139 -947
+[28Jun2025 03:55:28.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 129.500000, 139.000000, -946.500000]
+[28Jun2025 03:57:23.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> iwal
+[28Jun2025 03:58:27.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[28Jun2025 03:58:27.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[28Jun2025 03:58:27.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[28Jun2025 03:58:40.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:47017] logged in with entity id 160007 at (1131.5503854840374, 80.0, -401.0714176373322)
+[28Jun2025 03:58:40.878] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[28Jun2025 03:58:40.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[28Jun2025 03:58:40.924] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[28Jun2025 03:58:41.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[28Jun2025 03:58:41.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[28Jun2025 03:58:51.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 03:58:52.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 03:58:52.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat

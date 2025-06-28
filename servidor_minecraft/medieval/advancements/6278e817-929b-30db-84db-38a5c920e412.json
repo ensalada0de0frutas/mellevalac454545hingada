@@ -866,7 +866,9 @@
       "bread": "2025-06-28 01:46:03 +0000",
       "suspicious_stew": "2025-06-28 02:23:10 +0000",
       "glow_berries": "2025-06-21 23:10:22 +0000",
-      "mushroom_stew": "2025-06-28 00:29:33 +0000"
+      "mushroom_stew": "2025-06-28 00:29:33 +0000",
+      "rabbit_stew": "2025-06-28 04:42:01 +0000",
+      "carrot": "2025-06-28 04:58:27 +0000"
     },
     "done": false
   },
@@ -2971,6 +2973,7 @@
       "minecraft:spider": "2025-06-28 01:42:11 +0000",
       "minecraft:creeper": "2025-06-28 01:58:26 +0000",
       "minecraft:witch": "2025-06-28 01:51:48 +0000",
+      "minecraft:cave_spider": "2025-06-28 04:36:19 +0000",
       "minecraft:enderman": "2025-06-28 02:36:20 +0000",
       "minecraft:zombie": "2025-06-28 01:43:02 +0000",
       "minecraft:zombie_villager": "2025-06-28 04:19:13 +0000"
@@ -5203,27 +5206,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "give_recipe": "2025-06-28 04:22:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 04:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 04:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 04:22:30 +0000"
+      "location0": "2025-06-28 04:19:00 +0000"
     },
     "done": true
   },
@@ -5233,15 +5218,81 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dark_oak_side_table": {
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
-      "has_dark_oak_side_table": "2025-06-28 04:22:30 +0000"
+      "has_kitchen_hood_pipe": "2025-06-28 04:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:14 +0000"
     },
     "done": true
   },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-28 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-28 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:20:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-06-28 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:22:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-06-28 04:22:30 +0000"
     },
     "done": true
   },
@@ -5308,12 +5359,6 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2025-06-28 04:22:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-06-28 04:21:32 +0000"
     },
     "done": true
   },
@@ -5389,12 +5434,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 04:20:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-06-28 04:22:30 +0000"
@@ -5416,12 +5455,6 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:22:30 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-28 04:20:14 +0000"
     },
     "done": true
   },
@@ -5551,12 +5584,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-28 04:20:14 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-06-28 04:22:30 +0000"
@@ -5587,24 +5614,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-06-28 04:19:11 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-06-28 04:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 04:20:14 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-06-28 04:22:30 +0000"
@@ -5614,12 +5623,6 @@
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-28 04:22:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 04:20:14 +0000"
     },
     "done": true
   },
@@ -5656,6 +5659,276 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-06-28 04:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-28 04:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-28 04:26:01 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-28 04:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 04:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-28 04:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 04:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-06-28 04:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-28 04:36:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-28 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-28 04:41:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 04:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:35:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-28 04:35:49 +0000"
     },
     "done": true
   },

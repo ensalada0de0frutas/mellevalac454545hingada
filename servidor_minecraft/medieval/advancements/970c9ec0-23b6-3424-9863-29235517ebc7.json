@@ -186,6 +186,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "sandy_dirt": "2025-06-28 19:18:12 +0000",
       "dirt": "2025-06-21 22:56:58 +0000"
     },
     "done": false

@@ -1962,3 +1962,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 19:09:47.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
 [28Jun2025 19:09:50.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
 [28Jun2025 19:10:03.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 19:19:19.251] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Flancito0_ just tried to change non-editable sign
+[28Jun2025 19:20:07.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> corail tombstone
+[28Jun2025 19:21:44.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 107.500000, 169.500000, -1107.500000]
+[28Jun2025 19:22:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 536.500000, 120.500000, -1024.500000]
+[28Jun2025 19:22:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> xaero-waypoint:casa provicional:C:1189:125:-661:14:false:0:Internal-overworld-waypoints
+[28Jun2025 19:22:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 536.500000, 120.500000, -1024.500000]

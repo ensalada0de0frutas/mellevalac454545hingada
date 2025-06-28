@@ -8221,21 +8221,39 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-28 18:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-06-28 18:36:04 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+  "mowziesmobs:kill_bluff": {
     "criteria": {
-      "give_recipe": "2025-06-28 18:56:36 +0000"
+      "bluff": "2025-06-28 18:49:12 +0000"
     },
     "done": true
   },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2025-06-28 18:56:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-06-28 18:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 18:56:36 +0000"
     },
     "done": true
   },
@@ -8254,18 +8272,6 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 18:56:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-06-28 19:04:41 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_bluff": {
-    "criteria": {
-      "bluff": "2025-06-28 18:49:12 +0000"
     },
     "done": true
   },
@@ -8305,18 +8311,6 @@
     },
     "done": true
   },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-06-28 18:27:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/calcite_corner_trim": {
-    "criteria": {
-      "has_calcite_corner_trim": "2025-06-28 18:56:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 18:56:36 +0000"
@@ -8338,6 +8332,78 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 18:56:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-06-28 19:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-28 19:24:34 +0000"
     },
     "done": true
   },

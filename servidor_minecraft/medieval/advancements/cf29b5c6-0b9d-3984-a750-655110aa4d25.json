@@ -5004,6 +5004,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-22 19:56:27 +0000",
+      "entered_stables": "2025-06-27 23:55:03 +0000",
       "entered_pillager_camp": "2025-06-22 23:48:17 +0000",
       "entered_desert_temple": "2025-06-23 00:31:07 +0000"
     },

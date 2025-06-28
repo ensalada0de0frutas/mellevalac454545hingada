@@ -110,6 +110,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-22 20:11:35 +0000",
       "minecraft:deep_dark": "2025-06-23 00:13:16 +0000",
       "minecraft:meadow": "2025-06-22 20:01:21 +0000",
+      "minecraft:savanna": "2025-06-28 00:00:48 +0000",
       "minecraft:plains": "2025-06-21 22:55:40 +0000"
     },
     "done": false
@@ -7706,6 +7707,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-28 00:05:41 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/oak_leaves": {
     "criteria": {
       "has_copper_block": "2025-06-27 23:39:43 +0000"
@@ -7805,6 +7812,12 @@
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-06-27 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-28 00:05:54 +0000"
     },
     "done": true
   },

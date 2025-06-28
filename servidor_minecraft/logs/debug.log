@@ -13354,3 +13354,107 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 00:03:57.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [28Jun2025 00:03:58.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [28Jun2025 00:03:59.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:05.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:05.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:05.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[28Jun2025 00:04:06.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:07.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:08.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:08.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:08.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:09.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:10.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:11.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:11.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:12.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:20.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:21.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:22.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[28Jun2025 00:04:25.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sofx0Loder was created at position [x:1667, y:89, z:-1909, dim:minecraft:overworld]
+[28Jun2025 00:04:25.589] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 00:04:29.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:30.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 00:04:31.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[28Jun2025 00:04:38.694] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1693, y:90, z:-1915, dim:minecraft:overworld]
+[28Jun2025 00:04:38.699] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:04:42.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:44.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:46.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:46.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:47.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:57.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 00:04:57.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 00:04:58.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:04:59.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:05:05.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:11.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:11.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:15.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:16.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:18.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:18.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:18.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Umvuthi, the Sunbird
+[28Jun2025 00:05:19.233] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sofx0Loder was created at position [x:1666, y:92, z:-1928, dim:minecraft:overworld]
+[28Jun2025 00:05:19.237] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 00:05:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 00:05:24.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 00:05:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Birds of a Feather]
+[28Jun2025 00:05:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 00:05:35.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:36.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Birds of a Feather]
+[28Jun2025 00:05:42.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:45.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:46.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:47.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:47.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:48.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:49.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:50.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:51.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:51.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:52.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:53.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:54.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:54.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:05:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Praise the Sun]
+[28Jun2025 00:06:59.522] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of caraputi: {disabled=true, disconnected=false, uuid=970c9ec0-23b6-3424-9863-29235517ebc7, name=caraputi, group=null}
+[28Jun2025 00:08:58.554] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of caraputi: {disabled=false, disconnected=false, uuid=970c9ec0-23b6-3424-9863-29235517ebc7, name=caraputi, group=null}
+[28Jun2025 00:09:32.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:33.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:34.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:45.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:46.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:56.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:09:57.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 00:09:57.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 00:10:22.787] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[28Jun2025 00:10:29.336] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:10:30.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:10:36.873] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of argentinas_delight:estructuraespinaca
+[28Jun2025 00:10:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Enderman
+[28Jun2025 00:10:46.136] [Server thread/DEBUG] [tombstone/]: A new grave of the player caraputi was created at position [x:1554, y:98, z:-1898, dim:minecraft:overworld]
+[28Jun2025 00:10:46.152] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:10:52.051] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[28Jun2025 00:10:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:10:56.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:10:56.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:10:58.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:11:17.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 00:11:31.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[28Jun2025 00:11:31.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[28Jun2025 00:11:31.291] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:11:31.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:11:52.929] [Worker-Main-15/DEBUG] [ModernFix/]: Structure hopo:portal2 is being run through DFU (hash 541696daab11ea3b4463c134b0879de1efb58c37142d8ba764b1ab2c96699980), this will cause launch time delays
+[28Jun2025 00:12:28.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:12:28.939] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:12:29.639] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 00:12:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:12:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Your First Receptacle]
+[28Jun2025 00:13:56.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of caraputi: {disabled=true, disconnected=false, uuid=970c9ec0-23b6-3424-9863-29235517ebc7, name=caraputi, group=null}

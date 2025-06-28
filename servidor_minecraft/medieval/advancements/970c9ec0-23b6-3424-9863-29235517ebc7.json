@@ -105,6 +105,7 @@
       "minecraft:jungle": "2025-06-22 23:47:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 20:12:00 +0000",
       "minecraft:meadow": "2025-06-22 20:09:35 +0000",
+      "minecraft:savanna": "2025-06-28 00:00:58 +0000",
       "minecraft:plains": "2025-06-21 23:02:57 +0000"
     },
     "done": false
@@ -6805,6 +6806,12 @@
   "mca:root": {
     "criteria": {
       "village_plains": "2025-06-27 23:47:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-28 00:05:33 +0000"
     },
     "done": true
   },

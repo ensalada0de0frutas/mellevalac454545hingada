@@ -1,3 +1,24 @@
 [28Jun2025 00:02:26.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Umvuthana
 [28Jun2025 00:02:26.366] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [28Jun2025 00:02:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:04:05.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[28Jun2025 00:04:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[28Jun2025 00:04:25.589] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 00:04:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 00:04:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[28Jun2025 00:04:38.699] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:05:02.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:05:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Umvuthi, the Sunbird
+[28Jun2025 00:05:19.237] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 00:05:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 00:05:24.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 00:05:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Birds of a Feather]
+[28Jun2025 00:05:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 00:05:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Birds of a Feather]
+[28Jun2025 00:05:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [Praise the Sun]
+[28Jun2025 00:10:30.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:10:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Enderman
+[28Jun2025 00:10:46.152] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 00:10:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:12:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 00:12:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Your First Receptacle]

@@ -7556,6 +7556,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-28 02:41:37 +0000"
@@ -7568,9 +7580,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-06-28 02:53:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-06-28 03:07:42 +0000"
     },
     "done": true
   },
@@ -7583,6 +7613,12 @@
   "toughasnails:recipes/food/sweet_berry_juice": {
     "criteria": {
       "has_sweet_berries": "2025-06-28 02:53:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-06-28 03:07:42 +0000"
     },
     "done": true
   },

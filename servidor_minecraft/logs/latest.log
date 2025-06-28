@@ -894,3 +894,83 @@
 [28Jun2025 03:07:30.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg moved too quickly! -3.365844773527897,2.0,9.519388544511457
 [28Jun2025 03:07:31.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> bababoi
 [28Jun2025 03:07:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> estoy cansado jefe
+[28Jun2025 03:07:46.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tepero cada 2 por 3
+[28Jun2025 03:07:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tepeo
+[28Jun2025 03:07:58.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> pone llave con tp
+[28Jun2025 03:08:06.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tengo q reiniciar
+[28Jun2025 03:08:17.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by Zombie
+[28Jun2025 03:08:17.267] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 03:08:17.465] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 03:08:17.465] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[28Jun2025 03:08:17.465] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 03:08:17.465] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 03:08:17.465] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 03:08:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ke
+[28Jun2025 03:08:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> :3
+[28Jun2025 03:08:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mismas coord
+[28Jun2025 03:08:27.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to 1680.500000, -45.000000, -2130.500000]
+[28Jun2025 03:08:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 03:08:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no sean ratas y no lo hagan
+[28Jun2025 03:08:33.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ademas
+[28Jun2025 03:08:47.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> pueden conseguir eso sin nada de comandos
+[28Jun2025 03:08:55.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> solo tienen k subir d nivel
+[28Jun2025 03:09:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> matando mobs creo
+[28Jun2025 03:09:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 03:09:37.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[28Jun2025 03:09:37.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[28Jun2025 03:09:37.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Jun2025 03:09:37.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[28Jun2025 03:09:37.220] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:09:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> tenia 4 allay y me quedo 1
+[28Jun2025 03:09:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lol
+[28Jun2025 03:09:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> todo por q entre a una cueva
+[28Jun2025 03:11:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> dc o miedo
+[28Jun2025 03:11:10.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> maburro
+[28Jun2025 03:11:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no estabas en llamada?
+[28Jun2025 03:11:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ña
+[28Jun2025 03:11:38.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> yano
+[28Jun2025 03:11:40.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> hace ratazo
+[28Jun2025 03:11:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> unete al grupo
+[28Jun2025 03:11:51.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> paja ir a dc
+[28Jun2025 03:11:56.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> emmh
+[28Jun2025 03:11:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ayuda
+[28Jun2025 03:12:02.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> q
+[28Jun2025 03:12:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> el caballero
+[28Jun2025 03:12:14.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> lit m encerro
+[28Jun2025 03:12:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> cierto
+[28Jun2025 03:12:22.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> pera q lleve a mi posible casa
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.517] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[28Jun2025 03:12:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me quedan 600
+[28Jun2025 03:12:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> maci
+[28Jun2025 03:13:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Ferrous Wroughtnaut
+[28Jun2025 03:13:03.036] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 03:13:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> lol
+[28Jun2025 03:14:16.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 03:14:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> vengna a grupo
+[28Jun2025 03:15:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> vamo a dc
+[28Jun2025 03:15:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> x sanit
+[28Jun2025 03:15:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m olvide
+[28Jun2025 03:15:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> hagan tp
+[28Jun2025 03:15:25.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by Zombie
+[28Jun2025 03:15:25.343] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 03:15:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Just a Flesh Wound]
+[28Jun2025 03:15:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1807 -1 -2049
+[28Jun2025 03:15:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> gg
+[28Jun2025 03:15:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 1807.500000, -1.000000, -2048.500000]
+[28Jun2025 03:16:02.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to 1807.500000, -1.000000, -2048.500000]
+[28Jun2025 03:16:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 03:16:12.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by Zombie
+[28Jun2025 03:16:12.699] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 03:16:12.981] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 03:16:12.981] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[28Jun2025 03:16:12.981] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 03:16:12.981] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 03:16:12.981] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 03:16:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to 1807.500000, -1.000000, -2048.500000]
+[28Jun2025 03:16:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 722.500000, 158.500000, -1093.500000]
+[28Jun2025 03:16:41.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]

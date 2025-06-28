@@ -1164,3 +1164,90 @@
 [28Jun2025 03:58:51.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [28Jun2025 03:58:52.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [28Jun2025 03:58:52.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[28Jun2025 04:01:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> cualquiera de los opcionales
+[28Jun2025 04:01:21.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> si te quejaste
+[28Jun2025 04:01:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Kamath
+[28Jun2025 04:01:43.231] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 04:01:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> JSKAJSKAJA
+[28Jun2025 04:01:53.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[28Jun2025 04:01:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[28Jun2025 04:01:53.799] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[28Jun2025 04:02:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 04:02:32.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [People Are Strange]
+[28Jun2025 04:02:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Kamath
+[28Jun2025 04:02:55.552] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 04:02:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Kamath
+[28Jun2025 04:02:58.360] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 04:02:58.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 04:02:58.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[28Jun2025 04:02:58.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 04:02:58.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 04:02:58.412] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 04:02:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> JAKSJSAJA
+[28Jun2025 04:03:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 04:03:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Kamath
+[28Jun2025 04:03:19.757] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 04:03:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by magic
+[28Jun2025 04:03:49.504] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 04:03:49.652] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 04:03:49.652] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[28Jun2025 04:03:49.652] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 04:03:49.652] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 04:03:49.652] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 04:03:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 04:03:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Kamath
+[28Jun2025 04:03:55.266] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 04:03:55.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 04:03:55.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[28Jun2025 04:03:55.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 04:03:55.376] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 04:03:55.377] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 04:04:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [New Champion]
+[28Jun2025 04:04:10.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 04:04:29.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tremenda violada fue esa
+[28Jun2025 04:04:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> que tiro el vago
+[28Jun2025 04:05:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hablaba en mute
+[28Jun2025 04:05:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 04:06:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Best Friends Forever]
+[28Jun2025 04:06:36.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 04:06:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 04:07:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> algo que no sepamos
+[28Jun2025 04:07:32.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> lol
+[28Jun2025 04:07:51.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> por boludo
+[28Jun2025 04:08:50.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> encontre donde hacerme mi casa
+[28Jun2025 04:08:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> muejejeje
+[28Jun2025 04:09:10.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> yo tengo que aplanar
+[28Jun2025 04:09:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> modecai
+[28Jun2025 04:10:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Ernos
+[28Jun2025 04:10:11.264] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 04:10:40.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tengo un mordecai de mascota
+[28Jun2025 04:10:43.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ke
+[28Jun2025 04:10:55.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> pera
+[28Jun2025 04:11:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tengo k buscar donde v ivir
+[28Jun2025 04:11:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tengo mascotas bro
+[28Jun2025 04:12:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Sofx0Loder]
+[28Jun2025 04:14:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> mehiceunacasaprov
+[28Jun2025 04:14:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> MECAGUETODO
+[28Jun2025 04:14:38.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.155.232.48:54101] logged in with entity id 171161 at (278.80714321414206, 79.0625, -797.8737035064917)
+[28Jun2025 04:14:38.769] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player itzloikg
+[28Jun2025 04:14:38.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[28Jun2025 04:14:38.810] [Server thread/INFO] [Jade/]: Syncing config to itzloikg (6278e817-929b-30db-84db-38a5c920e412)
+[28Jun2025 04:14:40.950] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[28Jun2025 04:14:40.950] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[28Jun2025 04:14:44.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[28Jun2025 04:14:45.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[28Jun2025 04:14:45.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[28Jun2025 04:15:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> micasaque
+[28Jun2025 04:15:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> chupala
+[28Jun2025 04:17:05.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> dale pobre
+[28Jun2025 04:17:21.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> santi
+[28Jun2025 04:17:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> pto
+[28Jun2025 04:18:06.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/172419, l='ServerLevel[medieval]', x=894.50, y=70.00, z=-1159.02] died: Gunnarr was slain by caraputi
+[28Jun2025 04:18:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1185, y=126, z=-663} BlockPos{x=1186, y=126, z=-663}
+[28Jun2025 04:18:29.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['bally'/172457, l='ServerLevel[medieval]', x=897.45, y=70.00, z=-1157.51] died: bally was slain by caraputi
+[28Jun2025 04:18:29.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Sally'/172456, l='ServerLevel[medieval]', x=899.28, y=70.00, z=-1155.74] died: Sally was slain by caraputi
+[28Jun2025 04:18:30.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Wally'/172455, l='ServerLevel[medieval]', x=897.63, y=70.00, z=-1157.52] died: Wally was slain by caraputi
+[28Jun2025 04:18:54.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ledeciaalsanti
+[28Jun2025 04:19:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [People Are Strange]
+[28Jun2025 04:19:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Local Brewery]
+[28Jun2025 04:19:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hoy sale desvelada

@@ -2797,9 +2797,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -2809,15 +2851,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-28 02:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -2845,11 +2929,47 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-28 02:12:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_ruined_building": "2025-06-28 01:56:21 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -2862,9 +2982,27 @@
     },
     "done": false
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -2880,6 +3018,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
@@ -2892,9 +3036,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-28 01:58:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -2904,9 +3078,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-28 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-28 02:06:25 +0000"
     },
     "done": true
   },
@@ -2916,9 +3114,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-28 02:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -2946,9 +3186,69 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
     },
     "done": true
   },
@@ -2964,6 +3264,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
@@ -2976,9 +3288,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3000,9 +3330,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-28 02:11:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-06-28 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3012,9 +3354,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-06-28 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
     },
     "done": true
   },
@@ -3066,6 +3420,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
@@ -3084,6 +3450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-06-28 01:58:55 +0000"
@@ -3093,6 +3465,30 @@
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-06-28 01:49:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-28 02:12:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3108,9 +3504,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
     },
     "done": true
   },
@@ -3120,9 +3540,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2025-06-28 01:56:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
     },
     "done": true
   },
@@ -3138,9 +3576,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-06-28 01:49:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3162,9 +3636,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3174,15 +3678,63 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-28 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-28 01:41:22 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-28 02:12:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-06-28 01:53:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
     },
     "done": true
   },
@@ -3204,9 +3756,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3228,15 +3792,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },
@@ -3252,15 +3846,81 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:pillager": "2025-06-28 01:42:05 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-28 02:11:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 02:07:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-28 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-28 02:06:25 +0000"
     },
     "done": true
   },
@@ -3273,6 +3933,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-06-28 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-28 02:13:42 +0000"
     },
     "done": true
   },

@@ -860,6 +860,7 @@
       "minecraft:cave_spider": "2025-06-22 21:01:22 +0000",
       "minecraft:silverfish": "2025-06-22 23:26:05 +0000",
       "minecraft:stray": "2025-06-22 23:41:14 +0000",
+      "minecraft:enderman": "2025-06-28 02:11:30 +0000",
       "minecraft:vex": "2025-06-22 23:19:27 +0000",
       "minecraft:zombie": "2025-06-21 22:44:53 +0000",
       "minecraft:drowned": "2025-06-23 18:55:17 +0000"
@@ -3794,7 +3795,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-06-21 23:48:00 +0000"
+      "dirt": "2025-06-21 23:48:00 +0000",
+      "podzol": "2025-06-28 02:11:31 +0000"
     },
     "done": false
   },

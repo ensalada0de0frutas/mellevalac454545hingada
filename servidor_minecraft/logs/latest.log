@@ -246,3 +246,17 @@
 [28Jun2025 01:12:07.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> unite
 [28Jun2025 01:13:22.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [28Jun2025 01:13:47.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 01:18:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[28Jun2025 01:21:13.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[28Jun2025 01:22:12.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rovshana'/30095, l='ServerLevel[medieval]', x=1833.27, y=82.00, z=-2726.15] died, message: 'Rovshana was slain by Zombie'
+[28Jun2025 01:22:12.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rovshana'/30095, l='ServerLevel[medieval]', x=1833.27, y=82.00, z=-2726.15] died: Rovshana was slain by Zombie
+[28Jun2025 01:22:17.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Lighthouse]
+[28Jun2025 01:22:23.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> volvi
+[28Jun2025 01:22:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> mimanmiman
+[28Jun2025 01:22:42.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked itzloikg: Kicked by an operator]
+[28Jun2025 01:22:42.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Kicked by an operator
+[28Jun2025 01:22:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[28Jun2025 01:22:42.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[28Jun2025 01:22:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ZZZ
+[28Jun2025 01:22:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> la saque
+[28Jun2025 01:24:07.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!

@@ -1995,3 +1995,104 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 19:32:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
 [28Jun2025 19:35:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
 [28Jun2025 19:35:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> unite al dc
+[28Jun2025 19:36:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was shot by Sofx0Loder
+[28Jun2025 19:36:17.702] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 19:36:25.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> bruh
+[28Jun2025 19:36:52.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf29b5c6-0b9d-3984-a750-655110aa4d25 timed out
+[28Jun2025 19:36:52.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sofx0Loder
+[28Jun2025 19:36:52.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[28Jun2025 19:36:56.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: You logged in from another location
+[28Jun2025 19:36:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[28Jun2025 19:36:56.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[28Jun2025 19:36:56.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:47375] logged in with entity id 63115 at (518.0951498233643, 97.0, -999.9341607045658)
+[28Jun2025 19:36:56.570] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Sofx0Loder
+[28Jun2025 19:36:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[28Jun2025 19:36:56.650] [Server thread/INFO] [Jade/]: Syncing config to Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25)
+[28Jun2025 19:36:56.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[28Jun2025 19:36:56.871] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[28Jun2025 19:37:02.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:37:03.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:37:03.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[28Jun2025 19:37:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[28Jun2025 19:37:09.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[28Jun2025 19:37:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[28Jun2025 19:37:09.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[28Jun2025 19:37:14.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked caraputi: voolve a entra]
+[28Jun2025 19:37:14.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: voolve a entra
+[28Jun2025 19:37:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[28Jun2025 19:37:14.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[28Jun2025 19:37:21.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:51309] logged in with entity id 63178 at (1172.9376560413114, 126.0, -666.8689581472872)
+[28Jun2025 19:37:21.163] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[28Jun2025 19:37:21.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[28Jun2025 19:37:21.196] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[28Jun2025 19:37:21.919] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[28Jun2025 19:37:21.919] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[28Jun2025 19:37:31.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 19:37:32.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 19:37:32.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[28Jun2025 19:37:39.488] [ForkJoinPool.commonPool-worker-21/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[28Jun2025 19:37:39.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:51021] logged in with entity id 63484 at (1175.4348298081052, 126.0, -666.8760244758931)
+[28Jun2025 19:37:39.526] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[28Jun2025 19:37:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[28Jun2025 19:37:39.599] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[28Jun2025 19:37:40.110] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[28Jun2025 19:37:40.110] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[28Jun2025 19:37:54.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 19:37:55.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 19:37:55.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[28Jun2025 19:39:04.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 19:42:27.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Statue's Bargain]
+[28Jun2025 19:43:27.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf29b5c6-0b9d-3984-a750-655110aa4d25 timed out
+[28Jun2025 19:43:27.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sofx0Loder
+[28Jun2025 19:43:27.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[28Jun2025 19:43:27.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:43:28.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:43:28.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[28Jun2025 19:45:16.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cf29b5c6-0b9d-3984-a750-655110aa4d25 timed out
+[28Jun2025 19:45:16.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Sofx0Loder
+[28Jun2025 19:45:16.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[28Jun2025 19:45:16.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:45:17.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 19:45:17.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[28Jun2025 19:46:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ernos fur
+[28Jun2025 19:46:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 19:47:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 19:50:27.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 19:52:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 19:52:37.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Potita'/67742, l='ServerLevel[medieval]', x=895.03, y=147.98, z=-765.39] died, message: 'Potita was slain by Zombie'
+[28Jun2025 19:52:37.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Potita'/67742, l='ServerLevel[medieval]', x=895.03, y=147.98, z=-765.39] died: Potita was slain by Zombie
+[28Jun2025 19:52:48.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni a dxc
+[28Jun2025 19:53:16.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni a dxc}
+[28Jun2025 19:54:02.241] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nicolina}[style={}] has been infected
+[28Jun2025 19:55:00.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 19:55:30.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 536.500000, 120.500000, -1024.500000]
+[28Jun2025 19:55:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 575.500000, 146.500000, -740.500000]
+[28Jun2025 19:56:05.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 536.500000, 120.500000, -1024.500000]
+[28Jun2025 20:00:07.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Dragon
+[28Jun2025 20:00:07.083] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 20:00:07.152] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 20:00:07.153] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[28Jun2025 20:00:07.153] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 20:00:07.153] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 20:00:07.154] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 20:00:16.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni a la llamadaaaa
+[28Jun2025 20:00:21.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 687 180 -534
+[28Jun2025 20:00:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni a la llamadaaaa
+[28Jun2025 20:00:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 587.500000, 180.000000, -533.500000]
+[28Jun2025 20:01:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 687.500000, 180.000000, -533.500000]
+[28Jun2025 20:01:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Dragon
+[28Jun2025 20:01:30.528] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 20:01:39.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 687.500000, 180.000000, -533.500000]
+[28Jun2025 20:01:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to caraputi]
+[28Jun2025 20:03:02.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was shot by Skeleton
+[28Jun2025 20:03:02.365] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 20:03:02.503] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 20:03:02.503] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[28Jun2025 20:03:02.504] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 20:03:02.504] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 20:03:02.504] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Jun2025 20:03:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to Flancito0_]
+[28Jun2025 20:03:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Take Aim, Chaps!]
+[28Jun2025 20:05:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ froze to death
+[28Jun2025 20:05:09.184] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 20:06:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Double Hungry]

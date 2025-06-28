@@ -90,8 +90,10 @@
       "minecraft:taiga": "2025-06-21 23:50:08 +0000",
       "minecraft:frozen_river": "2025-06-28 02:58:44 +0000",
       "minecraft:cherry_grove": "2025-06-22 23:42:48 +0000",
+      "minecraft:birch_forest": "2025-06-28 19:54:08 +0000",
       "minecraft:wooded_badlands": "2025-06-23 00:19:55 +0000",
       "minecraft:beach": "2025-06-21 23:16:29 +0000",
+      "minecraft:dark_forest": "2025-06-28 19:53:35 +0000",
       "minecraft:sparse_jungle": "2025-06-22 23:48:50 +0000",
       "minecraft:river": "2025-06-21 23:25:25 +0000",
       "minecraft:lukewarm_ocean": "2025-06-22 23:44:21 +0000",
@@ -7910,6 +7912,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-06-28 19:55:42 +0000",
       "potato": "2025-06-28 04:55:34 +0000",
       "carrot": "2025-06-28 05:01:34 +0000"
     },
@@ -8404,6 +8407,48 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-06-28 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-06-28 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-06-28 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-06-28 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-28 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-06-28 19:40:54 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2025-06-28 19:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-28 19:40:54 +0000"
     },
     "done": true
   },

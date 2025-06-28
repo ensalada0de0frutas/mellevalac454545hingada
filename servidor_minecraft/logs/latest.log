@@ -1933,3 +1933,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 18:54:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
 [28Jun2025 18:54:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
 [28Jun2025 18:54:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:55:25.633] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/39299, l='ServerLevel[medieval]', x=501.70, y=-3.41, z=-1773.82] as it would cause deadlock
+[28Jun2025 18:55:32.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:55:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 18:56:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 18:56:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:56:59.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:57:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Flancito0_
+[28Jun2025 18:57:20.865] [Server thread/INFO] [tombstone/]: The player Sofx0Loder has successfully been saved
+[28Jun2025 18:57:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed
+[28Jun2025 18:57:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Killed Flancito0_]
+[28Jun2025 18:57:28.630] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 18:57:53.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed
+[28Jun2025 18:57:53.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Killed Flancito0_]
+[28Jun2025 18:57:53.024] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 18:58:04.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Killed Flancito0_]
+[28Jun2025 18:58:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:58:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Strong or Careful]
+[28Jun2025 18:58:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was shot by Pillager
+[28Jun2025 18:58:37.572] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 18:58:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 18:58:51.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 794 61 -1574
+[28Jun2025 18:59:04.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 794.500000, 61.000000, -1573.500000]
+[28Jun2025 19:02:27.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Vindicator
+[28Jun2025 19:02:27.925] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 19:02:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 844 66 -1606
+[28Jun2025 19:02:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 794.500000, 61.000000, -1573.500000]
+[28Jun2025 19:09:47.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 19:09:50.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 19:10:03.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!

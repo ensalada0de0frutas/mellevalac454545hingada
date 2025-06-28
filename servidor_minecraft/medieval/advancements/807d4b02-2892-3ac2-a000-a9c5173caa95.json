@@ -2409,6 +2409,7 @@
       "cooked_porkchop": "2025-06-21 23:31:51 +0000",
       "cooked_mutton": "2025-06-23 00:54:57 +0000",
       "sweet_berries": "2025-06-28 04:14:49 +0000",
+      "apple": "2025-06-28 16:57:05 +0000",
       "bread": "2025-06-22 20:05:14 +0000",
       "golden_apple": "2025-06-22 21:51:41 +0000",
       "suspicious_stew": "2025-06-22 00:11:45 +0000",
@@ -8043,6 +8044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-28 16:52:01 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
@@ -8052,6 +8059,18 @@
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-06-28 16:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-28 16:45:50 +0000"
     },
     "done": true
   },
@@ -8091,6 +8110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-28 16:52:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
@@ -8100,6 +8125,12 @@
   "spartanweaponry:recipes/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-06-28 16:45:50 +0000"
     },
     "done": true
   },
@@ -8127,6 +8158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-28 16:52:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
@@ -8136,6 +8173,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-06-28 16:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-28 16:45:50 +0000"
     },
     "done": true
   },

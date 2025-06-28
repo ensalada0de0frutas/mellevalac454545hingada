@@ -1814,3 +1814,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 16:37:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [28Jun2025 16:37:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [28Jun2025 16:43:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 16:56:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was shot by Skeleton
+[28Jun2025 16:56:55.870] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:00:42.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> diamond cutlass
+[28Jun2025 17:01:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ZZZ
+[28Jun2025 17:01:10.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ZZZ
+[28Jun2025 17:01:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> Z
+[28Jun2025 17:01:10.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> Z
+[28Jun2025 17:01:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> Z
+[28Jun2025 17:01:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ZZZ
+[28Jun2025 17:03:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has completed the challenge [Village Defender]
+[28Jun2025 17:04:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was killed by Witch using magic
+[28Jun2025 17:04:01.754] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:04:14.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1037 109 -957
+[28Jun2025 17:04:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1037.500000, 109.000000, -956.500000]
+[28Jun2025 17:04:48.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Funeral Theft]
+[28Jun2025 17:06:42.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marģeris'/25003, l='ServerLevel[medieval]', x=1215.75, y=103.00, z=-1084.42] died, message: 'Marģeris hit the ground too hard'
+[28Jun2025 17:06:42.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marģeris'/25003, l='ServerLevel[medieval]', x=1215.75, y=103.00, z=-1084.42] died: Marģeris fell from a high place
+[28Jun2025 17:08:36.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/27167, l='ServerLevel[medieval]', x=1209.48, y=81.00, z=-1143.35] died, message: 'Zinaida hit the ground too hard'
+[28Jun2025 17:08:36.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/27167, l='ServerLevel[medieval]', x=1209.48, y=81.00, z=-1143.35] died: Zinaida fell from a high place
+[28Jun2025 17:08:37.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Terēzija'/25023, l='ServerLevel[medieval]', x=1194.50, y=65.00, z=-1131.09] died, message: 'Terēzija hit the ground too hard'
+[28Jun2025 17:08:37.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Terēzija'/25023, l='ServerLevel[medieval]', x=1194.50, y=65.00, z=-1131.09] died: Terēzija fell from a high place
+[28Jun2025 17:08:45.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karlheiner'/27384, l='ServerLevel[medieval]', x=1195.60, y=65.00, z=-1155.47] died, message: 'Karlheiner hit the ground too hard'
+[28Jun2025 17:08:45.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Karlheiner'/27384, l='ServerLevel[medieval]', x=1195.60, y=65.00, z=-1155.47] died: Karlheiner fell from a high place
+[28Jun2025 17:11:01.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 17:11:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 17:12:08.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:12:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was killed by Area Effect Cloud using magic
+[28Jun2025 17:12:19.690] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:12:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1204 96 -1080
+[28Jun2025 17:12:58.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1205.500000, 96.000000, -1079.500000]
+[28Jun2025 17:13:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:13:05.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:13:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:13:16.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 17:16:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:16:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:16:02.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:16:25.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:16:27.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:16:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:16:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:16:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:16:52.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:16:59.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]

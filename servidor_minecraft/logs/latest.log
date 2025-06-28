@@ -1813,3 +1813,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 18:11:08.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [28Jun2025 18:11:08.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
 [28Jun2025 18:12:32.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4676, l='ServerLevel[medieval]', x=35.23, y=164.00, z=-1121.64] died, message: 'Unemployed hit the ground too hard'
+[28Jun2025 18:13:31.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Village Defender]
+[28Jun2025 18:15:19.541] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[28Jun2025 18:15:19.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:39427] logged in with entity id 7254 at (1166.301318480899, 243.0, -1130.862139076117)
+[28Jun2025 18:15:19.613] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[28Jun2025 18:15:19.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[28Jun2025 18:15:19.654] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[28Jun2025 18:15:25.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[28Jun2025 18:15:25.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[28Jun2025 18:15:30.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 18:15:31.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 18:15:31.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[28Jun2025 18:15:32.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[28Jun2025 18:15:55.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oļegs'/7295, l='ServerLevel[medieval]', x=1184.50, y=65.00, z=-1122.55] died, message: 'Oļegs hit the ground too hard'
+[28Jun2025 18:15:55.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oļegs'/7295, l='ServerLevel[medieval]', x=1184.50, y=65.00, z=-1122.55] died: Oļegs fell from a high place
+[28Jun2025 18:15:56.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Jun2025 18:16:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Knowledge raises the soul]
+[28Jun2025 18:16:24.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Jun2025 18:16:39.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Versatility]
+[28Jun2025 18:16:52.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Jun2025 18:17:07.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ./tbgui
+[28Jun2025 18:17:13.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Jun2025 18:17:31.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[28Jun2025 18:17:49.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[28Jun2025 18:18:06.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[28Jun2025 18:18:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has reached the goal [Die Classy]
+[28Jun2025 18:18:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Knowledge raises the soul]
+[28Jun2025 18:18:59.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jūlija'/7277, l='ServerLevel[medieval]', x=1143.70, y=90.00, z=-1105.53] died, message: 'Jūlija hit the ground too hard'
+[28Jun2025 18:18:59.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jūlija'/7277, l='ServerLevel[medieval]', x=1143.70, y=90.00, z=-1105.53] died: Jūlija fell from a high place
+[28Jun2025 18:19:03.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi has made the advancement [Versatility]
+[28Jun2025 18:19:20.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Jun2025 18:19:37.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[28Jun2025 18:19:56.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
+[28Jun2025 18:20:14.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[28Jun2025 18:20:25.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved too quickly! -0.014883264246464023,-15.365479169101945,-0.01921774961988376
+[28Jun2025 18:20:28.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved too quickly! 0.0,-12.313638381626589,0.0
+[28Jun2025 18:20:32.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Jun2025 18:22:38.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[28Jun2025 18:22:38.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[28Jun2025 18:22:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[28Jun2025 18:22:38.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[28Jun2025 18:23:15.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19fcdafd[id=<null>,name=Flancito0_,properties={},legacy=false] (/127.98.20.34:42121) lost connection: Disconnected
+[28Jun2025 18:23:24.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.98.20.34:48967] logged in with entity id 14579 at (528.2457532025478, 141.1661092609382, -641.2808884543275)
+[28Jun2025 18:23:24.374] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Flancito0_
+[28Jun2025 18:23:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[28Jun2025 18:23:24.417] [Server thread/INFO] [Jade/]: Syncing config to Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95)
+[28Jun2025 18:23:25.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[28Jun2025 18:23:25.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[28Jun2025 18:23:34.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 18:23:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Bark Off]
+[28Jun2025 18:23:35.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 18:23:35.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat

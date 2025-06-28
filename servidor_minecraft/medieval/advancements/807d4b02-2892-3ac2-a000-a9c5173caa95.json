@@ -8220,6 +8220,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-06-28 18:36:04 +0000"
+    },
+    "done": false
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-28 18:27:56 +0000"

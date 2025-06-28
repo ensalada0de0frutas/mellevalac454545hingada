@@ -8124,9 +8124,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/versatility": {
+  "tombstone:adventure/choose_grave_type": {
     "criteria": {
-      "coded_trigger": "2025-06-28 18:19:03 +0000"
+      "coded_trigger": "2025-06-28 18:18:11 +0000"
     },
     "done": true
   },
@@ -8136,9 +8136,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_grave_type": {
+  "tombstone:adventure/versatility": {
     "criteria": {
-      "coded_trigger": "2025-06-28 18:18:11 +0000"
+      "coded_trigger": "2025-06-28 18:19:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 18:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-28 18:31:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 18:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 18:31:27 +0000"
     },
     "done": true
   },

@@ -1877,3 +1877,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 18:32:04.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [28Jun2025 18:32:23.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
 [28Jun2025 18:32:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 18:35:36.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzz
+[28Jun2025 18:35:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzz
+[28Jun2025 18:35:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[28Jun2025 18:35:38.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> z
+[28Jun2025 18:35:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked caraputi: Kicked by an operator]
+[28Jun2025 18:35:41.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Kicked by an operator
+[28Jun2025 18:35:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[28Jun2025 18:35:41.353] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client caraputi
+[28Jun2025 18:35:52.142] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[28Jun2025 18:35:52.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:51137] logged in with entity id 24380 at (1337.406214108428, 62.07326432466506, -1152.1578301100944)
+[28Jun2025 18:35:52.174] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[28Jun2025 18:35:52.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[28Jun2025 18:35:52.177] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Boat['Boat'/24381, l='ServerLevel[medieval]', x=1337.41, y=62.52, z=-1152.16] as it would cause deadlock
+[28Jun2025 18:35:52.278] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[28Jun2025 18:35:53.708] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[28Jun2025 18:35:53.708] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[28Jun2025 18:36:07.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 18:36:08.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 18:36:08.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[28Jun2025 18:36:46.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 18:37:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 18:38:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 18:39:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Fishy Business]
+[28Jun2025 18:40:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 577.500000, 149.500000, -733.500000]
+[28Jun2025 18:40:24.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Jun2025 18:40:45.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind
+[28Jun2025 18:41:06.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
+[28Jun2025 18:41:26.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[28Jun2025 18:41:46.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[28Jun2025 18:42:05.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3983ms or 79 ticks behind
+[28Jun2025 18:42:24.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4581ms or 91 ticks behind
+[28Jun2025 18:42:43.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
+[28Jun2025 18:43:01.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[28Jun2025 18:43:19.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
+[28Jun2025 18:43:37.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[28Jun2025 18:44:03.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=598, y=146, z=-777} BlockPos{x=598, y=144, z=-777}
+[28Jun2025 18:44:03.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=598, y=146, z=-777} BlockPos{x=598, y=144, z=-777}
+[28Jun2025 18:44:03.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=599, y=146, z=-776} BlockPos{x=598, y=144, z=-777}
+[28Jun2025 18:44:16.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=606, y=147, z=-779} BlockPos{x=606, y=145, z=-779}
+[28Jun2025 18:44:17.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=608, y=147, z=-778} BlockPos{x=609, y=146, z=-777}
+[28Jun2025 18:44:19.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[28Jun2025 18:44:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ froze to death
+[28Jun2025 18:44:23.058] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved

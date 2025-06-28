@@ -8552,6 +8552,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-06-28 18:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-28 18:39:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/versatility": {
     "criteria": {
       "coded_trigger": "2025-06-28 18:16:39 +0000"
@@ -8573,6 +8585,18 @@
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-06-28 18:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-28 18:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-28 18:39:15 +0000"
     },
     "done": true
   },

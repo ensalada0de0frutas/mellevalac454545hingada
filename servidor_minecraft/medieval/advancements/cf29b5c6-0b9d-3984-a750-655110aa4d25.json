@@ -8522,9 +8522,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-28 17:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_wood_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 17:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-06-28 17:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 17:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-28 17:47:02 +0000"
     },
     "done": true
   },

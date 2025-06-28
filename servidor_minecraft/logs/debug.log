@@ -13306,3 +13306,122 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 17:24:50.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [28Jun2025 17:25:28.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died, message: 'Veronika hit the ground too hard'
 [28Jun2025 17:25:28.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died: Veronika fell from a high place
+[28Jun2025 17:27:19.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:19.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:19.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:21.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:21.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:22.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:23.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:24.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:26.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:27.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:27.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:27:29.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:27:29.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:32:29.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:32:29.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:33:42.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Wolfgard'/39386, l='ServerLevel[medieval]', x=1209.53, y=88.00, z=-1145.97] died, message: 'Wolfgard hit the ground too hard'
+[28Jun2025 17:33:42.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Wolfgard'/39386, l='ServerLevel[medieval]', x=1209.53, y=88.00, z=-1145.97] died: Wolfgard fell from a high place
+[28Jun2025 17:36:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:37:29.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:37:29.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:40:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:41:36.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:41:37.645] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:42:29.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:42:29.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:43:46.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:43:48.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:44:30.976] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=559, y=121, z=-1018}) doesn't have enough leaves around top most log
+[28Jun2025 17:45:18.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:45:18.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.823] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.879] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:18.982] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.076] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.427] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.574] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:19.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:21.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 17:45:23.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.825] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:23.977] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:45:24.024] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Jun2025 17:47:29.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:47:29.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:52:22.694] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=560, y=122, z=-1018}) doesn't have enough leaves around top most log
+[28Jun2025 17:52:28.033] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=560, y=122, z=-1015}) doesn't have enough leaves around top most log
+[28Jun2025 17:52:29.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:52:29.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:52:57.882] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=557, y=122, z=-1024}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:11.243] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1028}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:33.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ludmila'/39193, l='ServerLevel[medieval]', x=1197.46, y=73.00, z=-1107.88] died, message: 'Ludmila hit the ground too hard'
+[28Jun2025 17:53:33.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ludmila'/39193, l='ServerLevel[medieval]', x=1197.46, y=73.00, z=-1107.88] died: Ludmila fell from a high place
+[28Jun2025 17:53:45.150] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1032}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:45.847] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1031}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:46.499] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1030}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:46.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evelina'/39206, l='ServerLevel[medieval]', x=1143.43, y=90.00, z=-1105.29] died, message: 'Evelina hit the ground too hard'
+[28Jun2025 17:53:46.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Evelina'/39206, l='ServerLevel[medieval]', x=1143.43, y=90.00, z=-1105.29] died: Evelina fell from a high place
+[28Jun2025 17:53:47.095] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1030}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:47.737] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1029}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:48.299] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1029}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:48.899] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1028}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:49.496] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1028}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:50.178] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1027}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:50.782] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1027}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:51.393] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1026}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:51.992] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1026}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:52.632] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1025}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:53.191] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=554, y=122, z=-1025}) doesn't have enough leaves around top most log
+[28Jun2025 17:53:53.797] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=553, y=122, z=-1024}) doesn't have enough leaves around top most log
+[28Jun2025 17:55:27.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eric'/38189, l='ServerLevel[medieval]', x=1186.52, y=65.00, z=-1134.27] died, message: 'Eric hit the ground too hard'
+[28Jun2025 17:55:27.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eric'/38189, l='ServerLevel[medieval]', x=1186.52, y=65.00, z=-1134.27] died: Eric fell from a high place
+[28Jun2025 17:56:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me voy, se arriesgan
+[28Jun2025 17:56:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Voluntary Exile]
+[28Jun2025 17:56:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 17:56:45.100] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[28Jun2025 17:56:45.102] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 17:56:45.103] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 807d4b02-2892-3ac2-a000-a9c5173caa95
+[28Jun2025 17:56:45.103] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: cf29b5c6-0b9d-3984-a750-655110aa4d25
+[28Jun2025 17:56:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 17:56:45.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 17:56:45.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[28Jun2025 17:56:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[28Jun2025 17:56:45.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Server closed
+[28Jun2025 17:56:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[28Jun2025 17:56:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 17:56:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:overworld
+[28Jun2025 17:56:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_end
+[28Jun2025 17:56:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_nether
+[28Jun2025 17:56:48.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save medieval
+[28Jun2025 17:56:48.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete medieval
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (medieval): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 17:56:48.338] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 17:56:48.339] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/mellevalac454545hingada/servidor_minecraft/config/goblintraders-entities.toml
+[28Jun2025 17:56:48.339] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 17:56:48.340] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[28Jun2025 17:56:48.340] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[28Jun2025 17:56:48.406] [Server thread/DEBUG] [dev.uncandango.alltheleaks.AllTheLeaks/]: Rebuild listeners cache took 64ms
+[28Jun2025 17:56:48.407] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

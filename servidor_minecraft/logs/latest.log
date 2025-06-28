@@ -1876,3 +1876,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 17:23:59.596] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
 [28Jun2025 17:25:28.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died, message: 'Veronika hit the ground too hard'
 [28Jun2025 17:25:28.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died: Veronika fell from a high place
+[28Jun2025 17:33:42.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Wolfgard'/39386, l='ServerLevel[medieval]', x=1209.53, y=88.00, z=-1145.97] died, message: 'Wolfgard hit the ground too hard'
+[28Jun2025 17:33:42.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Wolfgard'/39386, l='ServerLevel[medieval]', x=1209.53, y=88.00, z=-1145.97] died: Wolfgard fell from a high place
+[28Jun2025 17:36:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:40:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:53:33.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ludmila'/39193, l='ServerLevel[medieval]', x=1197.46, y=73.00, z=-1107.88] died, message: 'Ludmila hit the ground too hard'
+[28Jun2025 17:53:33.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ludmila'/39193, l='ServerLevel[medieval]', x=1197.46, y=73.00, z=-1107.88] died: Ludmila fell from a high place
+[28Jun2025 17:53:46.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evelina'/39206, l='ServerLevel[medieval]', x=1143.43, y=90.00, z=-1105.29] died, message: 'Evelina hit the ground too hard'
+[28Jun2025 17:53:46.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Evelina'/39206, l='ServerLevel[medieval]', x=1143.43, y=90.00, z=-1105.29] died: Evelina fell from a high place
+[28Jun2025 17:55:27.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eric'/38189, l='ServerLevel[medieval]', x=1186.52, y=65.00, z=-1134.27] died, message: 'Eric hit the ground too hard'
+[28Jun2025 17:55:27.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eric'/38189, l='ServerLevel[medieval]', x=1186.52, y=65.00, z=-1134.27] died: Eric fell from a high place
+[28Jun2025 17:56:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me voy, se arriesgan
+[28Jun2025 17:56:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Voluntary Exile]
+[28Jun2025 17:56:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 17:56:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 17:56:45.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 17:56:45.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[28Jun2025 17:56:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[28Jun2025 17:56:45.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi lost connection: Server closed
+[28Jun2025 17:56:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi left the game
+[28Jun2025 17:56:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 17:56:46.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:overworld
+[28Jun2025 17:56:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_end
+[28Jun2025 17:56:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[medieval]'/minecraft:the_nether
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (medieval): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 17:56:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 17:56:48.338] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jun2025 17:56:48.339] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jun2025 17:56:48.340] [Server thread/INFO] [Framework/]: Finished unloading server configs

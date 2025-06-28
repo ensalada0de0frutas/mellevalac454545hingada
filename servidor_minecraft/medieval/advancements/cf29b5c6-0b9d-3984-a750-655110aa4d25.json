@@ -7641,6 +7641,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-06-28 01:56:35 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/glow_berry_juice": {
     "criteria": {
       "has_glow_berries": "2025-06-28 00:28:07 +0000"
@@ -7764,6 +7770,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-06-28 01:57:56 +0000"
     },
     "done": true
   },
@@ -7938,6 +7950,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-28 02:03:11 +0000"
     },
     "done": true
   },

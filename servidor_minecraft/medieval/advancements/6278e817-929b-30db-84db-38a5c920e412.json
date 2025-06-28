@@ -2803,6 +2803,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/coffee_beans_bag_from_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
@@ -2839,10 +2845,18 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-06-28 01:56:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-28 01:42:05 +0000",
+      "minecraft:skeleton": "2025-06-28 02:04:15 +0000",
       "minecraft:spider": "2025-06-28 01:42:11 +0000",
+      "minecraft:creeper": "2025-06-28 01:58:26 +0000",
       "minecraft:witch": "2025-06-28 01:51:48 +0000",
       "minecraft:zombie": "2025-06-28 01:43:02 +0000"
     },
@@ -2869,6 +2883,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-06-28 02:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-28 01:58:54 +0000"
     },
     "done": true
   },
@@ -2902,9 +2928,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-06-28 02:05:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_sea_lantern": "2025-06-28 01:55:14 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/yellow_dye_from_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
     },
     "done": true
   },
@@ -2917,6 +2955,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-28 01:53:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-06-28 02:04:37 +0000"
     },
     "done": true
   },
@@ -2938,6 +2982,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
@@ -2953,6 +3003,12 @@
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-06-28 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-28 01:58:54 +0000"
     },
     "done": true
   },
@@ -3004,6 +3060,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/roasted_coffee_beans_from_smoking": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
@@ -3022,9 +3084,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-28 01:58:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-06-28 01:49:37 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/roasted_coffee_beans_from_campfire_cooking": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
     },
     "done": true
   },
@@ -3043,6 +3117,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 01:39:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-06-28 01:56:21 +0000"
     },
     "done": true
   },
@@ -3088,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-28 01:58:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-06-28 01:41:22 +0000"
@@ -3112,6 +3198,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-06-28 02:05:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-06-28 01:49:51 +0000"
@@ -3121,6 +3213,18 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-06-28 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/golden_coffee_beans": {
+    "criteria": {
+      "has_coffee_beans": "2025-06-28 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-28 02:04:43 +0000"
     },
     "done": true
   },
@@ -3157,6 +3261,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-28 01:42:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-28 02:04:43 +0000"
     },
     "done": true
   },

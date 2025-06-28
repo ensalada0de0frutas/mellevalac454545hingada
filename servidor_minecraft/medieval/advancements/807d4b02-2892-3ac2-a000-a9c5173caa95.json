@@ -7497,33 +7497,27 @@
     },
     "done": true
   },
-  "toughasnails:recipes/decorations/thermoregulator": {
-    "criteria": {
-      "has_thermometer": "2025-06-28 01:20:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-06-28 01:00:16 +0000"
     },
     "done": true
   },
-  "toughasnails:recipes/redstone/temperature_gauge": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_thermometer": "2025-06-28 01:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 01:01:30 +0000"
+      "has_hay_block": "2025-06-28 01:00:16 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-06-28 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:01:30 +0000"
     },
     "done": true
   },
@@ -7534,15 +7528,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
-      "location0": "2025-06-28 01:22:17 +0000"
+      "has_thermometer": "2025-06-28 01:20:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "toughasnails:recipes/redstone/temperature_gauge": {
     "criteria": {
-      "has_hay_block": "2025-06-28 01:00:16 +0000"
+      "has_thermometer": "2025-06-28 01:20:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-28 01:22:17 +0000"
     },
     "done": true
   },

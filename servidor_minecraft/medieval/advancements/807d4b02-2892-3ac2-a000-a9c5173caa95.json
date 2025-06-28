@@ -1417,6 +1417,7 @@
       "minecraft:wither_skeleton": "2025-06-22 20:33:19 +0000",
       "minecraft:husk": "2025-06-23 00:18:12 +0000",
       "minecraft:enderman": "2025-06-23 01:09:41 +0000",
+      "minecraft:stray": "2025-06-28 03:23:06 +0000",
       "minecraft:zombie": "2025-06-21 22:56:42 +0000",
       "minecraft:drowned": "2025-06-28 03:00:27 +0000"
     },
@@ -7550,6 +7551,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-28 03:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:19:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-06-28 02:53:51 +0000"
@@ -7559,6 +7572,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/decorations/enchantment_block": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:20:02 +0000"
     },
     "done": true
   },
@@ -7580,6 +7599,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-28 03:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-28 03:19:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-06-28 03:07:42 +0000"
@@ -7592,9 +7623,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-06-28 03:19:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-28 03:20:02 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:19:08 +0000"
     },
     "done": true
   },
@@ -7616,9 +7665,45 @@
     },
     "done": true
   },
+  "enchantmentmachine:recipes/decorations/disenchanter_block": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-28 03:19:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-06-28 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:19:08 +0000"
+    },
+    "done": true
+  },
+  "enchantmentmachine:recipes/decorations/enchanter_block": {
+    "criteria": {
+      "has_obsidian": "2025-06-28 03:20:02 +0000"
     },
     "done": true
   },

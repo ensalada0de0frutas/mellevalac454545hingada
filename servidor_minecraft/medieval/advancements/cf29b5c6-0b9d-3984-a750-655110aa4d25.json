@@ -2885,6 +2885,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 23:42:31 +0000",
       "cooked_beef": "2025-06-21 23:28:06 +0000",
+      "baked_potato": "2025-06-28 03:27:31 +0000",
       "apple": "2025-06-21 23:17:44 +0000",
       "potato": "2025-06-28 03:22:30 +0000",
       "rabbit_stew": "2025-06-21 23:17:40 +0000",
@@ -7685,6 +7686,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 03:27:29 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-28 01:29:39 +0000"
@@ -7865,6 +7872,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-06-28 03:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-28 01:08:14 +0000"
@@ -7961,6 +7974,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-06-28 03:34:54 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-06-27 23:42:14 +0000"
@@ -8000,6 +8019,12 @@
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-06-27 23:39:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 03:27:29 +0000"
     },
     "done": true
   },

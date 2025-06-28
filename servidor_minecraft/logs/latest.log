@@ -633,3 +633,69 @@
 [28Jun2025 02:35:48.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> nesecito yerba
 [28Jun2025 02:36:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [28Jun2025 02:36:38.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 02:37:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Skeleton
+[28Jun2025 02:37:49.705] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 02:38:02.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> JSKSAJSAKJA
+[28Jun2025 02:38:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1953 9 -1868
+[28Jun2025 02:38:11.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> que tonota
+[28Jun2025 02:38:23.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to 1953.500000, 9.000000, -1867.500000]
+[28Jun2025 02:39:21.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Diamonds!]
+[28Jun2025 02:39:26.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ya era hora
+[28Jun2025 02:39:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> miman
+[28Jun2025 02:39:42.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no
+[28Jun2025 02:39:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> jodete
+[28Jun2025 02:39:47.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> putos
+[28Jun2025 02:39:53.884] [ForkJoinPool.commonPool-worker-43/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[28Jun2025 02:39:53.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caraputi[/127.221.0.19:53239] logged in with entity id 89303 at (1563.477999662614, 177.0, -1391.699999988079)
+[28Jun2025 02:39:53.941] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player caraputi
+[28Jun2025 02:39:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi joined the game
+[28Jun2025 02:39:53.988] [Server thread/INFO] [Jade/]: Syncing config to caraputi (970c9ec0-23b6-3424-9863-29235517ebc7)
+[28Jun2025 02:39:55.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of caraputi (18)
+[28Jun2025 02:39:55.361] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to caraputi
+[28Jun2025 02:40:10.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 02:40:11.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 970c9ec0-23b6-3424-9863-29235517ebc7
+[28Jun2025 02:40:11.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player caraputi (970c9ec0-23b6-3424-9863-29235517ebc7) successfully connected to voice chat
+[28Jun2025 02:40:23.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stana'/89332, l='ServerLevel[medieval]', x=1563.65, y=177.00, z=-1392.66] died, message: 'Stana was slain by Zombie'
+[28Jun2025 02:40:23.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stana'/89332, l='ServerLevel[medieval]', x=1563.65, y=177.00, z=-1392.66] died: Stana was slain by Zombie
+[28Jun2025 02:40:23.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set [Muertes] for caraputi to 0]
+[28Jun2025 02:40:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> haceme tp
+[28Jun2025 02:40:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> estoy en mina
+[28Jun2025 02:40:54.809] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player caraputi just tried to change non-editable sign
+[28Jun2025 02:45:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Ashes 'n Bones]
+[28Jun2025 02:45:39.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> alguien le queda simbolos de valia?
+[28Jun2025 02:45:51.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> los re gastamos
+[28Jun2025 02:45:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no esperes q nos quede
+[28Jun2025 02:46:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 02:46:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> lal
+[28Jun2025 02:46:13.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 02:46:19.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Adventure Mode]
+[28Jun2025 02:46:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 02:46:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 02:46:26.430] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 02:46:26.431] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[28Jun2025 02:46:26.431] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[28Jun2025 02:46:26.431] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.432] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 02:46:26.433] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 02:46:36.932] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 02:46:43.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was shot by Skeleton
+[28Jun2025 02:46:43.869] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 02:46:44.773] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 02:46:44.774] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 02:46:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Crafting a New Look]
+[28Jun2025 02:46:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> JAJAJJAA
+[28Jun2025 02:46:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 1993 -3 -1987
+[28Jun2025 02:46:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> daleee
+[28Jun2025 02:46:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]

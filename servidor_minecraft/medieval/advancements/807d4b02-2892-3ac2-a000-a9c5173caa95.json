@@ -7796,21 +7796,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-28 04:43:59 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-28 04:45:34 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
-    "criteria": {
-      "has_bone_meal": "2025-06-28 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-28 04:59:34 +0000"
     },
     "done": true
   },
@@ -7826,25 +7820,6 @@
     },
     "done": true
   },
-  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
-    "criteria": {
-      "has_bone_meal": "2025-06-28 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-06-28 04:55:34 +0000",
-      "carrot": "2025-06-28 05:01:34 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-06-28 04:59:34 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-28 04:45:34 +0000"
@@ -7857,12 +7832,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-06-28 04:43:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_andesite_pillar_trim": "2025-06-28 04:45:34 +0000"
@@ -7872,18 +7841,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-28 04:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-06-28 04:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-28 05:06:23 +0000"
     },
     "done": true
   },
@@ -7911,12 +7868,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-06-28 05:06:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-28 04:45:34 +0000"
@@ -7926,12 +7877,6 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-06-28 04:45:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-06-28 05:02:25 +0000"
     },
     "done": true
   },
@@ -7956,6 +7901,61 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-28 04:45:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-06-28 04:55:34 +0000",
+      "carrot": "2025-06-28 05:01:34 +0000"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-06-28 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-28 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_bone_meal": "2025-06-28 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-06-28 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-28 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-28 05:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-28 05:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-06-28 05:06:23 +0000"
     },
     "done": true
   },

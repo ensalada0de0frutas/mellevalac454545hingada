@@ -7652,39 +7652,39 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_jungle_bridge": {
+  "toughasnails:recipes/combat/leaf_helmet": {
     "criteria": {
-      "has_planks": "2025-06-28 04:21:51 +0000"
+      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
+  "immersive_weathering:recipes/oak_leaves": {
     "criteria": {
-      "allay_deliver_item_to_player": "2025-06-28 01:56:35 +0000"
+      "has_copper_block": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+  "toughasnails:recipes/combat/leaf_leggings": {
     "criteria": {
-      "give_recipe": "2025-06-28 04:21:51 +0000"
+      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/jungle_log_bridge_middle": {
+  "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
-      "has_planks": "2025-06-28 04:21:51 +0000"
+      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
-      "has_flint": "2025-06-28 02:36:40 +0000"
+      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
-  "toughasnails:recipes/food/glow_berry_juice": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_glow_berries": "2025-06-28 00:28:07 +0000"
+      "has_redstone_block": "2025-06-27 23:40:13 +0000"
     },
     "done": true
   },
@@ -7694,57 +7694,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/leaf_helmet": {
-    "criteria": {
-      "has_leaves": "2025-06-27 23:39:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-06-28 03:27:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_pillar_trim": {
-    "criteria": {
-      "has_jungle_pillar_trim": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-06-28 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-28 02:39:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-28 01:27:16 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/decorations/thermoregulator": {
-    "criteria": {
-      "has_thermometer": "2025-06-28 00:27:28 +0000"
     },
     "done": true
   },
@@ -7766,15 +7718,381 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/jungle_side_table": {
+  "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
-      "has_jungle_side_table": "2025-06-28 04:21:51 +0000"
+      "has_planks": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-27 23:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-27 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-28 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-28 00:05:54 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-06-28 00:27:28 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-06-28 00:27:28 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-06-28 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-06-28 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-28 00:30:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-06-28 00:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-28 01:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-28 01:27:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-06-28 01:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-06-28 01:36:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-06-28 01:48:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-06-28 01:56:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-06-28 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-28 02:03:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-06-28 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-28 02:36:40 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-06-28 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 02:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 02:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 02:39:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-06-28 02:39:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-06-28 03:21:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-06-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 03:27:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-28 03:27:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-06-28 03:34:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-06-28 03:56:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-28 04:02:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:now_you_can_rest": {
+    "criteria": {
+      "now_you_can_rest_0": "2025-06-28 04:04:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-28 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-28 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-06-28 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-06-28 04:21:51 +0000"
     },
     "done": true
   },
@@ -7790,27 +8108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-28 01:29:11 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge_stair": {
-    "criteria": {
-      "has_planks": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_helmet": {
-    "criteria": {
-      "has_wool": "2025-06-28 04:24:43 +0000"
     },
     "done": true
   },
@@ -7820,87 +8120,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-28 00:28:07 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/redstone/temperature_gauge": {
-    "criteria": {
-      "has_thermometer": "2025-06-28 00:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-06-28 04:21:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 01:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-27 23:44:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-06-28 01:29:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-28 02:39:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/orange_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-06-28 02:39:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
     },
     "done": true
   },
@@ -7922,27 +8150,9 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/spruce_leaves": {
-    "criteria": {
-      "has_copper_block": "2025-06-28 03:56:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:now_you_can_rest": {
-    "criteria": {
-      "now_you_can_rest_0": "2025-06-28 04:04:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
     },
     "done": true
   },
@@ -7958,36 +8168,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-06-28 01:57:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 01:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-28 00:30:56 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:thats_a_dungeon": {
-    "criteria": {
-      "entered_large_dungeon": "2025-06-28 01:36:12 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-28 01:29:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-06-28 04:21:51 +0000"
@@ -8000,27 +8180,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/glass_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "sneak_grove": "2025-06-28 00:05:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-06-28 03:21:34 +0000"
     },
     "done": true
   },
@@ -8042,21 +8204,9 @@
     },
     "done": true
   },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-06-28 00:28:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2025-06-28 03:25:39 +0000"
     },
     "done": true
   },
@@ -8066,21 +8216,9 @@
     },
     "done": true
   },
-  "toughasnails:recipes/combat/wool_leggings": {
-    "criteria": {
-      "has_wool": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_chestplate": {
-    "criteria": {
-      "has_wool": "2025-06-28 04:24:43 +0000"
     },
     "done": true
   },
@@ -8090,33 +8228,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-28 01:08:14 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/oak_leaves": {
-    "criteria": {
-      "has_copper_block": "2025-06-27 23:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
     },
     "done": true
   },
@@ -8126,33 +8240,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "skeleton_skull": "2025-06-28 01:48:22 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/rose_gold_dust": {
-    "criteria": {
-      "has_item": "2025-06-28 02:39:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-06-28 04:24:43 +0000"
     },
     "done": true
   },
@@ -8177,12 +8267,6 @@
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
     },
     "done": true
   },
@@ -8216,12 +8300,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-27 23:40:13 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_desk": {
     "criteria": {
       "has_jungle_desk": "2025-06-28 04:21:51 +0000"
@@ -8234,51 +8312,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_cushion": {
-    "criteria": {
-      "has_cyan_cushion": "2025-06-28 04:24:43 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/leaf_leggings": {
-    "criteria": {
-      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
@@ -8300,12 +8342,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/purple_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
@@ -8315,12 +8351,6 @@
   "mca:recipes/decorations/red_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/wool_boots": {
-    "criteria": {
-      "has_wool": "2025-06-28 04:24:43 +0000"
     },
     "done": true
   },
@@ -8336,45 +8366,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-06-28 04:02:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-28 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-06-28 02:19:06 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:battle_hammer": {
-    "criteria": {
-      "has_battle_hammer": "2025-06-28 03:34:54 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/mosaic_glass": {
-    "criteria": {
-      "has_wood": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/leaf_chestplate": {
-    "criteria": {
-      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
@@ -8396,12 +8390,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
     "criteria": {
       "has_jungle_plank": "2025-06-28 04:21:51 +0000"
@@ -8420,33 +8408,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/glass_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-27 23:42:14 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_guard": {
-    "criteria": {
-      "coded_trigger": "2025-06-28 00:50:41 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/combat/leaf_boots": {
-    "criteria": {
-      "has_leaves": "2025-06-27 23:39:43 +0000"
     },
     "done": true
   },
@@ -8459,30 +8423,6 @@
   "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-28 03:27:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-06-28 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-06-28 02:03:11 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-06-28 00:05:54 +0000"
     },
     "done": true
   },
@@ -8507,6 +8447,66 @@
   "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 04:21:51 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-06-28 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-06-28 04:24:43 +0000"
     },
     "done": true
   },

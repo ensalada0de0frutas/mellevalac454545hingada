@@ -66,3 +66,40 @@
 [28Jun2025 00:22:48.791] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [28Jun2025 00:22:49.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [28Jun2025 00:23:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[28Jun2025 00:25:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg died because of Sofx0Loder
+[28Jun2025 00:25:18.892] [Server thread/INFO] [tombstone/]: The player itzloikg has successfully been saved
+[28Jun2025 00:25:23.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[28Jun2025 00:25:29.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has reached the goal [Here They Come]
+[28Jun2025 00:26:25.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 00:26:25.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[28Jun2025 00:26:25.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[28Jun2025 00:26:25.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[28Jun2025 00:26:25.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[28Jun2025 00:26:25.871] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 00:26:25.872] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[28Jun2025 00:26:39.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> que
+[28Jun2025 00:26:55.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> te gusta el pico?
+[28Jun2025 00:27:02.444] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 00:27:02.445] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 00:27:02.445] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 00:27:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Minecraft Comes Alive]
+[28Jun2025 00:28:48.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miloš'/22762, l='ServerLevel[medieval]', x=1587.52, y=176.17, z=-1454.50] died, message: 'Miloš was slain by Zombie'
+[28Jun2025 00:28:48.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Miloš'/22762, l='ServerLevel[medieval]', x=1587.52, y=176.17, z=-1454.50] died: Miloš was slain by Zombie
+[28Jun2025 00:28:53.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Denis'/22763, l='ServerLevel[medieval]', x=1564.39, y=165.00, z=-1495.38] died, message: 'Denis was slain by caraputi'
+[28Jun2025 00:28:53.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Denis'/22763, l='ServerLevel[medieval]', x=1564.39, y=165.00, z=-1495.38] died: Denis was slain by caraputi
+[28Jun2025 00:29:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Isn't It Iron Pick]
+[28Jun2025 00:30:17.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[28Jun2025 00:30:24.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Brankica'/22729, l='ServerLevel[medieval]', x=1629.72, y=177.44, z=-1470.97] died, message: 'Brankica went up in flames'
+[28Jun2025 00:30:24.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Brankica'/22729, l='ServerLevel[medieval]', x=1629.72, y=177.44, z=-1470.97] died: Brankica went up in flames
+[28Jun2025 00:30:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg has made the advancement [Sweet Dreams]

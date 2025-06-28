@@ -1858,3 +1858,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 17:16:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [28Jun2025 17:16:52.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
 [28Jun2025 17:16:59.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[28Jun2025 17:17:03.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[28Jun2025 17:17:03.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caraputi moved wrongly!
+[28Jun2025 17:17:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[28Jun2025 17:18:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed
+[28Jun2025 17:18:13.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Killed Flancito0_]
+[28Jun2025 17:18:13.568] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 17:18:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Skeleton
+[28Jun2025 17:18:31.943] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:18:42.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caraputi> 1201 99 -1066
+[28Jun2025 17:18:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported caraputi to 1205.500000, 96.000000, -1079.500000]
+[28Jun2025 17:21:41.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[28Jun2025 17:21:41.795] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:23:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[28Jun2025 17:23:07.393] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:23:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caraputi was slain by Husk
+[28Jun2025 17:23:59.596] [Server thread/INFO] [tombstone/]: The player caraputi has successfully been saved
+[28Jun2025 17:25:28.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died, message: 'Veronika hit the ground too hard'
+[28Jun2025 17:25:28.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Veronika'/39208, l='ServerLevel[medieval]', x=1143.46, y=90.00, z=-1105.39] died: Veronika fell from a high place

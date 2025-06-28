@@ -8510,5 +8510,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 17:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 17:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-28 17:16:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1920,3 +1920,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Jun2025 18:44:19.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
 [28Jun2025 18:44:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ froze to death
 [28Jun2025 18:44:23.058] [Server thread/INFO] [tombstone/]: The player Flancito0_ has successfully been saved
+[28Jun2025 18:44:27.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=611, y=150, z=-792} BlockPos{x=611, y=148, z=-792}
+[28Jun2025 18:44:27.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=611, y=150, z=-792} BlockPos{x=611, y=148, z=-792}
+[28Jun2025 18:44:35.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 518.500000, 98.500000, -1002.500000]
+[28Jun2025 18:47:47.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katri'/27408, l='ServerLevel[medieval]', x=967.15, y=60.00, z=-1330.13] died, message: 'Katri was slain by caraputi'
+[28Jun2025 18:47:47.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katri'/27408, l='ServerLevel[medieval]', x=967.15, y=60.00, z=-1330.13] died: Katri was slain by caraputi
+[28Jun2025 18:48:10.952] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player caraputi just tried to change non-editable sign
+[28Jun2025 18:49:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Called Your Bluff]
+[28Jun2025 18:50:19.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[28Jun2025 18:51:29.775] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[28Jun2025 18:51:45.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[28Jun2025 18:54:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to caraputi]
+[28Jun2025 18:54:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[28Jun2025 18:54:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]

@@ -110,6 +110,7 @@
       "minecraft:ocean": "2025-06-22 21:24:28 +0000",
       "minecraft:jungle": "2025-06-23 00:39:24 +0000",
       "minecraft:snowy_beach": "2025-06-28 03:54:24 +0000",
+      "minecraft:frozen_peaks": "2025-06-28 18:40:50 +0000",
       "minecraft:deep_dark": "2025-06-23 00:12:11 +0000",
       "minecraft:meadow": "2025-06-22 23:43:25 +0000",
       "minecraft:plains": "2025-06-21 23:02:55 +0000"
@@ -8225,6 +8226,12 @@
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-06-28 18:36:04 +0000"
     },
     "done": false
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-06-28 18:49:12 +0000"
+    },
+    "done": true
   },
   "simplyswords:simplyswords": {
     "criteria": {
